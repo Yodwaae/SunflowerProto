@@ -1466,3 +1466,321 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.14-14.00.03:037][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.14-14.00.03:037][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.14-14.00.03:037][926]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.14-14.01.47:720][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.14-14.01.47:734][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto4
+[2025.09.14-14.01.47:735][248]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto4B28164BE492579A79B3360B474128816.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto4.uasset'
+[2025.09.14-14.01.47:745][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto4
+[2025.09.14-14.01.47:746][248]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto4317CF2FF460409A873C7BE830E7F4810.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto4.uasset'
+[2025.09.14-14.01.47:747][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.091
+[2025.09.14-14.01.47:747][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2025.09.14-14.01.47:747][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.01.47:830][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.01.47:830][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.01.47:845][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto4
+[2025.09.14-14.01.47:846][248]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto44229333F4E684BC2940D528758DC863D.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto4.uasset'
+[2025.09.14-14.01.47:847][248]LogFileHelpers: Auto-saving content packages took 0.100
+[2025.09.14-14.04.52:370][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3165.082275
+[2025.09.14-14.04.52:489][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.04.52:489][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3165.191162, Update Interval: 332.287964
+[2025.09.14-14.09.20:439][478]LogEditorTransaction: Undo Set Rotation
+[2025.09.14-14.11.17:088][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3549.805176
+[2025.09.14-14.11.17:197][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.11.17:197][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3549.906738, Update Interval: 335.602295
+[2025.09.14-14.12.07:372][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.14-14.12.07:390][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto5
+[2025.09.14-14.12.07:391][430]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto532D3DD384E8A37EB0D3F2BACC1830361.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto5.uasset'
+[2025.09.14-14.12.07:403][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto5
+[2025.09.14-14.12.07:404][430]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto548935A2549833B1B6C7F30B1D5A9BDAC.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto5.uasset'
+[2025.09.14-14.12.07:405][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.080
+[2025.09.14-14.12.07:405][430]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2025.09.14-14.12.07:405][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.12.07:419][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.12.07:420][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.12.07:436][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto5
+[2025.09.14-14.12.07:437][430]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto50F5545C44DC4A93B0D5565BB0C86A101.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto5.uasset'
+[2025.09.14-14.12.07:438][430]LogFileHelpers: Auto-saving content packages took 0.034
+[2025.09.14-14.12.07:609][445]Cmd: TRANSACTION UNDO
+[2025.09.14-14.12.07:611][445]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.12.26:155][237]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.12.26:491][245]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.12.26:965][274]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.12.27:644][332]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.12.28:177][375]LogEditorTransaction: Undo Set Rotation
+[2025.09.14-14.12.28:825][429]LogEditorTransaction: Undo Set Rotation
+[2025.09.14-14.13.15:105][124]LogBlueprint: Error: [AssetLog] C:\Users\lucas\OneDrive\Documents\Unreal Projects\SunflowerFieldProto\SunflowerProto\Content\CustomContent\ProtoV4\BP_SolarPanelV4.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.09.14-14.13.15:181][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.14-14.13.35:976][384]LogEditorTransaction: Undo Delete current selection
+[2025.09.14-14.13.36:242][394]LogEditorTransaction: Undo Delete current selection
+[2025.09.14-14.13.36:514][405]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.13.36:858][439]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.13.37:167][469]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.13.48:595][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-14.13.48:616][708]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.13.48:666][708]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.13.48:666][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.13.48:685][708]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.14-14.13.48:685][708]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4193228174C3E77CB6835FC8F6DAD2D05.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.14-14.13.48:694][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.428 ms (total: 825.559 ms)
+[2025.09.14-14.13.48:725][708]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.14-14.13.48:725][708]LogContentValidation: Enabled validators:
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-14.13.48:725][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-14.13.48:725][708]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.14-14.13.49:739][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.09.14-14.13.56:395][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.14-14.14.00:800][ 88]LogDerivedDataCache: C:/Users/lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.14-14.15.05:089][339]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.15.05:282][341]LogEditorTransaction: Undo Edit Mobility
+[2025.09.14-14.16.23:547][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.14-14.17.41:484][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3934.212402
+[2025.09.14-14.17.41:627][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.17.41:627][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3934.343750, Update Interval: 324.776764
+[2025.09.14-14.18.23:619][392]Cmd: MODE GRID=0
+[2025.09.14-14.18.37:128][683]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.19.02:369][ 44]Cmd: MODE GRID=1
+[2025.09.14-14.20.38:244][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.14-14.20.46:173][812]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.14-14.22.07:673][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.09.14-14.22.07:688][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto6
+[2025.09.14-14.22.07:689][ 17]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto6937B7A014649AE47DDE70B95A4FED80E.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto6.uasset'
+[2025.09.14-14.22.07:701][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto6
+[2025.09.14-14.22.07:702][ 17]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto69CD6718F433F13CB3EE22D9855E4E327.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto6.uasset'
+[2025.09.14-14.22.07:703][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.070
+[2025.09.14-14.22.07:703][ 17]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2025.09.14-14.22.07:703][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.22.07:719][ 17]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.22.07:719][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.22.07:736][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto6
+[2025.09.14-14.22.07:736][ 17]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto6E8EFC85940402D36B9CF508F97B4BBBC.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto6.uasset'
+[2025.09.14-14.22.07:737][ 17]LogFileHelpers: Auto-saving content packages took 0.034
+[2025.09.14-14.23.54:904][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4307.651367
+[2025.09.14-14.23.55:030][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.23.55:030][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4307.765625, Update Interval: 350.992767
+[2025.09.14-14.29.00:857][ 27]LogEditorTransaction: Undo Attach Component
+[2025.09.14-14.30.43:170][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4715.912598
+[2025.09.14-14.30.43:511][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.30.43:511][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4716.242676, Update Interval: 346.233704
+[2025.09.14-14.32.07:941][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.09.14-14.32.07:960][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto7
+[2025.09.14-14.32.07:960][639]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto71972BAA4464222E2787C2E905FBAEE0D.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto7.uasset'
+[2025.09.14-14.32.07:973][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto7
+[2025.09.14-14.32.07:973][639]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto7D1DD620044873A77CA1D6FAEBBEFCF8B.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto7.uasset'
+[2025.09.14-14.32.07:975][639]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.089
+[2025.09.14-14.32.07:975][639]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2025.09.14-14.32.07:975][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.32.08:076][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.32.08:076][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.32.08:095][639]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto7
+[2025.09.14-14.32.08:095][639]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto75143794C4B0A6AE9F182F0BDB9C9DA62.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto7.uasset'
+[2025.09.14-14.32.08:096][639]LogFileHelpers: Auto-saving content packages took 0.122
+[2025.09.14-14.37.01:923][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5094.687012
+[2025.09.14-14.37.02:074][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.37.02:074][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5094.826660, Update Interval: 355.464355
+[2025.09.14-14.41.43:132][268]LogEditorTransaction: Undo Set Location
+[2025.09.14-14.41.43:721][291]LogEditorTransaction: Undo Set Location
+[2025.09.14-14.43.31:344][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.14-14.43.41:231][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5493.993164
+[2025.09.14-14.43.41:383][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.43.41:383][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5494.133301, Update Interval: 352.323975
+[2025.09.14-14.46.21:641][787]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.09.14-14.46.52:810][366]LogEditorTransaction: Undo Move Node
+[2025.09.14-14.46.53:377][390]LogEditorTransaction: Undo Rename Node
+[2025.09.14-14.46.53:880][438]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2025.09.14-14.47.04:922][638]LogEditorTransaction: Undo Move Nodes
+[2025.09.14-14.47.53:462][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-14.47.53:494][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.47.53:549][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.47.53:549][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.47.53:572][184]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.14-14.47.53:573][184]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4AA62727345A5E81435D58DBF1E400347.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.14-14.47.53:582][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.214 ms (total: 944.774 ms)
+[2025.09.14-14.47.53:602][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.14-14.47.53:602][184]LogContentValidation: Enabled validators:
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-14.47.53:602][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-14.47.53:603][184]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.14-14.47.55:410][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.14-14.48.29:118][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.14-14.48.29:133][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8
+[2025.09.14-14.48.29:133][590]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto8A6D1A43E4520D7C5DE52EAAA17183CCB.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8.uasset'
+[2025.09.14-14.48.29:146][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8
+[2025.09.14-14.48.29:146][590]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto86D87CE7C4141F36ED1EA52AA55696E32.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8.uasset'
+[2025.09.14-14.48.29:148][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.068
+[2025.09.14-14.48.29:148][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2025.09.14-14.49.17:711][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.14-14.49.17:728][102]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.14-14.49.17:728][102]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.14-14.49.17:734][102]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 6.466 ms (total: 16.248 ms)
+[2025.09.14-14.49.17:735][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.14-14.49.17:735][102]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.14-14.49.17:770][102]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.14-14.49.17:778][102]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.000 ms (total: 15.809 ms)
+[2025.09.14-14.49.17:780][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045319s)
+[2025.09.14-14.49.17:780][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.045369s)
+[2025.09.14-14.49.17:817][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.14-14.49.17:820][102]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.14-14.49.17:822][102]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.14-14.49.17:822][102]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.14-14.49.17:822][102]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.14-14.49.17:822][102]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.14-14.49.17:833][102]LogWorldPartition: Display: WorldPartition initialize took 11.345 ms (total: 1.52 sec)
+[2025.09.14-14.49.17:833][102]LogPlayLevel: PIE: World Init took: (0.014137s)
+[2025.09.14-14.49.17:834][102]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.14-14.49.17:834][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.14-14.49.17:834][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.14-14.49.17:834][102]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.14-14.49.17:834][102]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.14-14.49.17:834][102]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.14-14.49.17:836][102]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.14-14.49.17:867][102]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Logitech PRO X Wireless Gaming Headset)
+[2025.09.14-14.49.17:868][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.14-14.49.17:868][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.14-14.49.17:868][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.14-14.49.17:868][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.14-14.49.17:869][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2025.09.14-14.49.17:871][102]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.14-14.49.17:871][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.14-14.49.17:871][102]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_ProtoV4'.
+[2025.09.14-14.49.17:871][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.14-14.49.17:871][102]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.14-14.49.17:878][102]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.14-14.49.17:880][102]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.14-16.49.17
+[2025.09.14-14.49.17:880][102]LogWorld: Bringing up level for play took: 0.002088
+[2025.09.14-14.49.17:884][102]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.14-14.49.17:907][102]LogStreaming: Display: FlushAsyncLoading(785,784,783,782,781,780,779,778,777,776,775,774,773,772,771,770,769,768,767,766,765,764,763,762,761,760,759,758,757,756,755,754,753,752,751,750,749,748,747,746,745,741,742,743,744): 45 QueuedPackages, 0 AsyncPackages
+[2025.09.14-14.49.18:165][102]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.14-14.49.18:166][102]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.14-14.49.18:207][102]PIE: Server logged in
+[2025.09.14-14.49.18:210][102]PIE: Play in editor total start time 0,482 seconds.
+[2025.09.14-14.49.18:357][103]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.14-14.49.22:161][403]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.14-14.49.22:162][403]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.14-14.49.23:406][517]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.14-14.49.23:406][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.14-14.49.25:675][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.14-14.49.25:675][702]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.14-14.49.25:687][702]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.14-14.49.25:687][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-14.49.25:687][702]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.14-14.49.25:691][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.14-14.49.25:699][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-14.49.25:745][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.14-14.49.25:745][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.14-14.49.25:745][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.14-14.49.25:747][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.14-14.49.25:765][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.09.14-14.49.25:824][703]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.14-14.49.29:997][ 58]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.14-14.49.29:998][ 58]Can't find target element.
+[2025.09.14-14.49.31:563][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.14-14.50.29:186][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5901.956543
+[2025.09.14-14.50.29:319][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-14.50.29:319][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5902.078613, Update Interval: 315.229340
+[2025.09.14-14.50.34:503][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.14-14.50.37:005][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.14-14.50.37:012][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-14.50.37:054][141]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT
+[2025.09.14-14.50.37:054][141]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKTEE0B70B946E648C397EF049496AF1EB1.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT.uasset'
+[2025.09.14-14.50.37:069][141]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI
+[2025.09.14-14.50.37:069][141]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI08E883BF408F77850A78FE9B07E4D7AB.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI.uasset'
+[2025.09.14-14.50.37:071][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.14-14.50.37:137][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.14-14.50.37:137][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.14-14.50.37:162][141]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.14-14.50.37:162][141]LogSavePackage: Moving 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Saved/BP_SolarPanelV4247B03934813D172390179A826A1BF8F.tmp' to 'C:/Users/lucas/OneDrive/Documents/Unreal Projects/SunflowerFieldProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.14-14.50.37:173][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.059 ms (total: 1.10 sec)
+[2025.09.14-14.50.37:205][141]LogContentValidation: Display: Starting to validate 7 assets
+[2025.09.14-14.50.37:205][141]LogContentValidation: Enabled validators:
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-14.50.37:205][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-14.50.37:205][141]AssetCheck: /Game/CustomContent/ProtoV4/L_ProtoV4 Validating asset
+[2025.09.14-14.50.37:205][141]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.14-14.50.40:033][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.14-14.50.40:052][365]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.14-14.50.40:052][365]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.14-14.50.40:055][365]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 3.006 ms (total: 19.254 ms)
+[2025.09.14-14.50.40:061][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.14-14.50.40:061][365]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.14-14.50.40:091][365]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.14-14.50.40:099][365]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.851 ms (total: 23.660 ms)
+[2025.09.14-14.50.40:100][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039152s)
+[2025.09.14-14.50.40:100][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.039183s)
+[2025.09.14-14.50.40:136][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.14-14.50.40:138][365]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.14-14.50.40:140][365]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.14-14.50.40:140][365]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.14-14.50.40:140][365]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.14-14.50.40:140][365]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.14-14.50.40:152][365]LogWorldPartition: Display: WorldPartition initialize took 11.660 ms (total: 1.53 sec)
+[2025.09.14-14.50.40:152][365]LogPlayLevel: PIE: World Init took: (0.013661s)
+[2025.09.14-14.50.40:153][365]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.14-14.50.40:153][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.14-14.50.40:153][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.14-14.50.40:153][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.14-14.50.40:153][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.14-14.50.40:153][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.14-14.50.40:156][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.14-14.50.40:186][365]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Logitech PRO X Wireless Gaming Headset)
+[2025.09.14-14.50.40:187][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.14-14.50.40:187][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.14-14.50.40:187][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.14-14.50.40:187][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.14-14.50.40:187][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.09.14-14.50.40:191][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.14-14.50.40:191][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.14-14.50.40:191][365]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.14-14.50.40:191][365]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_ProtoV4'.
+[2025.09.14-14.50.40:191][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.14-14.50.40:195][365]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.14-14.50.40:197][365]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.14-16.50.40
+[2025.09.14-14.50.40:197][365]LogWorld: Bringing up level for play took: 0.002081
+[2025.09.14-14.50.40:200][365]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.14-14.50.40:208][365]LogStreaming: Display: FlushAsyncLoading(835,834,833,832,831,830,829,828,827,826,825,824,823,822,821,820,819,818,817,816,815,814,813,812,811,810,809,808,807,806,805,804,803,802,801,800,799,798,797,796,793,794,795,791,792,790,786,787,788,789): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.14-14.50.40:462][365]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.14-14.50.40:462][365]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.14-14.50.40:511][365]PIE: Server logged in
+[2025.09.14-14.50.40:514][365]PIE: Play in editor total start time 0,463 seconds.
+[2025.09.14-14.50.40:645][366]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.14-14.50.46:893][894]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.14-14.50.46:893][894]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.14-14.51.05:445][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.14-14.51.05:445][781]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.14-14.51.05:457][781]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.14-14.51.05:457][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-14.51.05:457][781]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.14-14.51.05:459][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.14-14.51.05:467][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-14.51.05:511][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.14-14.51.05:512][781]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.14-14.51.05:512][781]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.09.14-14.51.05:515][781]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.09.14-14.51.05:529][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.14-14.51.05:596][782]LogPlayLevel: Display: Destroying online subsystem :Context_12
