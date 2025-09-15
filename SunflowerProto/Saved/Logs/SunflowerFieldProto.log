@@ -2770,3 +2770,452 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.15-09.01.00:979][267]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
 [2025.09.15-09.01.00:993][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
 [2025.09.15-09.01.01:078][268]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.09.15-09.02.05:420][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6381.963379
+[2025.09.15-09.02.06:417][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-09.02.06:417][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6382.629395, Update Interval: 341.837219
+[2025.09.15-09.03.40:972][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-09.03.41:023][277]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.15-09.03.41:079][277]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.15-09.03.41:079][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.15-09.03.41:098][277]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.15-09.03.41:100][277]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV404AD636042FA66025E3EB6851F8DFF59.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.15-09.03.41:112][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.774 ms (total: 2.71 sec)
+[2025.09.15-09.03.41:156][277]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-09.03.41:157][277]LogContentValidation: Enabled validators:
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-09.03.41:157][277]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-09.03.41:157][277]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.15-09.03.42:473][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.15-09.03.44:184][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.15-09.03.44:208][518]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.15-09.03.44:208][518]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.15-09.03.44:211][518]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.725 ms (total: 23.128 ms)
+[2025.09.15-09.03.44:212][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-09.03.44:235][518]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.03.44:281][518]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.15-09.03.44:286][518]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.187 ms (total: 51.734 ms)
+[2025.09.15-09.03.44:287][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052685s)
+[2025.09.15-09.03.44:287][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.052774s)
+[2025.09.15-09.03.44:312][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.15-09.03.44:320][518]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.15-09.03.44:321][518]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.15-09.03.44:321][518]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.15-09.03.44:321][518]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.15-09.03.44:321][518]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.15-09.03.44:330][518]LogWorldPartition: Display: WorldPartition initialize took 9.634 ms (total: 828.225 ms)
+[2025.09.15-09.03.44:331][518]LogPlayLevel: PIE: World Init took: (0.011508s)
+[2025.09.15-09.03.44:331][518]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-09.03.44:331][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-09.03.44:332][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-09.03.44:332][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-09.03.44:332][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-09.03.44:332][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-09.03.44:332][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-09.03.44:334][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-09.03.44:353][518]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.15-09.03.44:353][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-09.03.44:353][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-09.03.44:353][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-09.03.44:353][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.15-09.03.44:353][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.15-09.03.44:356][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.15-09.03.44:356][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.15-09.03.44:356][518]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.15-09.03.44:356][518]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_ProtoV4'.
+[2025.09.15-09.03.44:356][518]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.15-09.03.44:360][518]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.15-09.03.44:362][518]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.15-11.03.44
+[2025.09.15-09.03.44:363][518]LogWorld: Bringing up level for play took: 0.002020
+[2025.09.15-09.03.44:365][518]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.09.15-09.03.44:378][518]LogStreaming: Display: FlushAsyncLoading(1084,1083,1082,1081,1080,1079,1078,1077,1076,1075,1074,1073,1072,1071,1070,1069,1068,1067,1066,1065,1064,1063,1062,1061,1060,1059,1058,1057,1056,1055,1054,1053,1052,1051,1050,1049,1048,1047,1046,1045,1042,1043,1044,1041,1037,1038,1039,1040): 48 QueuedPackages, 0 AsyncPackages
+[2025.09.15-09.03.44:693][518]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.15-09.03.44:693][518]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.15-09.03.44:754][518]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_0
+[2025.09.15-09.03.44:754][518]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_1
+[2025.09.15-09.03.44:754][518]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_2
+[2025.09.15-09.03.44:754][518]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_3
+[2025.09.15-09.03.44:755][518]PIE: Server logged in
+[2025.09.15-09.03.44:757][518]PIE: Play in editor total start time 0,549 seconds.
+[2025.09.15-09.03.44:947][519]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.15-09.04.01:924][404]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.15-09.04.01:924][404]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.15-09.04.11:848][507]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.15-09.04.11:848][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.15-09.04.14:415][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.04.14:415][789]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.04.14:430][789]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.04.14:430][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.04.14:430][789]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.15-09.04.14:433][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-09.04.14:439][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.04.14:478][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-09.04.14:479][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.15-09.04.14:479][789]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.09.15-09.04.14:481][789]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.09.15-09.04.14:485][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.04.14:494][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.15-09.04.14:578][790]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.09.15-09.06.32:900][964]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleur (Realtek(R) Audio), InstanceID=1
+[2025.09.15-09.06.32:900][964]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{af0beef5-55d6-4281-b3f2-adf20ac030f8}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.15-09.06.32:904][964]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.09.15-09.06.33:182][964]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{af0beef5-55d6-4281-b3f2-adf20ac030f8}]
+[2025.09.15-09.06.33:182][964]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.15-09.06.33:182][964]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.09.15-09.06.33:515][965]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af0beef5-55d6-4281-b3f2-adf20ac030f8}, Name=Haut-parleur (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=307.77
+[2025.09.15-09.06.33:515][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.15-09.06.33:515][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.15-09.06.33:516][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.15-09.08.39:540][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6776.048828
+[2025.09.15-09.08.40:539][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-09.08.40:539][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6776.715820, Update Interval: 340.907013
+[2025.09.15-09.09.15:643][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.15-09.09.15:659][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8
+[2025.09.15-09.09.15:661][451]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto85705A9CC4436CEFB6EBB759EF02A45EC.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8.uasset'
+[2025.09.15-09.09.15:671][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8
+[2025.09.15-09.09.15:672][451]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto8B09FB38643476B763B039DACBA8D2C7D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8.uasset'
+[2025.09.15-09.09.15:676][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.069
+[2025.09.15-09.09.15:676][451]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2025.09.15-09.09.15:677][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.15-09.09.15:763][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.15-09.09.15:763][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.15-09.09.15:782][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto8
+[2025.09.15-09.09.15:782][451]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto889D585BD43153E080BB2598DCDDE7BFD.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto8.uasset'
+[2025.09.15-09.09.15:784][451]LogFileHelpers: Auto-saving content packages took 0.108
+[2025.09.15-09.13.27:344][207]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DELL C3422WE (NVIDIA High Definition Audio), InstanceID=1
+[2025.09.15-09.13.27:344][207]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{e3e6d6fa-d36d-4a39-b13b-50c7210b0094}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.09.15-09.13.27:575][207]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{e3e6d6fa-d36d-4a39-b13b-50c7210b0094}]
+[2025.09.15-09.13.27:576][207]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.09.15-09.13.27:576][207]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.09.15-09.13.27:912][208]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e3e6d6fa-d36d-4a39-b13b-50c7210b0094}, Name=DELL C3422WE (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.05
+[2025.09.15-09.13.27:912][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.15-09.13.27:912][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.15-09.13.27:914][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.15-09.14.54:864][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.15-09.15.03:061][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-09.15.03:113][573]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.15-09.15.03:184][573]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.15-09.15.03:184][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.15-09.15.03:202][573]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.15-09.15.03:204][573]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV413AF019941D7C938876397A2DA84F0D0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.15-09.15.03:216][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.566 ms (total: 2.87 sec)
+[2025.09.15-09.15.03:287][573]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-09.15.03:287][573]LogContentValidation: Enabled validators:
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-09.15.03:287][573]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-09.15.03:288][573]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.15-09.15.08:364][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-09.15.08:416][101]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.15-09.15.08:416][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.15-09.15.08:436][101]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.15-09.15.08:438][101]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4D8F451DF423305D60808368221867B9A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.15-09.15.08:449][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.506 ms (total: 2.96 sec)
+[2025.09.15-09.15.08:518][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.15-09.15.08:518][101]LogContentValidation: Enabled validators:
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-09.15.08:518][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-09.15.08:518][101]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.15-09.15.08:536][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7164.993652
+[2025.09.15-09.15.08:692][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.15-09.15.08:692][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7165.139648, Update Interval: 334.190491
+[2025.09.15-09.15.11:920][411]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.15-09.15.11:945][411]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.15-09.15.11:945][411]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.15-09.15.11:948][411]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 3.025 ms (total: 26.154 ms)
+[2025.09.15-09.15.11:948][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-09.15.11:982][411]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.15.12:038][411]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.15-09.15.12:044][411]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.939 ms (total: 58.673 ms)
+[2025.09.15-09.15.12:046][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064515s)
+[2025.09.15-09.15.12:046][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.064607s)
+[2025.09.15-09.15.12:076][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.15-09.15.12:084][411]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.15-09.15.12:086][411]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.15-09.15.12:086][411]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.15-09.15.12:086][411]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.15-09.15.12:086][411]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.15-09.15.12:094][411]LogWorldPartition: Display: WorldPartition initialize took 9.440 ms (total: 837.666 ms)
+[2025.09.15-09.15.12:095][411]LogPlayLevel: PIE: World Init took: (0.011415s)
+[2025.09.15-09.15.12:096][411]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-09.15.12:096][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-09.15.12:096][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-09.15.12:096][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-09.15.12:096][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-09.15.12:096][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-09.15.12:097][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-09.15.12:113][411]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.15-09.15.12:113][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-09.15.12:113][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-09.15.12:113][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-09.15.12:113][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.09.15-09.15.12:113][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.09.15-09.15.12:116][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.09.15-09.15.12:116][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.09.15-09.15.12:116][411]LogInit: FAudioDevice initialized with ID 10.
+[2025.09.15-09.15.12:116][411]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_ProtoV4'.
+[2025.09.15-09.15.12:116][411]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.15-09.15.12:120][411]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.15-09.15.12:122][411]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.15-11.15.12
+[2025.09.15-09.15.12:122][411]LogWorld: Bringing up level for play took: 0.001945
+[2025.09.15-09.15.12:125][411]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.09.15-09.15.12:144][411]LogStreaming: Display: FlushAsyncLoading(1129,1128,1127,1126,1125,1124,1123,1122,1121,1120,1119,1118,1117,1116,1115,1114,1113,1112,1111,1110,1109,1108,1107,1106,1105,1104,1103,1102,1101,1100,1099,1098,1097,1096,1095,1094,1093,1092,1091,1090,1089,1085,1086,1087,1088): 45 QueuedPackages, 0 AsyncPackages
+[2025.09.15-09.15.12:369][411]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.15-09.15.12:369][411]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.15-09.15.12:425][411]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_0
+[2025.09.15-09.15.12:425][411]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_1
+[2025.09.15-09.15.12:425][411]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_2
+[2025.09.15-09.15.12:426][411]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_3
+[2025.09.15-09.15.12:427][411]PIE: Server logged in
+[2025.09.15-09.15.12:429][411]PIE: Play in editor total start time 0,484 seconds.
+[2025.09.15-09.15.12:597][412]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.15-09.15.15:282][689]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.15-09.15.15:282][689]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.15-09.15.22:951][548]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.15-09.15.22:951][548]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.15-09.15.35:072][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.15.35:072][905]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.15.35:089][905]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.15.35:089][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.15.35:089][905]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.15-09.15.35:092][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-09.15.35:099][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.15.35:133][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.15-09.15.35:134][905]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.09.15-09.15.35:134][905]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.09.15-09.15.35:136][905]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.09.15-09.15.35:141][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.15.35:151][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.15-09.15.35:240][906]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.09.15-09.15.42:841][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.15-09.15.42:866][527]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.15-09.15.42:866][527]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.15-09.15.42:870][527]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.947 ms (total: 29.101 ms)
+[2025.09.15-09.15.42:870][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.15-09.15.42:870][527]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.15.42:897][527]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.15-09.15.42:904][527]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.262 ms (total: 64.936 ms)
+[2025.09.15-09.15.42:906][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035630s)
+[2025.09.15-09.15.42:906][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.035662s)
+[2025.09.15-09.15.42:935][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.15-09.15.42:937][527]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.15-09.15.42:939][527]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.15-09.15.42:939][527]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.15-09.15.42:939][527]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.15-09.15.42:939][527]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.15-09.15.42:948][527]LogWorldPartition: Display: WorldPartition initialize took 9.149 ms (total: 846.815 ms)
+[2025.09.15-09.15.42:948][527]LogPlayLevel: PIE: World Init took: (0.010915s)
+[2025.09.15-09.15.42:949][527]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.15-09.15.42:949][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.15-09.15.42:949][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.15-09.15.42:949][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.15-09.15.42:949][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.15-09.15.42:949][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.15-09.15.42:951][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.15-09.15.42:965][527]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.15-09.15.42:965][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.15-09.15.42:965][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.15-09.15.42:965][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.15-09.15.42:965][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.09.15-09.15.42:965][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.09.15-09.15.42:968][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.09.15-09.15.42:968][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.09.15-09.15.42:968][527]LogInit: FAudioDevice initialized with ID 11.
+[2025.09.15-09.15.42:968][527]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_ProtoV4'.
+[2025.09.15-09.15.42:968][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.15-09.15.42:972][527]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.15-09.15.42:974][527]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.15-11.15.42
+[2025.09.15-09.15.42:975][527]LogWorld: Bringing up level for play took: 0.002035
+[2025.09.15-09.15.42:977][527]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.09.15-09.15.42:996][527]LogStreaming: Display: FlushAsyncLoading(1174,1173,1172,1171,1170,1169,1168,1167,1166,1165,1164,1163,1162,1161,1160,1159,1158,1157,1156,1155,1154,1153,1152,1151,1150,1149,1148,1147,1146,1145,1144,1143,1142,1141,1140,1139,1138,1137,1136,1135,1134,1130,1131,1132,1133): 45 QueuedPackages, 0 AsyncPackages
+[2025.09.15-09.15.43:219][527]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.15-09.15.43:219][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.15-09.15.43:274][527]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_0
+[2025.09.15-09.15.43:274][527]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_1
+[2025.09.15-09.15.43:274][527]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_2
+[2025.09.15-09.15.43:274][527]LogBlueprintUserMessages: [BP_SolarPanelV4_C_UAID_4C1D960C1C7C215B02_1873820399] BP_TetroV4_C_3
+[2025.09.15-09.15.43:275][527]PIE: Server logged in
+[2025.09.15-09.15.43:278][527]PIE: Play in editor total start time 0,411 seconds.
+[2025.09.15-09.15.43:461][528]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.15-09.15.52:633][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.15.52:633][505]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.15-09.15.52:650][505]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.15.52:650][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.15.52:650][505]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.15-09.15.52:652][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.15-09.15.52:660][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.15.52:698][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.15-09.15.52:699][505]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.09.15-09.15.52:699][505]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.09.15-09.15.52:702][505]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.09.15-09.15.52:714][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.15-09.15.52:799][506]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.09.15-09.15.56:856][743]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/M_Tetro_J.M_Tetro_J
+[2025.09.15-09.15.56:951][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.09.15-09.17.30:434][657]LogDerivedDataCache: C:/Users/lspitzdrev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.15-09.18.14:778][314]LogSlate: Window 'Message' being destroyed
+[2025.09.15-09.18.14:785][314]Message dialog closed, result: Yes, title: Message, text: Plugin 'Static Mesh Editor Modeling Mode' is a beta version. Epic recommends using caution when shipping projects with beta plugins. Beta plugins support backwards compatibility for assets and APIs, but performance, stability, and platform support may not be shipping quality. Are you sure you want to enable the plugin?
+[2025.09.15-09.18.17:294][491]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.09.15-09.18.17:348][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.15-09.18.19:682][491]LogSlate: Window 'Save Content' being destroyed
+[2025.09.15-09.18.19:692][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.15-09.18.19:783][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.15-09.18.19:809][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.15-09.18.19:834][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.15-09.18.19:848][491]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT
+[2025.09.15-09.18.19:850][491]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT9162A1BD4EADBF82988789847F2241DC.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT.uasset'
+[2025.09.15-09.18.19:861][491]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI
+[2025.09.15-09.18.19:862][491]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI257A775845F618254807D2983BCFA2FE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI.uasset'
+[2025.09.15-09.18.19:875][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.300 ms (total: 3.14 sec)
+[2025.09.15-09.18.20:126][491]LogStall: Shutdown...
+[2025.09.15-09.18.20:126][491]LogStall: Shutdown complete.
+[2025.09.15-09.18.20:223][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-09.18.20:223][491]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:223][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.20:344][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-09.18.20:344][491]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:344][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.20:459][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-09.18.20:459][491]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:459][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.20:573][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-09.18.20:573][491]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:573][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.20:680][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.15-09.18.20:681][491]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:681][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.20:753][491]LogSlate: Window 'M_Tetro_J' being destroyed
+[2025.09.15-09.18.20:830][491]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.20:830][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:003][491]LogSlate: Window 'Plugins' being destroyed
+[2025.09.15-09.18.21:006][491]LogSlate: Window 'SunflowerFieldProto - Unreal Editor' being destroyed
+[2025.09.15-09.18.21:007][491]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.09.15-09.18.21:298][492]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.15-09.18.21:299][492]LogContentValidation: Enabled validators:
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.15-09.18.21:299][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.15-09.18.21:299][492]AssetCheck: /Game/CustomContent/ProtoV4/L_ProtoV4 Validating asset
+[2025.09.15-09.18.21:371][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.15-09.18.21:408][492]Cmd: QUIT_EDITOR
+[2025.09.15-09.18.21:408][493]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.15-09.18.21:443][493]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.15-09.18.21:445][493]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.15-09.18.21:445][493]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.15-09.18.21:479][493]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:480][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:480][493]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4
+[2025.09.15-09.18.21:543][493]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.15-09.18.21:543][493]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.15-09.18.21:545][493]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.15-09.18.21:556][493]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:556][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:559][493]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:559][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:562][493]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:562][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:565][493]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:565][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:568][493]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:568][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:571][493]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:571][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:577][493]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:577][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:580][493]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.15-09.18.21:580][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.15-09.18.21:585][493]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.15-09.18.21:585][493]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.15-09.18.21:593][493]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.15-09.18.22:422][493]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.15-09.18.22:422][493]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.15-09.18.22:422][493]LogAudio: Display: Audio Device unregistered from world 'L_ProtoV4'.
+[2025.09.15-09.18.22:422][493]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.15-09.18.22:422][493]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.15-09.18.22:424][493]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.15-09.18.22:435][493]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.15-09.18.22:435][493]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.15-09.18.22:439][493]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.15-09.18.22:441][493]LogExit: Preparing to exit.
+[2025.09.15-09.18.22:530][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.15-09.18.22:533][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:533][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:533][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.22:534][493]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.15-09.18.23:839][493]LogEditorDataStorage: Deinitializing
+[2025.09.15-09.18.24:046][493]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.15-09.18.24:093][493]LogExit: Editor shut down
+[2025.09.15-09.18.24:104][493]LogExit: Transaction tracking system shut down
+[2025.09.15-09.18.24:543][493]LogExit: Object subsystem successfully closed.
+[2025.09.15-09.18.24:570][493]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.15-09.18.24:776][493]LogMemoryProfiler: Shutdown
+[2025.09.15-09.18.24:777][493]LogNetworkingProfiler: Shutdown
+[2025.09.15-09.18.24:777][493]LoadingProfiler: Shutdown
+[2025.09.15-09.18.24:777][493]LogTimingProfiler: Shutdown
+[2025.09.15-09.18.24:781][493]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.15-09.18.24:782][493]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.15-09.18.25:317][493]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.15-09.18.25:323][493]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.15-09.18.25:338][493]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.15-09.18.25:338][493]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC512A62-4647-4FAF-2A0C-6ABF377FADC9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=8cda99f2406f4339d62326ab3021f500%7C098e878ed3ed4e92acf52d0430701fca%7Cae3185b1-571f-41f0-aad4-a248dbfe130c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.15-09.18.25:887][493]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.15-09.18.25:887][493]RenderDocPlugin: plugin has been unloaded.
+[2025.09.15-09.18.25:895][493]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.15-09.18.25:895][493]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.15-09.18.25:895][493]LogPakFile: Destroying PakPlatformFile
+[2025.09.15-09.18.26:664][493]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.15-09.18.26:697][493]LogExit: Exiting.
+[2025.09.15-09.18.26:753][493]Log file closed, 09/15/25 11:18:26
