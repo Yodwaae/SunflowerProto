@@ -2422,3 +2422,1388 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.18-08.07.24:901][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2025.09.18-08.07.24:985][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2025.09.18-08.09.02:489][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.18-08.10.51:068][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.18-08.10.51:093][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto2
+[2025.09.18-08.10.51:095][566]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto2504837AB47EBB1FDE942C2AFD7FCE7B7.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto2.uasset'
+[2025.09.18-08.10.51:116][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto2
+[2025.09.18-08.10.51:118][566]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto268708A984D10CFC8E6CCFAB96A9FAEE0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto2.uasset'
+[2025.09.18-08.10.51:124][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.091
+[2025.09.18-08.10.51:124][566]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2025.09.18-08.10.51:124][566]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4] ([2] browsable assets)...
+[2025.09.18-08.10.51:124][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4]
+[2025.09.18-08.10.51:161][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4_Auto2
+[2025.09.18-08.10.51:163][566]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_PuzzlePawnV4_Auto2D1299EFC465C5F825604729DF060F126.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4_Auto2.uasset'
+[2025.09.18-08.10.51:167][566]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.10.51:167][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.10.51:187][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_TetroV4_Auto2
+[2025.09.18-08.10.51:187][566]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV4_Auto257B05B4446D125DC55BA1294FF918314.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_TetroV4_Auto2.uasset'
+[2025.09.18-08.10.51:190][566]LogFileHelpers: Auto-saving content packages took 0.066
+[2025.09.18-08.13.09:360][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.13.09:393][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4] ([2] browsable assets)...
+[2025.09.18-08.13.09:393][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4]
+[2025.09.18-08.13.09:427][231]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4
+[2025.09.18-08.13.09:430][231]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_PuzzlePawnV425D4875A4EFFB29FE351E48DC15B0212.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_PuzzlePawnV4.uasset'
+[2025.09.18-08.13.09:442][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.851 ms (total: 1.30 sec)
+[2025.09.18-08.13.09:510][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.13.09:510][231]LogContentValidation: Enabled validators:
+[2025.09.18-08.13.09:510][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.13.09:510][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.13.09:510][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.13.09:510][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.13.09:510][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.13.09:511][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.13.09:511][231]AssetCheck: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4 Validating asset
+[2025.09.18-08.13.40:729][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2112.418945
+[2025.09.18-08.13.40:874][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.13.40:874][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2112.552490, Update Interval: 343.111664
+[2025.09.18-08.14.02:149][265]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.14.02:174][265]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.14.02:174][265]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.14.02:179][265]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 5.388 ms (total: 52.233 ms)
+[2025.09.18-08.14.02:179][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.14.02:210][265]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.14.02:246][265]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.14.02:253][265]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.016 ms (total: 86.679 ms)
+[2025.09.18-08.14.02:257][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046678s)
+[2025.09.18-08.14.02:257][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.046728s)
+[2025.09.18-08.14.02:291][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.18-08.14.02:293][265]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.14.02:296][265]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.14.02:296][265]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.14.02:296][265]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.14.02:296][265]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.14.02:304][265]LogWorldPartition: Display: WorldPartition initialize took 8.838 ms (total: 945.810 ms)
+[2025.09.18-08.14.02:304][265]LogPlayLevel: PIE: World Init took: (0.011561s)
+[2025.09.18-08.14.02:305][265]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.14.02:305][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.14.02:305][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.14.02:305][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.14.02:305][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.14.02:305][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.14.02:307][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.14.02:327][265]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.14.02:327][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.14.02:327][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.14.02:327][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.14.02:327][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.09.18-08.14.02:327][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.09.18-08.14.02:329][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.09.18-08.14.02:329][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.09.18-08.14.02:329][265]LogInit: FAudioDevice initialized with ID 15.
+[2025.09.18-08.14.02:329][265]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_ProtoV4'.
+[2025.09.18-08.14.02:329][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.18-08.14.02:334][265]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.14.02:336][265]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.14.02
+[2025.09.18-08.14.02:336][265]LogWorld: Bringing up level for play took: 0.002009
+[2025.09.18-08.14.02:339][265]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.09.18-08.14.02:430][265]LogStreaming: Display: FlushAsyncLoading(1356,1355,1354,1353,1352,1351,1350,1349,1348,1347,1346,1345,1344,1343,1342,1341,1340,1339,1338,1337,1336,1335,1334,1333,1332,1331,1330,1329,1328,1327,1326,1325,1324,1323,1322,1321,1320,1319,1318,1317,1316,1312,1313,1314,1315): 45 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.14.02:641][265]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.14.02:641][265]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.14.02:700][265]PIE: Server logged in
+[2025.09.18-08.14.02:701][265]PIE: Play in editor total start time 0,527 seconds.
+[2025.09.18-08.14.02:878][266]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.14.18:060][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.14.18:060][607]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.14.18:078][607]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.14.18:079][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.14.18:079][607]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.14.18:081][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.14.18:088][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.14.18:122][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.18-08.14.18:124][607]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.09.18-08.14.18:124][607]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.09.18-08.14.18:126][607]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.09.18-08.14.18:132][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.14.18:142][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.18-08.14.18:236][608]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.09.18-08.14.55:895][643]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.18-08.15.57:667][252]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.16.23:925][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.18-08.16.26:017][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.16.26:043][352]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.16.26:043][352]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.16.26:049][352]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 5.251 ms (total: 57.485 ms)
+[2025.09.18-08.16.26:049][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.16.26:049][352]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.16.26:086][352]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.16.26:091][352]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.279 ms (total: 92.959 ms)
+[2025.09.18-08.16.26:095][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046660s)
+[2025.09.18-08.16.26:095][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.046695s)
+[2025.09.18-08.16.26:129][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.18-08.16.26:135][352]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.16.26:137][352]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.16.26:137][352]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.16.26:137][352]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.16.26:137][352]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.16.26:146][352]LogWorldPartition: Display: WorldPartition initialize took 9.008 ms (total: 954.818 ms)
+[2025.09.18-08.16.26:146][352]LogPlayLevel: PIE: World Init took: (0.010936s)
+[2025.09.18-08.16.26:147][352]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.16.26:147][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.16.26:147][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.16.26:147][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.16.26:147][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.16.26:147][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.16.26:149][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.16.26:168][352]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.16.26:168][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.16.26:168][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.16.26:168][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.16.26:168][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.09.18-08.16.26:168][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.09.18-08.16.26:170][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.09.18-08.16.26:170][352]LogInit: FAudioDevice initialized with ID 16.
+[2025.09.18-08.16.26:170][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.09.18-08.16.26:170][352]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_ProtoV4'.
+[2025.09.18-08.16.26:170][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.18-08.16.26:174][352]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.16.26:176][352]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.16.26
+[2025.09.18-08.16.26:177][352]LogWorld: Bringing up level for play took: 0.001898
+[2025.09.18-08.16.26:180][352]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.09.18-08.16.26:270][352]LogStreaming: Display: FlushAsyncLoading(1401,1400,1399,1398,1397,1396,1395,1394,1393,1392,1391,1390,1389,1388,1387,1386,1385,1384,1383,1382,1381,1380,1379,1378,1377,1376,1375,1374,1373,1372,1371,1370,1369,1368,1367,1366,1365,1364,1363,1362,1361,1357,1358,1359,1360): 45 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.16.26:477][352]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.16.26:477][352]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.16.26:536][352]PIE: Server logged in
+[2025.09.18-08.16.26:537][352]PIE: Play in editor total start time 0,494 seconds.
+[2025.09.18-08.16.26:704][353]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.17.02:270][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.17.02:270][499]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.17.02:288][499]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.17.02:289][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.17.02:289][499]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.17.02:292][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.17.02:300][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.17.02:341][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.18-08.17.02:345][499]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.18-08.17.02:345][499]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.09.18-08.17.02:348][499]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.09.18-08.17.02:353][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.17.02:366][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.18-08.17.02:462][500]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.09.18-08.17.04:101][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.18-08.17.04:107][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.17.04:187][631]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT
+[2025.09.18-08.17.04:189][631]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKTE8368C454A44C3019744E3A2B94CD654.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT.uasset'
+[2025.09.18-08.17.04:211][631]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI
+[2025.09.18-08.17.04:212][631]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI3B95020C439BE6EE8C3B779FC820FABE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI.uasset'
+[2025.09.18-08.17.04:217][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.18-08.17.04:256][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.18-08.17.04:256][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.18-08.17.04:330][631]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.18-08.17.04:331][631]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV464D4681A429039D7CCEF77A51579A082.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.18-08.17.04:335][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4] ([2] browsable assets)...
+[2025.09.18-08.17.04:335][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4]
+[2025.09.18-08.17.04:369][631]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4
+[2025.09.18-08.17.04:371][631]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_PuzzlePawnV40EE76B6342C33CF3C6D9CF9858BE6393.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_PuzzlePawnV4.uasset'
+[2025.09.18-08.17.04:377][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.17.04:377][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.17.04:377][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.17.04:394][631]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.17.04:396][631]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV49C3DA8C94D3639A2BF3A16BFDB9B9DEE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.17.04:409][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 301.535 ms (total: 1.60 sec)
+[2025.09.18-08.17.04:467][631]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.18-08.17.04:467][631]LogContentValidation: Enabled validators:
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.17.04:467][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.17.04:467][631]AssetCheck: /Game/CustomContent/ProtoV4/L_ProtoV4 Validating asset
+[2025.09.18-08.17.04:467][631]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.18-08.17.04:467][631]AssetCheck: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4 Validating asset
+[2025.09.18-08.17.04:467][631]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.17.14:192][423]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.17.14:218][423]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.17.14:218][423]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.17.14:221][423]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.633 ms (total: 60.119 ms)
+[2025.09.18-08.17.14:221][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.17.14:221][423]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.17.14:247][423]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.17.14:253][423]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.223 ms (total: 99.182 ms)
+[2025.09.18-08.17.14:253][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031658s)
+[2025.09.18-08.17.14:253][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.031690s)
+[2025.09.18-08.17.14:278][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.18-08.17.14:280][423]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.17.14:281][423]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.17.14:281][423]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.17.14:281][423]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.17.14:281][423]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.17.14:290][423]LogWorldPartition: Display: WorldPartition initialize took 8.802 ms (total: 963.620 ms)
+[2025.09.18-08.17.14:290][423]LogPlayLevel: PIE: World Init took: (0.010580s)
+[2025.09.18-08.17.14:291][423]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.17.14:291][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.17.14:291][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.17.14:291][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.17.14:291][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.17.14:291][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.17.14:294][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.17.14:310][423]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.17.14:310][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.17.14:310][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.17.14:310][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.17.14:310][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.09.18-08.17.14:310][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.09.18-08.17.14:313][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.09.18-08.17.14:313][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.09.18-08.17.14:313][423]LogInit: FAudioDevice initialized with ID 17.
+[2025.09.18-08.17.14:313][423]LogAudio: Display: Audio Device (ID: 17) registered with world 'L_ProtoV4'.
+[2025.09.18-08.17.14:313][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.18-08.17.14:318][423]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.17.14:319][423]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.17.14
+[2025.09.18-08.17.14:319][423]LogWorld: Bringing up level for play took: 0.002034
+[2025.09.18-08.17.14:322][423]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.09.18-08.17.14:330][423]LogStreaming: Display: FlushAsyncLoading(1451,1450,1449,1448,1447,1446,1445,1444,1443,1442,1441,1440,1439,1438,1437,1436,1435,1434,1433,1432,1431,1430,1429,1428,1427,1426,1425,1424,1423,1422,1421,1420,1419,1418,1417,1416,1415,1414,1413,1412,1409,1410,1411,1407,1408,1406,1402,1403,1404,1405): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.17.14:573][423]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.17.14:573][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.17.14:703][423]PIE: Server logged in
+[2025.09.18-08.17.14:705][423]PIE: Play in editor total start time 0,487 seconds.
+[2025.09.18-08.17.14:886][424]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.17.16:669][564]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.17.16:669][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.17.22:104][ 46]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.17.22:104][ 46]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.18-08.17.26:856][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.17.26:856][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.17.36:215][287]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.17.36:215][287]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.18-08.17.41:131][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.17.41:131][705]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.17.41:148][705]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.17.41:148][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.17.41:148][705]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.17.41:152][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.17.41:159][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.17.41:198][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.17.41:198][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.18-08.17.41:198][705]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.09.18-08.17.41:201][705]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.09.18-08.17.41:215][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.18-08.17.41:307][706]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.09.18-08.19.07:994][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.19.08:020][385]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.19.08:020][385]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.19.08:022][385]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.651 ms (total: 62.770 ms)
+[2025.09.18-08.19.08:022][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.19.08:023][385]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.19.08:047][385]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.19.08:054][385]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.090 ms (total: 105.272 ms)
+[2025.09.18-08.19.08:054][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031142s)
+[2025.09.18-08.19.08:054][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.031177s)
+[2025.09.18-08.19.08:086][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.18-08.19.08:088][385]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.19.08:089][385]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.19.08:089][385]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.19.08:089][385]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.19.08:089][385]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.19.08:099][385]LogWorldPartition: Display: WorldPartition initialize took 8.940 ms (total: 972.561 ms)
+[2025.09.18-08.19.08:099][385]LogPlayLevel: PIE: World Init took: (0.010825s)
+[2025.09.18-08.19.08:100][385]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.19.08:100][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.19.08:100][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.19.08:100][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.19.08:100][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.19.08:100][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.19.08:102][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.19.08:119][385]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.19.08:119][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.19.08:119][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.19.08:119][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.19.08:119][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.09.18-08.19.08:119][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.09.18-08.19.08:121][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.09.18-08.19.08:122][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.09.18-08.19.08:122][385]LogInit: FAudioDevice initialized with ID 18.
+[2025.09.18-08.19.08:122][385]LogAudio: Display: Audio Device (ID: 18) registered with world 'L_ProtoV4'.
+[2025.09.18-08.19.08:122][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.18-08.19.08:125][385]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.19.08:128][385]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.19.08
+[2025.09.18-08.19.08:128][385]LogWorld: Bringing up level for play took: 0.002131
+[2025.09.18-08.19.08:131][385]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.09.18-08.19.08:138][385]LogStreaming: Display: FlushAsyncLoading(1501,1500,1499,1498,1497,1496,1495,1494,1493,1492,1491,1490,1489,1488,1487,1486,1485,1484,1483,1482,1481,1480,1479,1478,1477,1476,1475,1474,1473,1472,1471,1470,1469,1468,1467,1466,1465,1464,1463,1462,1459,1460,1461,1457,1458,1456,1452,1453,1454,1455): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.19.08:368][385]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.19.08:368][385]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.19.08:499][385]PIE: Server logged in
+[2025.09.18-08.19.08:501][385]PIE: Play in editor total start time 0,481 seconds.
+[2025.09.18-08.19.08:669][386]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.19.11:138][587]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.19.11:138][587]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.19.21:386][510]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.19.21:388][510]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.18-08.19.27:262][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.19.27:262][  2]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.19.27:280][  2]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.19.27:280][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.19.27:280][  2]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.19.27:282][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.19.27:290][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.19.27:328][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.19.27:328][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.18-08.19.27:328][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.09.18-08.19.27:330][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.09.18-08.19.27:346][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.18-08.19.27:441][  3]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.09.18-08.20.01:773][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2493.485596
+[2025.09.18-08.20.01:926][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.20.01:926][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2493.626709, Update Interval: 346.343567
+[2025.09.18-08.26.43:652][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2895.404541
+[2025.09.18-08.26.43:821][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.26.43:821][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2895.562500, Update Interval: 311.460907
+[2025.09.18-08.29.07:853][226]Cmd: SELECT NONE
+[2025.09.18-08.29.16:224][861]LogStreaming: Display: FlushAsyncLoading(1502): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.29.16:233][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase
+[2025.09.18-08.29.16:233][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.18-08.29.16:937][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.18-08.29.40:106][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.29.40:163][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase] ([2] browsable assets)...
+[2025.09.18-08.29.40:171][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase]
+[2025.09.18-08.29.40:171][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase]
+[2025.09.18-08.29.40:179][986]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase
+[2025.09.18-08.29.40:181][986]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase57CF85894F6C2DE0560F48B279E6E3BB.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.uasset'
+[2025.09.18-08.29.40:192][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.699 ms (total: 1.69 sec)
+[2025.09.18-08.29.40:255][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.29.40:255][986]LogContentValidation: Enabled validators:
+[2025.09.18-08.29.40:255][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.29.40:255][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.29.40:256][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.29.40:256][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.29.40:256][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.29.40:256][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.29.40:256][986]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase Validating asset
+[2025.09.18-08.30.37:211][103]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.30.37:999][134]LogEditorTransaction: Undo Attach Component
+[2025.09.18-08.30.38:742][192]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.31.06:402][758]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.32.28:297][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3240.064209
+[2025.09.18-08.32.28:435][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.32.28:435][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3240.191162, Update Interval: 352.109741
+[2025.09.18-08.33.05:121][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.33.05:182][744]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase] ([2] browsable assets)...
+[2025.09.18-08.33.05:191][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase]
+[2025.09.18-08.33.05:191][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase]
+[2025.09.18-08.33.05:199][744]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase
+[2025.09.18-08.33.05:200][744]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase4DF5D0934884E823EBEAAB8B99BDF4D1.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.uasset'
+[2025.09.18-08.33.05:210][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.525 ms (total: 1.78 sec)
+[2025.09.18-08.33.05:266][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.33.05:266][744]LogContentValidation: Enabled validators:
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.33.05:266][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.33.05:266][744]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase Validating asset
+[2025.09.18-08.33.06:269][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.18-08.33.42:205][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.33.42:266][209]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase] ([2] browsable assets)...
+[2025.09.18-08.33.42:275][209]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase]
+[2025.09.18-08.33.42:275][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase]
+[2025.09.18-08.33.42:283][209]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase
+[2025.09.18-08.33.42:284][209]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase971B070849F2B40B677E0E9AF809ACD2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.uasset'
+[2025.09.18-08.33.42:295][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.666 ms (total: 1.87 sec)
+[2025.09.18-08.33.42:349][209]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.33.42:349][209]LogContentValidation: Enabled validators:
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.33.42:349][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.33.42:349][209]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase Validating asset
+[2025.09.18-08.33.52:247][919]LogStreaming: Display: FlushAsyncLoading(1503): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.33.52:303][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.18-08.33.52:638][919]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.18-08.33.52:663][919]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.09.18-08.33.52:672][919]LogSlate: Took 0.007775 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.18-08.33.54:125][919]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.18-08.33.54:276][919]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.33.54:276][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.33.54:312][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.18-08.33.54:344][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.18-08.33.54:378][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.18-08.33.54:421][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.18-08.33.57:005][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.18-08.33.57:203][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.18-08.33.58:134][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1.TetroMeshBase1
+[2025.09.18-08.33.58:135][131]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.18-08.34.32:401][182]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.34.55:574][103]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.18-08.36.07:750][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.36.07:803][815]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase] ([2] browsable assets)...
+[2025.09.18-08.36.07:814][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase]
+[2025.09.18-08.36.07:814][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase]
+[2025.09.18-08.36.07:821][815]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase
+[2025.09.18-08.36.07:823][815]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBaseC13F511045F900403F5023A890296139.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.uasset'
+[2025.09.18-08.36.07:833][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.011 ms (total: 1.95 sec)
+[2025.09.18-08.36.07:885][815]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.36.07:885][815]LogContentValidation: Enabled validators:
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.36.07:885][815]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.36.07:885][815]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase Validating asset
+[2025.09.18-08.36.19:577][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.36.19:623][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase] ([2] browsable assets)...
+[2025.09.18-08.36.19:623][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase]
+[2025.09.18-08.36.19:631][ 30]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase
+[2025.09.18-08.36.19:633][ 30]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase0C4DE8FA45A3B3807D82378AC314C607.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.uasset'
+[2025.09.18-08.36.19:644][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.648 ms (total: 2.02 sec)
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: Enabled validators:
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.36.19:709][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.36.19:709][ 30]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase Validating asset
+[2025.09.18-08.36.20:848][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.18-08.36.22:813][254]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase_C
+[2025.09.18-08.36.22:813][254]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase_C
+[2025.09.18-08.36.22:814][254]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase as actor: TetroMeshBase_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.TetroMeshBase_C_0
+[2025.09.18-08.36.22:816][254]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase as actor: TetroMeshBase_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.TetroMeshBase_C_0
+[2025.09.18-08.36.22:820][254]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.18-08.36.23:350][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.18-08.36.23:352][289]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.09.18-08.36.23:360][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase_C
+[2025.09.18-08.36.23:360][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase_C
+[2025.09.18-08.36.23:367][289]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase as actor: TetroMeshBase_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.TetroMeshBase_C_UAID_30D042F1C546209002_1790409191
+[2025.09.18-08.36.23:369][289]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase as actor: TetroMeshBase_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.TetroMeshBase_C_UAID_30D042F1C546209002_1790409191
+[2025.09.18-08.36.23:867][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.18-08.36.35:524][263]Cmd: DELETE
+[2025.09.18-08.36.35:524][263]Cmd: ACTOR DELETE
+[2025.09.18-08.36.35:528][263]LogEditorActor: Deleted Actor: TetroMeshBase_C
+[2025.09.18-08.36.35:557][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.18-08.36.35:559][263]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.09.18-08.36.36:661][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.36.36:746][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.18-08.36.36:779][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.18-08.36.36:811][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.18-08.36.36:823][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.049 ms (total: 2.18 sec)
+[2025.09.18-08.36.40:103][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.18-08.36.41:247][561]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.18-08.36.41:408][561]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.36.41:408][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.36.41:498][561]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1.TetroMeshBase1
+	Asset Type: Blueprint
+[2025.09.18-08.36.41:900][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.18-08.36.42:015][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.18-08.36.42:047][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.18-08.36.42:079][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.18-08.36.42:119][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.18-08.36.45:313][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.18-08.36.47:400][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.18-08.36.47:583][919]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.18-08.36.48:167][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.18-08.36.48:298][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.18-08.36.50:670][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1.TetroMeshBase1
+[2025.09.18-08.36.50:670][ 78]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.18-08.37.17:801][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.37.17:854][354]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1] ([2] browsable assets)...
+[2025.09.18-08.37.17:862][354]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1.TetroMeshBase1]
+[2025.09.18-08.37.17:862][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1]
+[2025.09.18-08.37.17:870][354]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1
+[2025.09.18-08.37.17:870][354]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase1F228697F41F6407339EC4F98A4373BB5.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1.uasset'
+[2025.09.18-08.37.17:883][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.163 ms (total: 2.26 sec)
+[2025.09.18-08.37.17:935][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.37.17:935][354]LogContentValidation: Enabled validators:
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.37.17:935][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.37.17:935][354]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase1 Validating asset
+[2025.09.18-08.37.17:963][354]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.18-08.37.21:605][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.18-08.37.47:755][913]LogContentBrowser: Attempting asset rename: TetroMeshBase1 -> BP_Tetro_T
+[2025.09.18-08.37.47:958][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.37.47:958][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T] ([2] browsable assets)...
+[2025.09.18-08.37.47:959][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.18-08.37.48:008][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T]
+[2025.09.18-08.37.48:008][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T]
+[2025.09.18-08.37.48:017][913]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T
+[2025.09.18-08.37.48:017][913]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_Tetro_T0018EC9C42090ABA97E9ADA7BCC7A131.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.uasset'
+[2025.09.18-08.37.48:022][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.147 ms (total: 2.32 sec)
+[2025.09.18-08.37.48:070][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.18-08.37.48:103][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.18-08.37.48:134][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.18-08.37.48:198][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.37.48:198][913]LogContentValidation: Enabled validators:
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.37.48:198][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.37.48:198][913]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T Validating asset
+[2025.09.18-08.37.54:127][305]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase2.TetroMeshBase2
+[2025.09.18-08.37.54:127][305]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.18-08.37.58:368][517]LogSlate: Window 'TetroMeshBase2' being destroyed
+[2025.09.18-08.37.59:337][617]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.37.59:337][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.37.59:484][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.18-08.38.48:513][940]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.38.48:513][940]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.38.48:513][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.38.48:641][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.18-08.38.50:718][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3622.501953
+[2025.09.18-08.38.50:873][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.38.50:873][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3622.642578, Update Interval: 341.243927
+[2025.09.18-08.38.58:931][758]LogContentBrowser: Attempting asset rename: TetroMeshBase2 -> BP_Tetro_L
+[2025.09.18-08.38.59:097][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.38.59:097][758]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L] ([2] browsable assets)...
+[2025.09.18-08.38.59:097][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.18-08.38.59:148][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L]
+[2025.09.18-08.38.59:148][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L]
+[2025.09.18-08.38.59:155][758]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L
+[2025.09.18-08.38.59:155][758]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_Tetro_L1430A553469254D124B8F1A0E0FC5143.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.uasset'
+[2025.09.18-08.38.59:160][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.854 ms (total: 2.39 sec)
+[2025.09.18-08.38.59:210][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.18-08.38.59:244][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.18-08.38.59:275][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.18-08.38.59:351][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.38.59:351][758]LogContentValidation: Enabled validators:
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.38.59:351][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.38.59:351][758]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L Validating asset
+[2025.09.18-08.39.20:228][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3.TetroMeshBase3
+[2025.09.18-08.39.20:229][388]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.18-08.39.23:336][539]LogSlate: Window 'TetroMeshBase3' being destroyed
+[2025.09.18-08.39.25:763][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.18-08.39.25:767][764]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.052
+[2025.09.18-08.39.25:767][764]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3] ([2] browsable assets)...
+[2025.09.18-08.39.25:776][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3.TetroMeshBase3]
+[2025.09.18-08.39.25:777][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3]
+[2025.09.18-08.39.25:784][764]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3_Auto3
+[2025.09.18-08.39.25:785][764]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase3_Auto36BBE9F594D82ABCA252C7492AC61B252.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3_Auto3.uasset'
+[2025.09.18-08.39.25:787][764]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.09.18-08.39.50:433][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.39.50:491][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3] ([2] browsable assets)...
+[2025.09.18-08.39.50:499][800]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3.TetroMeshBase3]
+[2025.09.18-08.39.50:499][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3]
+[2025.09.18-08.39.50:508][800]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3
+[2025.09.18-08.39.50:508][800]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TetroMeshBase3E16E64F34BA4FAA494A69084367403F7.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3.uasset'
+[2025.09.18-08.39.50:520][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.481 ms (total: 2.48 sec)
+[2025.09.18-08.39.50:557][800]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.39.50:557][800]LogContentValidation: Enabled validators:
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.39.50:557][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.39.50:557][800]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase3 Validating asset
+[2025.09.18-08.39.50:603][800]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.18-08.39.51:659][892]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.39.51:659][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.39.51:788][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.18-08.39.55:231][222]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.39.55:231][222]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.39.55:231][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.39.55:365][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.18-08.40.11:555][427]LogContentBrowser: Attempting asset rename: TetroMeshBase3 -> BP_Tetro_J
+[2025.09.18-08.40.11:751][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.40.11:751][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J] ([2] browsable assets)...
+[2025.09.18-08.40.11:751][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J]
+[2025.09.18-08.40.11:758][427]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J
+[2025.09.18-08.40.11:758][427]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_Tetro_JC68FDABD467917A4AAAFF39520F8792A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.uasset'
+[2025.09.18-08.40.11:762][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.963 ms (total: 2.49 sec)
+[2025.09.18-08.40.11:812][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.18-08.40.11:835][427]LogDerivedDataCache: C:/Users/lspitzdrev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.18-08.40.11:842][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.18-08.40.11:866][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.18-08.40.11:932][427]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.40.11:932][427]LogContentValidation: Enabled validators:
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.40.11:932][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.40.11:932][427]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J Validating asset
+[2025.09.18-08.40.11:941][427]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.18-08.40.21:164][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.18-08.40.22:765][ 23]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.18-08.40.22:978][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.40.22:978][ 23]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.22:978][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.23:113][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.40.23:113][ 23]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.23:113][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.23:295][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.40.23:295][ 23]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.23:295][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.23:429][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.40.23:429][ 23]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.23:429][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.23:568][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.18-08.40.23:568][ 23]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.23:568][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.23:678][ 23]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/M_Tetro_T.M_Tetro_T
+	Asset Type: StaticMesh
+	Asset Name: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/M_Tetro_L.M_Tetro_L
+	Asset Type: StaticMesh
+	Asset Name: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/M_Tetro_J.M_Tetro_J
+	Asset Type: StaticMesh
+[2025.09.18-08.40.24:264][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.18-08.40.24:323][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.18-08.40.24:355][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.18-08.40.24:395][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.18-08.40.28:371][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J_C
+[2025.09.18-08.40.28:371][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J_C
+[2025.09.18-08.40.28:374][309]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J as actor: BP_Tetro_J_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_J_C_0
+[2025.09.18-08.40.28:377][309]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J as actor: BP_Tetro_J_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_J_C_0
+[2025.09.18-08.40.29:196][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.18-08.40.29:198][361]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.09.18-08.40.29:205][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J_C
+[2025.09.18-08.40.29:205][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J_C
+[2025.09.18-08.40.29:209][361]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J as actor: BP_Tetro_J_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_J_C_UAID_30D042F1C546209002_2036253192
+[2025.09.18-08.40.29:212][361]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_J.BP_Tetro_J as actor: BP_Tetro_J_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_J_C_UAID_30D042F1C546209002_2036253192
+[2025.09.18-08.40.31:093][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L_C
+[2025.09.18-08.40.31:093][486]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L_C
+[2025.09.18-08.40.31:096][486]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L as actor: BP_Tetro_L_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_L_C_0
+[2025.09.18-08.40.31:099][486]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L as actor: BP_Tetro_L_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_L_C_0
+[2025.09.18-08.40.32:556][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.18-08.40.32:558][592]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.09.18-08.40.32:565][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L_C
+[2025.09.18-08.40.32:565][592]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L_C
+[2025.09.18-08.40.32:570][592]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L as actor: BP_Tetro_L_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_L_C_UAID_30D042F1C546209002_2039613193
+[2025.09.18-08.40.32:573][592]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_L.BP_Tetro_L as actor: BP_Tetro_L_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_L_C_UAID_30D042F1C546209002_2039613193
+[2025.09.18-08.40.33:694][654]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T_C
+[2025.09.18-08.40.33:694][654]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T_C
+[2025.09.18-08.40.33:698][654]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T as actor: BP_Tetro_T_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_T_C_0
+[2025.09.18-08.40.33:701][654]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T as actor: BP_Tetro_T_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_T_C_0
+[2025.09.18-08.40.34:606][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.18-08.40.34:608][711]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.09.18-08.40.34:617][711]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T_C
+[2025.09.18-08.40.34:617][711]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T_C
+[2025.09.18-08.40.34:620][711]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T as actor: BP_Tetro_T_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_T_C_UAID_30D042F1C546209002_2041665194
+[2025.09.18-08.40.34:624][711]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/BP_Tetro_T.BP_Tetro_T as actor: BP_Tetro_T_C /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.BP_Tetro_T_C_UAID_30D042F1C546209002_2041665194
+[2025.09.18-08.40.38:921][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/tetroMeshes/Blueprint/TetroMeshBase.TetroMeshBase
+[2025.09.18-08.40.38:921][ 37]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.18-08.40.48:719][911]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.40.48:719][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.40.48:858][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.18-08.41.18:502][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.18-08.42.11:325][637]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2025.09.18-08.42.11:338][637]LogStaticMesh: Display: Building static mesh StaticMesh (Required Memory Estimate: 0.307924 MB)...
+[2025.09.18-08.42.11:347][637]LogStaticMesh: Built static mesh [0.01s] /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/StaticMesh.StaticMesh
+[2025.09.18-08.42.21:205][459]LogContentBrowser: Attempting asset rename: StaticMesh -> SM_Tetro_L
+[2025.09.18-08.42.21:305][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.42.21:305][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L] ([1] browsable assets)...
+[2025.09.18-08.42.21:346][459]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L.SM_Tetro_L]
+[2025.09.18-08.42.21:346][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L]
+[2025.09.18-08.42.21:353][459]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L
+[2025.09.18-08.42.21:353][459]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_L8DC2686E46B0FD1407D7F49ABD3DBCD0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L.uasset'
+[2025.09.18-08.42.21:356][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.073 ms (total: 2.54 sec)
+[2025.09.18-08.42.21:408][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.18-08.42.21:441][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.18-08.42.21:472][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.18-08.42.21:546][459]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.42.21:546][459]LogContentValidation: Enabled validators:
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.42.21:546][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.42.21:546][459]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L Validating asset
+[2025.09.18-08.42.21:593][459]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.18-08.42.24:701][720]Cmd: DELETE
+[2025.09.18-08.42.24:701][720]Cmd: ACTOR DELETE
+[2025.09.18-08.42.24:705][720]LogEditorActor: Deleted Actor: BP_Tetro_L_C
+[2025.09.18-08.42.24:739][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.18-08.42.24:740][720]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.09.18-08.42.44:372][681]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2025.09.18-08.42.44:382][681]LogStaticMesh: Display: Building static mesh StaticMesh (Required Memory Estimate: 0.307924 MB)...
+[2025.09.18-08.42.44:386][681]LogStaticMesh: Built static mesh [0.00s] /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/StaticMesh.StaticMesh
+[2025.09.18-08.42.51:477][259]LogContentBrowser: Attempting asset rename: StaticMesh -> SM_Tetro_J
+[2025.09.18-08.42.51:568][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.42.51:568][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J] ([1] browsable assets)...
+[2025.09.18-08.42.51:611][259]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.SM_Tetro_J]
+[2025.09.18-08.42.51:611][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J]
+[2025.09.18-08.42.51:618][259]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J
+[2025.09.18-08.42.51:618][259]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_JC7E0F10149B186D0FC6DF4AC8AB2B50B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.uasset'
+[2025.09.18-08.42.51:620][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.357 ms (total: 2.59 sec)
+[2025.09.18-08.42.51:668][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.18-08.42.51:701][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.18-08.42.51:733][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.18-08.42.51:791][259]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.42.51:791][259]LogContentValidation: Enabled validators:
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.42.51:791][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.42.51:792][259]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J Validating asset
+[2025.09.18-08.42.51:841][259]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.18-08.42.53:135][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.42.53:193][373]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J] ([1] browsable assets)...
+[2025.09.18-08.42.53:193][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J]
+[2025.09.18-08.42.53:200][373]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J
+[2025.09.18-08.42.53:202][373]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_J36E1B3A74CE10CE97ECF8ABD39672AA2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.uasset'
+[2025.09.18-08.42.53:212][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.111 ms (total: 2.67 sec)
+[2025.09.18-08.42.53:259][373]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.42.53:259][373]LogContentValidation: Enabled validators:
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.42.53:259][373]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.42.53:259][373]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J Validating asset
+[2025.09.18-08.42.54:749][500]Cmd: DELETE
+[2025.09.18-08.42.54:749][500]Cmd: ACTOR DELETE
+[2025.09.18-08.42.54:753][500]LogEditorActor: Deleted Actor: BP_Tetro_J_C
+[2025.09.18-08.42.54:786][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.18-08.42.54:788][500]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.09.18-08.43.26:154][280]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2025.09.18-08.43.26:165][280]LogStaticMesh: Display: Building static mesh SM_Tetro_T (Required Memory Estimate: 0.307357 MB)...
+[2025.09.18-08.43.26:169][280]LogStaticMesh: Built static mesh [0.00s] /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.SM_Tetro_T
+[2025.09.18-08.43.27:295][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.43.27:344][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T] ([1] browsable assets)...
+[2025.09.18-08.43.27:383][338]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.SM_Tetro_T]
+[2025.09.18-08.43.27:383][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T]
+[2025.09.18-08.43.27:390][338]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T
+[2025.09.18-08.43.27:390][338]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_T848BE0E54CE5B06CDC5B409E833EA557.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.uasset'
+[2025.09.18-08.43.27:402][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.547 ms (total: 2.78 sec)
+[2025.09.18-08.43.27:462][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.43.27:462][338]LogContentValidation: Enabled validators:
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.43.27:462][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.43.27:462][338]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T Validating asset
+[2025.09.18-08.43.27:496][338]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.18-08.43.42:298][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4.BP_PuzzlePawnV4
+[2025.09.18-08.43.42:298][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.18-08.43.45:716][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/BP_TetroV4.BP_TetroV4
+[2025.09.18-08.43.45:716][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.18-08.43.47:823][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4
+[2025.09.18-08.43.47:823][684]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.18-08.44.26:046][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.44.26:104][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.44.26:104][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.44.26:105][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.44.26:123][ 55]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.44.26:124][ 55]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV4FB0C871D4466A88B6302628D128AF766.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.44.26:134][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.536 ms (total: 2.86 sec)
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: Enabled validators:
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.44.26:187][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.44.26:187][ 55]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.44.30:263][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.18-08.45.07:130][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3998.915771
+[2025.09.18-08.45.07:288][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.45.07:288][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3999.058105, Update Interval: 322.247986
+[2025.09.18-08.45.25:595][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.45.25:650][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4] ([2] browsable assets)...
+[2025.09.18-08.45.25:650][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_PuzzlePawnV4]
+[2025.09.18-08.45.25:686][154]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4
+[2025.09.18-08.45.25:688][154]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_PuzzlePawnV41B3E774D4D9080CF3A99B5956FAF992C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_PuzzlePawnV4.uasset'
+[2025.09.18-08.45.25:700][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.941 ms (total: 2.97 sec)
+[2025.09.18-08.45.25:765][154]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.45.25:765][154]LogContentValidation: Enabled validators:
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.45.25:765][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.45.25:765][154]AssetCheck: /Game/CustomContent/ProtoV4/BP_PuzzlePawnV4 Validating asset
+[2025.09.18-08.46.24:907][876]LogBlueprint: Error: [AssetLog] C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Content\CustomContent\ProtoV4\BP_TetroV4.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2025.09.18-08.46.24:912][876]LogStreaming: Display: FlushAsyncLoading(1506): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.46.24:973][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.18-08.46.29:329][257]LogEditorTransaction: Undo Move Node
+[2025.09.18-08.46.29:809][263]LogEditorTransaction: Undo Add Node
+[2025.09.18-08.46.30:280][289]LogEditorTransaction: Undo Delete current selection
+[2025.09.18-08.46.35:792][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.46.35:847][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.46.35:847][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.46.35:847][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.46.35:865][862]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.46.35:867][862]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV43CFECCDF48883DDBB388B4AD892E083E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.46.35:877][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.790 ms (total: 3.05 sec)
+[2025.09.18-08.46.35:931][862]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.46.35:931][862]LogContentValidation: Enabled validators:
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.46.35:931][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.46.35:931][862]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.46.37:347][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.18-08.46.47:506][  8]Cmd: DELETE
+[2025.09.18-08.46.47:506][  8]Cmd: ACTOR DELETE
+[2025.09.18-08.46.47:509][  8]LogEditorActor: Deleted Actor: BP_Tetro_T_C
+[2025.09.18-08.46.47:547][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.18-08.46.47:552][  8]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.09.18-08.46.49:562][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.46.49:591][174]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.46.49:591][174]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.46.49:595][174]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.659 ms (total: 65.430 ms)
+[2025.09.18-08.46.49:595][174]LogPlayLevel: [PlayLevel] Compiling BP_Tetro_L before play...
+[2025.09.18-08.46.49:619][174]LogPlayLevel: [PlayLevel] Compiling BP_Tetro_J before play...
+[2025.09.18-08.46.49:676][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.18-08.46.49:678][174]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (2 blueprints)
+[2025.09.18-08.46.49:723][174]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.46.49:748][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.46.49:755][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.147 ms (total: 111.420 ms)
+[2025.09.18-08.46.49:755][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032023s)
+[2025.09.18-08.46.49:755][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.032062s)
+[2025.09.18-08.46.49:786][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.18-08.46.49:787][174]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.46.49:789][174]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.46.49:789][174]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.46.49:789][174]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.46.49:789][174]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.46.49:799][174]LogWorldPartition: Display: WorldPartition initialize took 9.156 ms (total: 981.717 ms)
+[2025.09.18-08.46.49:799][174]LogPlayLevel: PIE: World Init took: (0.011078s)
+[2025.09.18-08.46.49:800][174]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.46.49:800][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.46.49:800][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.46.49:800][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.46.49:800][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.46.49:800][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.46.49:802][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.46.49:822][174]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.46.49:822][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.46.49:822][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.46.49:822][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.46.49:822][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.09.18-08.46.49:822][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.09.18-08.46.49:825][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.09.18-08.46.49:825][174]LogInit: FAudioDevice initialized with ID 19.
+[2025.09.18-08.46.49:825][174]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_ProtoV4'.
+[2025.09.18-08.46.49:825][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.09.18-08.46.49:825][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.18-08.46.49:829][174]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.46.49:831][174]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.46.49
+[2025.09.18-08.46.49:831][174]LogWorld: Bringing up level for play took: 0.001999
+[2025.09.18-08.46.49:834][174]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.09.18-08.46.49:841][174]LogStreaming: Display: FlushAsyncLoading(1556,1555,1554,1553,1552,1551,1550,1549,1548,1547,1546,1545,1544,1543,1542,1541,1540,1539,1538,1537,1536,1535,1534,1533,1532,1531,1530,1529,1528,1527,1526,1525,1524,1523,1522,1521,1520,1519,1518,1517,1514,1515,1516,1512,1513,1511,1507,1508,1509,1510): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.46.50:168][174]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.46.50:168][174]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.46.50:298][174]PIE: Server logged in
+[2025.09.18-08.46.50:300][174]PIE: Play in editor total start time 0,708 seconds.
+[2025.09.18-08.46.50:494][175]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.46.52:358][321]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.46.52:358][321]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.46.59:383][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.46.59:383][940]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.46.59:399][940]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.46.59:399][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.46.59:399][940]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.46.59:401][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.46.59:409][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.46.59:450][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.46.59:451][940]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.18-08.46.59:451][940]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.09.18-08.46.59:454][940]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.09.18-08.46.59:467][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.18-08.46.59:540][941]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.09.18-08.47.10:928][816]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.SM_Tetro_J
+[2025.09.18-08.47.10:999][816]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.18-08.47.11:005][816]LogStreaming: Display: FlushAsyncLoading(1557): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.47.11:853][816]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L.SM_Tetro_L
+[2025.09.18-08.47.11:863][816]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.18-08.47.13:767][836]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.SM_Tetro_T
+[2025.09.18-08.47.13:777][836]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.18-08.47.36:765][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.47.36:828][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J] ([1] browsable assets)...
+[2025.09.18-08.47.36:837][ 61]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.SM_Tetro_J]
+[2025.09.18-08.47.36:837][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J]
+[2025.09.18-08.47.36:844][ 61]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J
+[2025.09.18-08.47.36:845][ 61]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_J0EED041544FB8E3DB3691CACF3ECA02A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J.uasset'
+[2025.09.18-08.47.36:857][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.276 ms (total: 3.15 sec)
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: Enabled validators:
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.47.36:910][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.47.36:910][ 61]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_J Validating asset
+[2025.09.18-08.47.37:483][ 87]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.47.37:483][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.47.37:578][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.18-08.47.42:974][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.47.43:015][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L] ([1] browsable assets)...
+[2025.09.18-08.47.43:026][407]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L.SM_Tetro_L]
+[2025.09.18-08.47.43:026][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L]
+[2025.09.18-08.47.43:033][407]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L
+[2025.09.18-08.47.43:035][407]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_LD42626E446FAF88204A327B620F54EE2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L.uasset'
+[2025.09.18-08.47.43:048][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.608 ms (total: 3.22 sec)
+[2025.09.18-08.47.43:096][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.47.43:096][407]LogContentValidation: Enabled validators:
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.47.43:096][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.47.43:096][407]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_L Validating asset
+[2025.09.18-08.47.44:646][491]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.47.44:646][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.47.44:697][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.18-08.47.49:656][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.47.49:717][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T] ([1] browsable assets)...
+[2025.09.18-08.47.49:725][784]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.SM_Tetro_T]
+[2025.09.18-08.47.49:725][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T]
+[2025.09.18-08.47.49:733][784]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T
+[2025.09.18-08.47.49:735][784]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SM_Tetro_TE54C4F7F4ED09F422C0ED8956CA82476.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T.uasset'
+[2025.09.18-08.47.49:747][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.094 ms (total: 3.31 sec)
+[2025.09.18-08.47.49:799][784]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.47.49:799][784]LogContentValidation: Enabled validators:
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.47.49:799][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.47.49:799][784]AssetCheck: /Game/CustomContent/ProtoV4/tetroMeshes/Mesh/SM_Tetro_T Validating asset
+[2025.09.18-08.47.51:646][899]LogSlate: Window 'SM_Tetro_T' being destroyed
+[2025.09.18-08.47.51:657][899]LogSlate: Window 'SM_Tetro_T' being destroyed
+[2025.09.18-08.47.51:784][899]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.47.51:784][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.47.51:835][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.18-08.47.53:213][  8]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.47.53:240][  8]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.47.53:240][  8]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.47.53:242][  8]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.640 ms (total: 68.071 ms)
+[2025.09.18-08.47.53:243][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.47.53:273][  8]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.47.53:300][  8]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.47.53:306][  8]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.323 ms (total: 117.743 ms)
+[2025.09.18-08.47.53:306][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032854s)
+[2025.09.18-08.47.53:306][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.032898s)
+[2025.09.18-08.47.53:338][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.18-08.47.53:339][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.47.53:340][  8]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.47.53:340][  8]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.47.53:340][  8]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.47.53:340][  8]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.47.53:349][  8]LogWorldPartition: Display: WorldPartition initialize took 8.872 ms (total: 990.589 ms)
+[2025.09.18-08.47.53:349][  8]LogPlayLevel: PIE: World Init took: (0.010630s)
+[2025.09.18-08.47.53:350][  8]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.47.53:350][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.47.53:350][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.47.53:350][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.47.53:350][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.47.53:350][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.47.53:352][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.09.18-08.47.53:369][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.09.18-08.47.53:373][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.09.18-08.47.53:373][  8]LogInit: FAudioDevice initialized with ID 20.
+[2025.09.18-08.47.53:373][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.09.18-08.47.53:373][  8]LogAudio: Display: Audio Device (ID: 20) registered with world 'L_ProtoV4'.
+[2025.09.18-08.47.53:373][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.18-08.47.53:377][  8]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.47.53:379][  8]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.47.53
+[2025.09.18-08.47.53:379][  8]LogWorld: Bringing up level for play took: 0.002078
+[2025.09.18-08.47.53:381][  8]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.09.18-08.47.53:389][  8]LogStreaming: Display: FlushAsyncLoading(1612,1611,1610,1609,1608,1607,1606,1605,1604,1603,1602,1601,1600,1599,1598,1597,1596,1595,1594,1593,1592,1591,1590,1589,1588,1587,1586,1585,1584,1583,1582,1581,1580,1579,1578,1577,1576,1574,1575,1573,1572,1571,1570,1566,1567,1568,1569,1563,1564,1565): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.47.53:662][  8]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.47.53:662][  8]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.47.53:758][  8]PIE: Server logged in
+[2025.09.18-08.47.53:760][  8]PIE: Play in editor total start time 0,52 seconds.
+[2025.09.18-08.47.53:937][  9]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.47.55:544][139]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.47.55:544][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.48.16:793][  9]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.48.16:793][  9]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.18-08.48.24:384][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.48.24:384][666]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.48.24:403][666]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.48.24:403][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.48.24:403][666]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.48.24:405][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.48.24:414][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.48.24:456][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.48.24:456][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.09.18-08.48.24:456][666]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.09.18-08.48.24:458][666]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.09.18-08.48.24:475][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.18-08.48.24:547][667]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.09.18-08.49.40:283][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.49.40:338][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.49.40:338][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.49.40:338][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.49.40:357][655]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.49.40:358][655]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV4E2AD63B84D5C7E7AF6A055AD40C1594B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.49.40:369][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.376 ms (total: 3.40 sec)
+[2025.09.18-08.49.40:433][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.49.40:433][655]LogContentValidation: Enabled validators:
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.49.40:433][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.49.40:433][655]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.49.56:064][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.18-08.49.58:202][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.49.58:229][390]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.49.58:229][390]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.49.58:231][390]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.695 ms (total: 70.766 ms)
+[2025.09.18-08.49.58:231][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.49.58:231][390]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.49.58:259][390]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.49.58:264][390]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.294 ms (total: 124.037 ms)
+[2025.09.18-08.49.58:265][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032874s)
+[2025.09.18-08.49.58:265][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.032907s)
+[2025.09.18-08.49.58:300][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.18-08.49.58:307][390]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.49.58:309][390]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.49.58:309][390]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.49.58:309][390]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.49.58:309][390]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.49.58:319][390]LogWorldPartition: Display: WorldPartition initialize took 9.193 ms (total: 999.783 ms)
+[2025.09.18-08.49.58:319][390]LogPlayLevel: PIE: World Init took: (0.011120s)
+[2025.09.18-08.49.58:320][390]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.49.58:320][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.49.58:320][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.49.58:320][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.49.58:320][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.49.58:320][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.49.58:322][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.49.58:340][390]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.49.58:340][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.49.58:340][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.49.58:340][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.49.58:340][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.09.18-08.49.58:340][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.09.18-08.49.58:343][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.09.18-08.49.58:343][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.09.18-08.49.58:343][390]LogInit: FAudioDevice initialized with ID 21.
+[2025.09.18-08.49.58:343][390]LogAudio: Display: Audio Device (ID: 21) registered with world 'L_ProtoV4'.
+[2025.09.18-08.49.58:343][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.18-08.49.58:347][390]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.49.58:349][390]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.49.58
+[2025.09.18-08.49.58:349][390]LogWorld: Bringing up level for play took: 0.002018
+[2025.09.18-08.49.58:351][390]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.09.18-08.49.58:359][390]LogStreaming: Display: FlushAsyncLoading(1662,1661,1660,1659,1658,1657,1656,1655,1654,1653,1652,1651,1650,1649,1648,1647,1646,1645,1644,1643,1642,1641,1640,1639,1638,1637,1636,1635,1634,1633,1632,1631,1630,1629,1628,1627,1626,1625,1624,1623,1619,1620,1621,1622,1618,1616,1617,1613,1614,1615): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.49.58:686][390]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.49.58:686][390]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.49.58:744][390]PIE: Server logged in
+[2025.09.18-08.49.58:746][390]PIE: Play in editor total start time 0,517 seconds.
+[2025.09.18-08.49.58:933][391]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.50.00:699][526]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.50.00:699][526]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.50.11:706][499]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.50.11:706][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.09.18-08.50.18:284][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.50.18:284][ 71]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.50.18:302][ 71]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.50.18:302][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.50.18:303][ 71]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.50.18:305][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.50.18:312][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.50.18:352][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.18-08.50.18:354][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.09.18-08.50.18:354][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.09.18-08.50.18:356][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.09.18-08.50.18:362][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.50.18:373][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.18-08.50.18:445][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.09.18-08.50.22:255][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.50.22:319][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.50.22:319][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.50.22:319][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.50.22:337][468]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.50.22:339][468]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV4F4DC485D463A5A78ED5DE4B6378D8FD4.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.50.22:350][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.242 ms (total: 3.49 sec)
+[2025.09.18-08.50.22:408][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.50.22:408][468]LogContentValidation: Enabled validators:
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.50.22:408][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.50.22:408][468]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.51.04:043][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4355.785645
+[2025.09.18-08.51.04:176][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.51.04:176][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4355.911133, Update Interval: 341.159698
+[2025.09.18-08.51.18:635][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.18-08.51.18:640][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.037
+[2025.09.18-08.51.47:294][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.51.47:341][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.51.47:341][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.51.47:341][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.51.47:361][821]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.51.47:362][821]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV49A23759D4CB967D52353E2A08DD90FDE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.51.47:372][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.637 ms (total: 3.57 sec)
+[2025.09.18-08.51.47:426][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.51.47:426][821]LogContentValidation: Enabled validators:
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.51.47:426][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.51.47:426][821]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.51.48:861][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.18-08.51.50:398][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.51.50:424][ 55]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.51.50:424][ 55]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.51.50:426][ 55]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.624 ms (total: 73.391 ms)
+[2025.09.18-08.51.50:426][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.51.50:426][ 55]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.51.50:452][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.51.50:458][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.169 ms (total: 130.206 ms)
+[2025.09.18-08.51.50:458][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031473s)
+[2025.09.18-08.51.50:458][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.031507s)
+[2025.09.18-08.51.50:492][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.18-08.51.50:500][ 55]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.51.50:502][ 55]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.51.50:502][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.51.50:502][ 55]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.51.50:502][ 55]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.51.50:511][ 55]LogWorldPartition: Display: WorldPartition initialize took 9.222 ms (total: 1.00 sec)
+[2025.09.18-08.51.50:511][ 55]LogPlayLevel: PIE: World Init took: (0.011226s)
+[2025.09.18-08.51.50:512][ 55]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.51.50:512][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.51.50:512][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.51.50:512][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.51.50:512][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.51.50:512][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.51.50:515][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.51.50:533][ 55]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.51.50:533][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.51.50:533][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.51.50:533][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.51.50:534][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.09.18-08.51.50:534][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.09.18-08.51.50:536][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.09.18-08.51.50:536][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.09.18-08.51.50:536][ 55]LogInit: FAudioDevice initialized with ID 22.
+[2025.09.18-08.51.50:536][ 55]LogAudio: Display: Audio Device (ID: 22) registered with world 'L_ProtoV4'.
+[2025.09.18-08.51.50:536][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.09.18-08.51.50:540][ 55]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.51.50:542][ 55]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.51.50
+[2025.09.18-08.51.50:542][ 55]LogWorld: Bringing up level for play took: 0.002066
+[2025.09.18-08.51.50:545][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.09.18-08.51.50:551][ 55]LogStreaming: Display: FlushAsyncLoading(1712,1711,1710,1709,1708,1707,1706,1705,1704,1703,1702,1701,1700,1699,1698,1697,1696,1695,1694,1693,1692,1691,1690,1689,1688,1687,1686,1685,1684,1683,1682,1681,1680,1679,1678,1677,1676,1675,1674,1673,1671,1672,1670,1667,1668,1669,1663,1664,1665,1666): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.51.50:787][ 55]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.51.50:787][ 55]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.51.50:918][ 55]PIE: Server logged in
+[2025.09.18-08.51.50:920][ 55]PIE: Play in editor total start time 0,496 seconds.
+[2025.09.18-08.51.51:090][ 56]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.51.52:800][200]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.51.52:800][200]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.51.53:929][304]LogBlueprintUserMessages: [BP_TetroV4_C_3] BP_SolarPanelV4_0
+[2025.09.18-08.51.57:713][652]LogBlueprintUserMessages: [BP_TetroV4_C_0] BP_SolarPanelV4_0
+[2025.09.18-08.52.00:735][924]LogBlueprintUserMessages: [BP_TetroV4_C_0] BP_SolarPanelV4_0
+[2025.09.18-08.52.02:525][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.52.02:525][ 85]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.52.02:543][ 85]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-08.52.02:543][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.52.02:543][ 85]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-08.52.02:545][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-08.52.02:553][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-08.52.02:593][ 85]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.18-08.52.02:595][ 85]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.09.18-08.52.02:595][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.09.18-08.52.02:597][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.09.18-08.52.02:601][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-08.52.02:612][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.18-08.52.02:675][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.09.18-08.52.13:600][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.52.13:660][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.52.13:660][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.52.13:660][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.52.13:679][227]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.52.13:681][227]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV4006ACB19486A7A7CF57E748AE755E72B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.52.13:691][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.482 ms (total: 3.66 sec)
+[2025.09.18-08.52.13:761][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.52.13:761][227]LogContentValidation: Enabled validators:
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.52.13:761][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.52.13:761][227]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.52.56:178][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.18-08.52.56:241][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomContent/ProtoV4/BP_TetroV4] ([2] browsable assets)...
+[2025.09.18-08.52.56:241][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_TetroV4]
+[2025.09.18-08.52.56:241][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomContent/ProtoV4/BP_TetroV4" FILE="../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset" SILENT=true
+[2025.09.18-08.52.56:261][349]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_TetroV4
+[2025.09.18-08.52.56:263][349]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_TetroV457B3B123493046E6F7D1E8AD79A625BF.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_TetroV4.uasset'
+[2025.09.18-08.52.56:274][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.098 ms (total: 3.76 sec)
+[2025.09.18-08.52.56:342][349]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.18-08.52.56:342][349]LogContentValidation: Enabled validators:
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.18-08.52.56:342][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.18-08.52.56:342][349]AssetCheck: /Game/CustomContent/ProtoV4/BP_TetroV4 Validating asset
+[2025.09.18-08.52.58:314][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.18-08.53.01:269][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.18-08.53.01:295][751]LogContentBundle: [L_ProtoV4(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.18-08.53.01:297][751]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' started...
+[2025.09.18-08.53.01:299][751]LogWorldPartition: Display: GenerateStreaming for 'L_ProtoV4' took 2.687 ms (total: 76.078 ms)
+[2025.09.18-08.53.01:299][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.18-08.53.01:326][751]LogPlayLevel: Creating play world package: /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-08.53.01:351][751]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.18-08.53.01:357][751]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.322 ms (total: 136.529 ms)
+[2025.09.18-08.53.01:357][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031850s)
+[2025.09.18-08.53.01:357][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4 to /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 (0.031885s)
+[2025.09.18-08.53.01:392][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.18-08.53.01:397][751]LogChaosDD: Creating Chaos Debug Draw Scene for world L_ProtoV4
+[2025.09.18-08.53.01:399][751]LogWorldPartition: ULevel::OnLevelLoaded(L_ProtoV4)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.18-08.53.01:399][751]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.18-08.53.01:399][751]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.18-08.53.01:399][751]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.18-08.53.01:408][751]LogWorldPartition: Display: WorldPartition initialize took 9.090 ms (total: 1.01 sec)
+[2025.09.18-08.53.01:408][751]LogPlayLevel: PIE: World Init took: (0.010943s)
+[2025.09.18-08.53.01:409][751]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.18-08.53.01:409][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.18-08.53.01:409][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.18-08.53.01:409][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.18-08.53.01:409][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.18-08.53.01:409][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.18-08.53.01:411][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.18-08.53.01:428][751]LogAudioMixer: Display: Using Audio Hardware Device DELL C3422WE (NVIDIA High Definition Audio)
+[2025.09.18-08.53.01:429][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.18-08.53.01:429][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.18-08.53.01:429][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.18-08.53.01:429][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.09.18-08.53.01:429][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.09.18-08.53.01:432][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.09.18-08.53.01:432][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.09.18-08.53.01:432][751]LogInit: FAudioDevice initialized with ID 23.
+[2025.09.18-08.53.01:432][751]LogAudio: Display: Audio Device (ID: 23) registered with world 'L_ProtoV4'.
+[2025.09.18-08.53.01:432][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.09.18-08.53.01:436][751]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.18-08.53.01:438][751]LogWorld: Bringing World /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4 up for play (max tick rate 0) at 2025.09.18-10.53.01
+[2025.09.18-08.53.01:438][751]LogWorld: Bringing up level for play took: 0.001875
+[2025.09.18-08.53.01:441][751]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.09.18-08.53.01:447][751]LogStreaming: Display: FlushAsyncLoading(1762,1761,1760,1759,1758,1757,1756,1755,1754,1753,1752,1751,1750,1749,1748,1747,1746,1745,1744,1743,1742,1741,1740,1739,1738,1737,1736,1735,1734,1733,1732,1731,1730,1729,1728,1727,1726,1724,1725,1723,1722,1721,1720,1716,1717,1718,1719,1713,1714,1715): 50 QueuedPackages, 0 AsyncPackages
+[2025.09.18-08.53.01:737][751]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.09.18-08.53.01:737][751]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.09.18-08.53.01:832][751]PIE: Server logged in
+[2025.09.18-08.53.01:834][751]PIE: Play in editor total start time 0,538 seconds.
+[2025.09.18-08.53.02:021][752]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.18-08.53.03:734][882]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.09.18-08.53.03:734][882]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.09.18-08.53.04:958][988]LogBlueprintUserMessages: [BP_TetroV4_C_1] BP_SolarPanelV4_0
+[2025.09.18-08.53.06:981][164]LogBlueprintUserMessages: [BP_TetroV4_C_3] BP_TetroV41
+[2025.09.18-08.57.25:454][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4737.018555
+[2025.09.18-08.57.25:587][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-08.57.25:587][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4737.140137, Update Interval: 307.914062
+[2025.09.18-09.00.03:021][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-09.00.03:021][978]LogWorld: BeginTearingDown for /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4
+[2025.09.18-09.00.03:039][978]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.18-09.00.03:039][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-09.00.03:039][978]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/UEDPIE_0_L_ProtoV4.L_ProtoV4
+[2025.09.18-09.00.03:041][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.18-09.00.03:051][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.18-09.00.03:091][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.18-09.00.03:093][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.09.18-09.00.03:093][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.09.18-09.00.03:095][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.09.18-09.00.03:101][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.18-09.00.03:111][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.18-09.00.03:177][979]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.09.18-09.03.04:088][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5075.498535
+[2025.09.18-09.03.05:094][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.18-09.03.05:094][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5076.163086, Update Interval: 347.407440
