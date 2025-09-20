@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SunflowerFieldProtoModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d4a3173bb6e373456173328a5ae95e82cfb4a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9331d3bc8f6cbb635fc09453251a03750863704")]
 [assembly: System.Reflection.AssemblyProductAttribute("SunflowerFieldProtoModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SunflowerFieldProtoModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

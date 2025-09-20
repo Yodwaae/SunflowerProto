@@ -15,6 +15,15 @@ public:
 	// Sets default values for this actor's properties
 	APlayingGrid();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true"))
+	bool isEven = true;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true", ClampMin=1, ClampMax=8))
+	int32 gridWidth = 1;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true", ClampMin=1, ClampMax=8))
+	int32 gridHeight = 1;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
