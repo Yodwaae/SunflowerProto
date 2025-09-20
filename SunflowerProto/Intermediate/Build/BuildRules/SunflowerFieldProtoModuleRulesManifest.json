@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lucas\\OneDrive\\Documents\\Unreal Projects\\SunflowerFieldProto\\SunflowerProto\\Source\\SunflowerFieldProto\\SunflowerFieldProto.Build.cs",
+		"C:\\Users\\lucas\\OneDrive\\Documents\\Unreal Projects\\SunflowerFieldProto\\SunflowerProto\\Source\\SunflowerFieldProto.Target.cs",
+		"C:\\Users\\lucas\\OneDrive\\Documents\\Unreal Projects\\SunflowerFieldProto\\SunflowerProto\\Source\\SunflowerFieldProtoEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

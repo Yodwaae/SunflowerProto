@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SunflowerFieldProto",
+			"Path": "..\\Source\\SunflowerFieldProto.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SunflowerFieldProtoEditor",
+			"Path": "..\\Source\\SunflowerFieldProtoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
