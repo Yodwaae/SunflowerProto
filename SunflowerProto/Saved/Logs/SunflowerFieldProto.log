@@ -1207,3 +1207,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.20-11.00.24:708][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
 [2025.09.20-11.00.24:746][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2025.09.20-11.00.26:467][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.20-11.00.39:529][598]LogDerivedDataCache: C:/Users/lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.20-11.05.16:727][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 380.549011
+[2025.09.20-11.05.17:730][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.20-11.05.17:730][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 381.218781, Update Interval: 334.238098
