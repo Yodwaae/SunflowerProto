@@ -13,6 +13,7 @@ void EmptyLinkFunctionForGeneratedCodePlayingGrid() {}
 
 // ********** Begin Cross Module References ********************************************************
 ENGINE_API UClass* Z_Construct_UClass_AActor();
+ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 SUNFLOWERFIELDPROTO_API UClass* Z_Construct_UClass_APlayingGrid();
 SUNFLOWERFIELDPROTO_API UClass* Z_Construct_UClass_APlayingGrid_NoRegister();
 UPackage* Z_Construct_UPackage__Script_SunflowerFieldProto();
@@ -77,11 +78,17 @@ struct Z_Construct_UClass_APlayingGrid_Statics
 		{ "ExposeOnSpawn", "true" },
 		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Cube_MetaData[] = {
+		{ "Category", "PlayingGrid" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
+	};
 #endif // WITH_METADATA
 	static void NewProp_isEven_SetBit(void* Obj);
 	static const UECodeGen_Private::FBoolPropertyParams NewProp_isEven;
 	static const UECodeGen_Private::FIntPropertyParams NewProp_gridWidth;
 	static const UECodeGen_Private::FIntPropertyParams NewProp_gridHeight;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_Cube;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -96,10 +103,12 @@ void Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven_SetBit(void* Obj)
 const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven = { "isEven", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(APlayingGrid), &Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_isEven_MetaData), NewProp_isEven_MetaData) };
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridWidth = { "gridWidth", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, gridWidth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_gridWidth_MetaData), NewProp_gridWidth_MetaData) };
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridHeight = { "gridHeight", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, gridHeight), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_gridHeight_MetaData), NewProp_gridHeight_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_Cube = { "Cube", nullptr, (EPropertyFlags)0x00200800000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, Cube), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Cube_MetaData), NewProp_Cube_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayingGrid_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridWidth,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridHeight,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_Cube,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APlayingGrid_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_APlayingGrid_Statics::DependentSingletons[])() = {
@@ -138,10 +147,10 @@ APlayingGrid::~APlayingGrid() {}
 struct Z_CompiledInDeferFile_FID_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APlayingGrid, APlayingGrid::StaticClass, TEXT("APlayingGrid"), &Z_Registration_Info_UClass_APlayingGrid, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayingGrid), 1386602543U) },
+		{ Z_Construct_UClass_APlayingGrid, APlayingGrid::StaticClass, TEXT("APlayingGrid"), &Z_Registration_Info_UClass_APlayingGrid, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayingGrid), 2679557776U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_3119254594(TEXT("/Script/SunflowerFieldProto"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_347109714(TEXT("/Script/SunflowerFieldProto"),
 	Z_CompiledInDeferFile_FID_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
