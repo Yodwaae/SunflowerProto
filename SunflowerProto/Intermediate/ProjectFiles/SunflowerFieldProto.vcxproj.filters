@@ -51,6 +51,9 @@
     <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\GridSettings.cpp">
       <Filter>Source\SunflowerFieldProto\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\OpenCell.cpp">
+      <Filter>Source\SunflowerFieldProto\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\PlayingGrid.cpp">
       <Filter>Source\SunflowerFieldProto\Private</Filter>
     </ClCompile>
@@ -64,6 +67,9 @@
       <Filter>Source\SunflowerFieldProto\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\GridSettings.h">
+      <Filter>Source\SunflowerFieldProto\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\OpenCell.h">
       <Filter>Source\SunflowerFieldProto\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\PlayingGrid.h">

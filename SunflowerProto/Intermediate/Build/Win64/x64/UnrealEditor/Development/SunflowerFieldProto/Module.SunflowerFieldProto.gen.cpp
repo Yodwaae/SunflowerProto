@@ -2,5 +2,6 @@
 #include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/ClosedCell.gen.cpp"
 #include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/GridCell.gen.cpp"
 #include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/GridSettings.gen.cpp"
+#include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/OpenCell.gen.cpp"
 #include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/PlayingGrid.gen.cpp"
 #include "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/UnrealEditor/Inc/SunflowerFieldProto/UHT/SunflowerFieldProto.init.gen.cpp"

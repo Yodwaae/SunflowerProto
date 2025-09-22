@@ -2872,3 +2872,889 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-13.30.00:873][239]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.22-13.30.00:873][239]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-13.30.00:874][239]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.22-13.32.50:537][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.09.22-13.32.50:560][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto7
+[2025.09.22-13.32.50:562][263]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto75EBD330D4BF4F6B7B131F8BF31D541CA.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto7.uasset'
+[2025.09.22-13.32.50:585][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto7
+[2025.09.22-13.32.50:586][263]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto7DA3C06E947844DC58CC647AF6E97720A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto7.uasset'
+[2025.09.22-13.32.50:592][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.177
+[2025.09.22-13.32.50:593][263]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.177
+[2025.09.22-13.32.50:593][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-13.32.50:680][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-13.32.50:680][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-13.32.50:775][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto7
+[2025.09.22-13.32.50:777][263]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto7ECB3979A4DE07C3714A014B7F8782F78.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto7.uasset'
+[2025.09.22-13.32.50:780][263]LogFileHelpers: Auto-saving content packages took 0.188
+[2025.09.22-13.36.14:505][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8946.945312
+[2025.09.22-13.36.15:506][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-13.36.15:506][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8947.613281, Update Interval: 310.267029
+[2025.09.22-13.42.00:136][399]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9292.592773
+[2025.09.22-13.42.00:292][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-13.42.00:292][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9292.735352, Update Interval: 351.243622
+[2025.09.22-13.42.29:546][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.22-13.42.29:559][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-13.42.29:643][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT
+[2025.09.22-13.42.29:645][121]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT269C44B44FBF2692481EE9AC06FA7ECF.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT.uasset'
+[2025.09.22-13.42.29:670][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI
+[2025.09.22-13.42.29:672][121]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXIBE9BA91A4580880315E6F7833AEFED38.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI.uasset'
+[2025.09.22-13.42.29:676][121]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-13.42.29:676][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-13.42.29:750][121]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.22-13.42.29:751][121]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV41D90BA7A4C3EC816257A68ACC80D2D20.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.22-13.42.29:764][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.224 ms (total: 553.137 ms)
+[2025.09.22-13.42.29:832][121]LogContentValidation: Display: Starting to validate 9 assets
+[2025.09.22-13.42.29:832][121]LogContentValidation: Enabled validators:
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-13.42.29:832][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-13.42.29:832][121]AssetCheck: /Game/CustomContent/ProtoV4/L_ProtoV4 Validating asset
+[2025.09.22-13.42.29:832][121]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.22-13.43.19:218][496]Running C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" -game -rocket -progress
+[2025.09.22-13.43.19:426][496]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-13.43.19:426][496]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" -game -rocket -progress
+[2025.09.22-13.43.20:029][496]Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.09.22-13.43.21:135][496]
+[2025.09.22-13.43.21:135][496]Generating VisualStudio project files:
+[2025.09.22-13.43.21:135][496]Discovering modules, targets and source code for project...
+[2025.09.22-13.43.21:838][496]Adding projects for all targets...
+[2025.09.22-13.43.24:657][496]Available x64 toolchains (1):
+[2025.09.22-13.43.24:657][496] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2025.09.22-13.43.24:657][496]    (Family=14.44.35207, FamilyRank=1, Version=14.44.35215, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2025.09.22-13.43.24:657][496]Visual Studio 2022 compiler version 14.44.35215 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.09.22-13.43.24:859][496]Adding projects for all targets took 3.02s
+[2025.09.22-13.43.24:959][496]Adding projects for all game projects took 0.01s
+[2025.09.22-13.43.26:267][496]Adding projects for all modules took 1.25s
+[2025.09.22-13.43.26:569][496]Compiling Rules Assemblies
+[2025.09.22-13.43.26:670][496]Compiling Rules Assemblies 100%
+[2025.09.22-13.43.26:670][496]Creating Build Targets
+[2025.09.22-13.43.27:677][496]Exception while creating build target for UnrealEditor: System.ArgumentNullException: Value cannot be null. (Parameter 'element')
+[2025.09.22-13.43.27:677][496]   at System.ArgumentNullException.Throw(String paramName)
+[2025.09.22-13.43.27:677][496]   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+[2025.09.22-13.43.27:677][496]   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+[2025.09.22-13.43.27:677][496]   at UnrealBuildTool.ModuleRules.IsValidForTarget(Type moduleType, ReadOnlyTargetRules targetRules, String& invalidReason)
+[2025.09.22-13.43.27:677][496]   at UnrealBuildTool.UEBuildTarget.AddAllValidModulesToTarget(ILogger Logger)
+[2025.09.22-13.43.27:677][496]   at UnrealBuildTool.UEBuildTarget.PreBuildSetup(ILogger Logger)
+[2025.09.22-13.43.27:677][496]   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, Boolean bSkipRulesCompile, Boolean bForceRulesCompile, Boolean bUsePrecompiled, UnrealIntermediateEnvironment IntermediateEnvironment, ILogger Logger)
+[2025.09.22-13.43.27:677][496]   at UnrealBuildTool.ProjectFileGenerator.<>c__DisplayClass93_2.<GenerateIntelliSenseData>b__2(Tuple`2 Item)
+[2025.09.22-13.43.27:779][496]Creating Build Targets 100%
+[2025.09.22-13.43.27:779][496]Creating Build Targets took 1.12s
+[2025.09.22-13.43.27:779][496]Binding IntelliSense data...
+[2025.09.22-13.43.28:686][496]Binding IntelliSense data... 100%
+[2025.09.22-13.43.28:686][496]Binding IntelliSense data took 0.89s
+[2025.09.22-13.43.28:686][496]Writing project files...
+[2025.09.22-13.43.34:319][496]Writing project files... 100%
+[2025.09.22-13.43.34:320][496]Writing project files took 5.70s
+[2025.09.22-13.43.34:320][496]
+[2025.09.22-13.43.34:320][496]Generating QueryTargets data for editor...
+[2025.09.22-13.43.34:320][496]Compiling Rules Assemblies
+[2025.09.22-13.43.34:320][496]Compiling Rules Assemblies 100%
+[2025.09.22-13.43.34:320][496]Writing Query Target Info
+[2025.09.22-13.43.34:320][496]Writing Query Target Info 100%
+[2025.09.22-13.43.34:320][496]Generating QueryTargets data for editor took 0.02s
+[2025.09.22-13.43.34:320][496]
+[2025.09.22-13.43.34:320][496]Result: Succeeded
+[2025.09.22-13.43.34:320][496]Total execution time: 14.87 seconds
+[2025.09.22-13.43.34:633][496]Candidate modules for hot reload:
+[2025.09.22-13.43.34:633][496]  SunflowerFieldProto
+[2025.09.22-13.43.34:642][496]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,9869 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,9869 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Invalidating makefile for SunflowerFieldProtoEditor (source file added)
+[2025.09.22-13.43.50:620][496]CompilerResultsLog: Available x64 toolchains (1):
+[2025.09.22-13.43.50:620][496]CompilerResultsLog:  * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:     (Family=14.44.35207, FamilyRank=1, Version=14.44.35215, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Visual Studio 2022 compiler version 14.44.35215 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Parsing headers for SunflowerFieldProtoEditor
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\SunflowerFieldProto.uproject C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\SunflowerFieldProtoEditor\Development\SunflowerFieldProtoEditor.uhtmanifest -WarningsAsErrors -installed
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Total of 3 written
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Reflection code generated for SunflowerFieldProtoEditor in 4.8749672 seconds
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade]
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [Upgrade]
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.3 GB available: limiting max parallel actions to 4
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 6 action(s)
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: ---- Starting trace: 250922_154347 ----
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: ------ Building 6 action(s) started ------
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [1/6] Compile [x64] OpenCell.cpp
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [2/6] Compile [x64] ClosedCell.cpp
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [3/6] Compile [x64] Module.SunflowerFieldProto.gen.cpp
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-SunflowerFieldProto-9869.lib
+[2025.09.22-13.43.50:621][496]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-9869.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-9869.exp
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-SunflowerFieldProto-9869.dll
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: [6/6] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.8kb
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.12 seconds
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: 
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Result: Succeeded
+[2025.09.22-13.43.50:621][496]CompilerResultsLog: Total execution time: 15.56 seconds
+[2025.09.22-13.43.50:621][496]LogMainFrame: MainFrame: Module compiling took 15.995 seconds
+[2025.09.22-13.43.50:665][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.22-13.43.50:708][496]LogClass: UPackage /Script/SunflowerFieldProto Reload.
+[2025.09.22-13.43.50:723][496]LogClass: Could not find existing class OpenCell in package /Script/SunflowerFieldProto for reload, assuming new or modified class
+[2025.09.22-13.43.50:945][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.22-13.43.50:983][496]Display: HotReload took 16.4s.
+[2025.09.22-13.43.50:983][496]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 4 classes unchanged
+[2025.09.22-13.43.50:985][496]Warning: HotReload operation took 16.4s.
+[2025.09.22-13.43.51:037][496]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.09.22-13.43.51:939][496]LogHotReload: New module detected: UnrealEditor-SunflowerFieldProto-9869.dll
+[2025.09.22-13.43.52:043][496]LogHotReload: Starting Hot-Reload from IDE
+[2025.09.22-13.43.52:255][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.09.22-13.43.52:380][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2025.09.22-13.43.52:427][496]Display: HotReload took  0.4s.
+[2025.09.22-13.43.52:427][496]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.09.22-13.48.31:560][596]LogBlueprintNodeCache: Display: The blueprint template-node cache is full. As a result, you may experience interactions which are slower than normal. To avoid this, increase the cache's cap in the blueprint editor prefences.
+[2025.09.22-13.48.44:039][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9696.409180
+[2025.09.22-13.48.44:205][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-13.48.44:205][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9696.563477, Update Interval: 334.045837
+[2025.09.22-13.48.44:527][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.09.22-13.54.58:719][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10071.097656
+[2025.09.22-13.54.59:715][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-13.54.59:715][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10071.761719, Update Interval: 355.103607
+[2025.09.22-14.01.53:099][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10485.478516
+[2025.09.22-14.01.54:099][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.01.54:100][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10486.149414, Update Interval: 304.770050
+[2025.09.22-14.02.55:630][531]Candidate modules for hot reload:
+[2025.09.22-14.02.55:630][531]  SunflowerFieldProto
+[2025.09.22-14.02.55:638][531]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,1204 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.02.55:649][531]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,1204 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Parsing headers for SunflowerFieldProtoEditor
+[2025.09.22-14.03.06:643][186]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\SunflowerFieldProto.uproject C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\SunflowerFieldProtoEditor\Development\SunflowerFieldProtoEditor.uhtmanifest -WarningsAsErrors -installed
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Total of 3 written
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Reflection code generated for SunflowerFieldProtoEditor in 4.953267 seconds
+[2025.09.22-14.03.06:643][186]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.03.06:644][186]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.67 GB available: limiting max parallel actions to 4
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 5 action(s)
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: ---- Starting trace: 250922_160305 ----
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: ------ Building 5 action(s) started ------
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: [1/5] Compile [x64] OpenCell.cpp
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,15): error C2143: erreur de syntaxe? absence de ';' avant '*'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                  ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,2): error C4430: sp?cificateur de type manquant - int est pris en compte par d?faut. Remarque? C++ ne prend pas en charge int par d?faut
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,27): error C2238: jetons inattendus avant ';'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                              ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Private\OpenCell.cpp(14,2): error C2065: 'TriggerBox'? identificateur non d?clar?
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     TriggerBox = CreateDefaultSubobject<UBoxComponent>(TEXT("TriggerBox"));
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Private\OpenCell.cpp(15,2): error C2065: 'TriggerBox'? identificateur non d?clar?
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     TriggerBox->SetupAttachment(this);
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Private\OpenCell.cpp(16,2): error C2065: 'TriggerBox'? identificateur non d?clar?
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     TriggerBox->InitBoxExtent(FVector::OneVector);
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Private\OpenCell.cpp(17,2): error C2065: 'TriggerBox'? identificateur non d?clar?
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     TriggerBox->SetCollisionProfileName(TEXT("TriggerBox"));
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Private\OpenCell.cpp(21,2): error C2065: 'TriggerBox'? identificateur non d?clar?
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     TriggerBox->SetRelativeLocation(FVector(50, -50, 0));
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: [2/5] Compile [x64] Module.SunflowerFieldProto.gen.cpp
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,15): error C2143: erreur de syntaxe? absence de ';' avant '*'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                  ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,2): error C4430: sp?cificateur de type manquant - int est pris en compte par d?faut. Remarque? C++ ne prend pas en charge int par d?faut
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(24,27): error C2238: jetons inattendus avant ';'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:     UBoxComponent* TriggerBox;
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                              ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\UnrealEditor\Inc\SunflowerFieldProto\UHT\OpenCell.gen.cpp(82,275): error C2039: 'TriggerBox' n'est pas membre de 'UOpenCell'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UOpenCell_Statics::NewProp_TriggerBox = { "TriggerBox", nullptr, (EPropertyFlags)0x00200800000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOpenCell, TriggerBox), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_TriggerBox_MetaData), NewProp_TriggerBox_MetaData) };
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                                                                                                                                                                                                                                                                                   ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(13,31): note: voir la d?claration de 'UOpenCell'
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: class SUNFLOWERFIELDPROTO_API UOpenCell : public UGridCell
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                               ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\UnrealEditor\Inc\SunflowerFieldProto\UHT\OpenCell.gen.cpp(82,275): error C2618: d?signateur de membre non conforme dans offsetof
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UOpenCell_Statics::NewProp_TriggerBox = { "TriggerBox", nullptr, (EPropertyFlags)0x00200800000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOpenCell, TriggerBox), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_TriggerBox_MetaData), NewProp_TriggerBox_MetaData) };
+[2025.09.22-14.03.06:644][187]CompilerResultsLog:                                                                                                                                                                                                                                                                                   ^
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\UnrealEditor\Inc\SunflowerFieldProto\UHT\OpenCell.gen.cpp(82,275): note: offsetof a une signification int?gr?e? utilisez /Zc:offsetof- pour r?tablir l'ancienne d?finition non conforme
+[2025.09.22-14.03.06:644][187]CompilerResultsLog: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\UnrealEditor\Inc\SunflowerFieldProto\UHT\OpenCell.gen.cpp(82,86): error C2737: 'NewProp_TriggerBox'? l'objet const doit ?tre initialis?
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_UOpenCell_Statics::NewProp_TriggerBox = { "TriggerBox", nullptr, (EPropertyFlags)0x00200800000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOpenCell, TriggerBox), Z_Construct_UClass_UBoxComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_TriggerBox_MetaData), NewProp_TriggerBox_MetaData) };
+[2025.09.22-14.03.06:646][187]CompilerResultsLog:                                                                                      ^
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 8.3kb
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 1.12 seconds
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: 
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2025.09.22-14.03.06:646][187]CompilerResultsLog: Total execution time: 10.61 seconds
+[2025.09.22-14.03.06:646][187]LogMainFrame: MainFrame: Module compiling took 11.029 seconds
+[2025.09.22-14.03.06:646][187]Warning: HotReload failed, recompile failed
+[2025.09.22-14.04.45:703][184]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-14.04.45:712][184]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-14.04.46:814][280]Candidate modules for hot reload:
+[2025.09.22-14.04.46:814][280]  SunflowerFieldProto
+[2025.09.22-14.04.46:822][280]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,8073 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.04.46:829][280]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,8073 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Parsing headers for SunflowerFieldProtoEditor
+[2025.09.22-14.04.53:596][369]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\SunflowerFieldProto.uproject C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\SunflowerFieldProtoEditor\Development\SunflowerFieldProtoEditor.uhtmanifest -WarningsAsErrors -installed
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Error: C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Source\SunflowerFieldProto\Public\OpenCell.h(1) : Error: #include found after .generated.h file - the .generated.h file should always be the last #include in a header
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Total of 0 written
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: 
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2025.09.22-14.04.53:596][369]CompilerResultsLog: Total execution time: 6.39 seconds
+[2025.09.22-14.04.53:596][369]LogMainFrame: MainFrame: Module compiling took 6.791 seconds
+[2025.09.22-14.04.53:596][369]Warning: HotReload failed, recompile failed
+[2025.09.22-14.05.25:742][362]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-14.05.25:849][362]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-14.05.28:534][589]Candidate modules for hot reload:
+[2025.09.22-14.05.28:534][589]  SunflowerFieldProto
+[2025.09.22-14.05.28:542][589]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,7345 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.05.28:549][589]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,7345 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Parsing headers for SunflowerFieldProtoEditor
+[2025.09.22-14.05.41:659][388]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\SunflowerFieldProto.uproject C:\Users\lspitzdrev\SunflowerProto\SunflowerProto\Intermediate\Build\Win64\SunflowerFieldProtoEditor\Development\SunflowerFieldProtoEditor.uhtmanifest -WarningsAsErrors -installed
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Total of 1 written
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Reflection code generated for SunflowerFieldProtoEditor in 5.4328029 seconds
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.05.41:659][388]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.05.41:659][388]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.98 GB available: limiting max parallel actions to 4
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 5 action(s)
+[2025.09.22-14.05.41:659][388]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: ---- Starting trace: 250922_160538 ----
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: ------ Building 5 action(s) started ------
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [1/5] Compile [x64] OpenCell.cpp
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [2/5] Compile [x64] Module.SunflowerFieldProto.gen.cpp
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [3/5] Link [x64] UnrealEditor-SunflowerFieldProto-7345.lib
+[2025.09.22-14.05.41:659][388]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-7345.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-7345.exp
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [4/5] Link [x64] UnrealEditor-SunflowerFieldProto-7345.dll
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: [5/5] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.7kb
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.22 seconds
+[2025.09.22-14.05.41:659][388]CompilerResultsLog: 
+[2025.09.22-14.05.41:660][388]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.05.41:660][388]CompilerResultsLog: Total execution time: 12.72 seconds
+[2025.09.22-14.05.41:660][388]LogMainFrame: MainFrame: Module compiling took 13.137 seconds
+[2025.09.22-14.05.41:698][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.22-14.05.41:729][388]LogClass: UPackage /Script/SunflowerFieldProto Reload.
+[2025.09.22-14.05.41:729][388]LogClass: UClass OpenCell Reload.
+[2025.09.22-14.05.41:736][388]LogClass: Could not find existing class OpenCell in package /Script/SunflowerFieldProto for reload, assuming new or modified class
+[2025.09.22-14.05.41:756][388]Re-instancing OpenCell after reload.
+[2025.09.22-14.05.41:972][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.22-14.05.42:017][388]Display: HotReload took 13.5s.
+[2025.09.22-14.05.42:017][388]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged
+[2025.09.22-14.06.00:750][614]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.22-14.06.01:303][616]LogEditorTransaction: Undo Add Component
+[2025.09.22-14.06.01:647][616]LogEditorTransaction: Undo Remove Components
+[2025.09.22-14.07.09:383][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.09.22-14.07.09:409][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8
+[2025.09.22-14.07.09:411][441]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto8F2393EC64D130E18EF612387D0368D9C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto8.uasset'
+[2025.09.22-14.07.09:436][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8
+[2025.09.22-14.07.09:438][441]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto847F65C1E466FC4B9D19D499E7DAE3D6B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto8.uasset'
+[2025.09.22-14.07.09:442][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.250
+[2025.09.22-14.07.09:442][441]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.250
+[2025.09.22-14.07.09:443][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.07.09:547][441]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.07.09:547][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.07.09:627][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto8
+[2025.09.22-14.07.09:629][441]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto841F74E0445DDAB8DB4BA59A5E183B882.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto8.uasset'
+[2025.09.22-14.07.09:632][441]LogFileHelpers: Auto-saving content packages took 0.190
+[2025.09.22-14.07.41:011][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10833.489258
+[2025.09.22-14.07.42:011][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.07.42:011][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10834.155273, Update Interval: 349.445496
+[2025.09.22-14.08.54:241][756]LogDerivedDataCache: C:/Users/lspitzdrev/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.22-14.09.45:152][910]LogPSOHitching: Encountered 50 PSO creation hitches so far (5 graphics, 45 compute). 0 of them were precached.
+[2025.09.22-14.09.46:601][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.09.22-14.09.46:601][ 30]Can't find target element.
+[2025.09.22-14.10.02:819][425]Cmd: DELETE
+[2025.09.22-14.10.02:819][425]Cmd: ACTOR DELETE
+[2025.09.22-14.10.02:828][425]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.09.22-14.10.02:927][425]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2025.09.22-14.10.02:942][425]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2025.09.22-14.10.04:477][600]Cmd: TRANSACTION UNDO
+[2025.09.22-14.10.04:477][600]LogEditorTransaction: Undo Delete Elements
+[2025.09.22-14.10.04:486][600]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 : the proxy's root component isn't properly set or registered
+[2025.09.22-14.10.04:486][600]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 : the proxy's root component isn't properly set or registered
+[2025.09.22-14.10.04:486][600]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 : the proxy's root component isn't properly set or registered
+[2025.09.22-14.10.04:486][600]LogLandscape: Skipped registration of landscape component to its proxy LandscapeStreamingProxy /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 : the proxy's root component isn't properly set or registered
+[2025.09.22-14.10.22:143][190]LogLandscape: Build Physical Materials: 62 landscape proxies built
+[2025.09.22-14.10.22:143][190]LogLandscape: 62 landscape proxies now need to be saved.
+[2025.09.22-14.13.16:017][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.22-14.13.19:825][686]Candidate modules for hot reload:
+[2025.09.22-14.13.19:825][686]  SunflowerFieldProto
+[2025.09.22-14.13.19:833][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,0538 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.13.19:840][686]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,0538 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.13.27:303][204]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.13.27:303][204]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.3 GB available: limiting max parallel actions to 4
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.13.27:303][204]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: ---- Starting trace: 250922_161324 ----
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.13.27:303][204]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-0538.lib
+[2025.09.22-14.13.27:303][204]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-0538.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-0538.exp
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-0538.dll
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.04 seconds
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: 
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.13.27:304][204]CompilerResultsLog: Total execution time: 7.10 seconds
+[2025.09.22-14.13.27:304][204]LogMainFrame: MainFrame: Module compiling took 7.482 seconds
+[2025.09.22-14.13.27:339][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.22-14.13.27:480][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.22-14.13.27:510][204]Display: HotReload took  7.7s.
+[2025.09.22-14.13.27:511][204]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.14.13:700][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11226.241211
+[2025.09.22-14.14.13:847][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.14.13:847][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11226.375977, Update Interval: 348.993195
+[2025.09.22-14.14.36:426][529]Candidate modules for hot reload:
+[2025.09.22-14.14.36:426][529]  SunflowerFieldProto
+[2025.09.22-14.14.36:442][529]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,4838 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.14.36:473][529]Warning: Starting HotReload took  0.1s.
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,4838 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.14.46:447][293]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.14.46:447][293]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.3 GB available: limiting max parallel actions to 4
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.14.46:447][293]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: ---- Starting trace: 250922_161442 ----
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-4838.lib
+[2025.09.22-14.14.46:447][293]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-4838.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-4838.exp
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-4838.dll
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 4.17 seconds
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: 
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.14.46:447][293]CompilerResultsLog: Total execution time: 8.84 seconds
+[2025.09.22-14.14.46:447][293]LogMainFrame: MainFrame: Module compiling took 10.025 seconds
+[2025.09.22-14.14.46:619][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.09.22-14.14.46:757][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.22-14.14.46:785][293]Display: HotReload took 10.4s.
+[2025.09.22-14.14.46:785][293]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.15.32:504][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-14.15.32:565][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.15.32:576][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.15.32:576][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.15.32:652][279]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.22-14.15.32:654][279]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV46474CDE24F26B584798FF7A7065A175E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.22-14.15.32:666][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.888 ms (total: 714.026 ms)
+[2025.09.22-14.15.32:730][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-14.15.32:730][279]LogContentValidation: Enabled validators:
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-14.15.32:730][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-14.15.32:730][279]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.22-14.16.11:039][375]Candidate modules for hot reload:
+[2025.09.22-14.16.11:039][375]  SunflowerFieldProto
+[2025.09.22-14.16.11:046][375]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,3520 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.16.11:054][375]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,3520 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.16.18:506][891]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.16.18:507][891]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.16.18:507][891]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.3 GB available: limiting max parallel actions to 4
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.16.18:507][891]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: ---- Starting trace: 250922_161615 ----
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-3520.lib
+[2025.09.22-14.16.18:507][891]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3520.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3520.exp
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-3520.dll
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.12 seconds
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: 
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.16.18:507][891]CompilerResultsLog: Total execution time: 7.14 seconds
+[2025.09.22-14.16.18:507][891]LogMainFrame: MainFrame: Module compiling took 7.471 seconds
+[2025.09.22-14.16.18:681][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.09.22-14.16.18:829][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.22-14.16.18:857][891]Display: HotReload took  7.8s.
+[2025.09.22-14.16.18:857][891]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.19.06:729][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.09.22-14.19.06:769][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK_Auto9
+[2025.09.22-14.19.06:769][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GGH7VUPQGJVWO079SNJ1ZK_Auto9AA2FAE0344966FA4E81DC8AFD646C30F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK_Auto9.uasset'
+[2025.09.22-14.19.06:800][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8_Auto9
+[2025.09.22-14.19.06:800][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZMCD32PTO8GQRL16B2GKS8_Auto9A156116F40100C13E8900BA652835900.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8_Auto9.uasset'
+[2025.09.22-14.19.06:829][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE_Auto9
+[2025.09.22-14.19.06:829][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FOC0OUAGUZFV7IA0EKTUOE_Auto99D6B59E745ACFD00721737A4D7DFFD60.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE_Auto9.uasset'
+[2025.09.22-14.19.06:861][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU_Auto9
+[2025.09.22-14.19.06:861][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3PW87UXXRG3HI0YWOKDNEU_Auto9F0116F0B4562AFF7304B81A997977A12.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU_Auto9.uasset'
+[2025.09.22-14.19.06:892][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL_Auto9
+[2025.09.22-14.19.06:892][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FMSTQRJO9K9L8DOHYGQREL_Auto9530A0C24457F0DE960DD09ACD1ACA22E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL_Auto9.uasset'
+[2025.09.22-14.19.06:925][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL_Auto9
+[2025.09.22-14.19.06:925][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/UEGLKKNTI7Z9LWB4HY3UHL_Auto966BF194C4D6C68757E69CB80DEBA1AC3.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL_Auto9.uasset'
+[2025.09.22-14.19.06:959][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP_Auto9
+[2025.09.22-14.19.06:959][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Y6A43CN3OC89QIG2H2OZNP_Auto9F6AC32FF45324DE62E38B1BD9D11FF03.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP_Auto9.uasset'
+[2025.09.22-14.19.06:992][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7_Auto9
+[2025.09.22-14.19.06:992][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0QJ3IRDL8TWIKQI1CIKH7_Auto93B714CFB4A32017F23B72C9DF972D33E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7_Auto9.uasset'
+[2025.09.22-14.19.07:025][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW_Auto9
+[2025.09.22-14.19.07:025][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VY0IAWCKFV7EKMXF7WGURW_Auto98460F49F41EA1ED7A3A09C895C9971C8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW_Auto9.uasset'
+[2025.09.22-14.19.07:057][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF_Auto9
+[2025.09.22-14.19.07:057][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QJJNTALROW0ENKT2U8W6BF_Auto9BD554A644C6B77D14DE322B6BC69D257.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF_Auto9.uasset'
+[2025.09.22-14.19.07:090][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF_Auto9
+[2025.09.22-14.19.07:090][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RQYPJK567Y8GX34OISHMYF_Auto9C50B1FBB41363C95CE66A5A5526A4727.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF_Auto9.uasset'
+[2025.09.22-14.19.07:124][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3_Auto9
+[2025.09.22-14.19.07:124][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/7B98H41FV7V69VVD6ZSBF3_Auto9EB0C78974F270DC20865A3B66F4ECC0B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3_Auto9.uasset'
+[2025.09.22-14.19.07:157][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9_Auto9
+[2025.09.22-14.19.07:157][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FHNQ3IEV8C3H7CY3FS64B9_Auto974D90C3147EA99DFEE31ED991DE879E2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9_Auto9.uasset'
+[2025.09.22-14.19.07:188][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS_Auto9
+[2025.09.22-14.19.07:188][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/HB9ZX7A17IOV345NUBSZCS_Auto9263ABDDB46E5C3E232C5F99B38D34E89.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS_Auto9.uasset'
+[2025.09.22-14.19.07:221][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF_Auto9
+[2025.09.22-14.19.07:221][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/49Q5FDU1Y616XIK34C7BUF_Auto9D85E370F4DC64DF3540DB39315F168F1.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF_Auto9.uasset'
+[2025.09.22-14.19.07:252][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C_Auto9
+[2025.09.22-14.19.07:252][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NHTD6CNAXUN8KJYWXWDC9C_Auto9EA85288D46C0E553A1BA01A74F92D7A0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C_Auto9.uasset'
+[2025.09.22-14.19.07:284][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716_Auto9
+[2025.09.22-14.19.07:284][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/1SZVOF5B9ZO7BSHQO3R716_Auto9AA32C58641FCF07E139E81AEBF42482B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716_Auto9.uasset'
+[2025.09.22-14.19.07:316][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM_Auto9
+[2025.09.22-14.19.07:316][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FA2QKHA3W7ONSM5F8GMCLM_Auto9AB5F514A47D816264042D99AE1E32305.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM_Auto9.uasset'
+[2025.09.22-14.19.07:348][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1_Auto9
+[2025.09.22-14.19.07:348][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QKZRO77FA1QJN0LC1F2LG1_Auto95D7CCC96486AB7A7214C309D8E54E303.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1_Auto9.uasset'
+[2025.09.22-14.19.07:378][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H_Auto9
+[2025.09.22-14.19.07:378][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/K800TSA5O25BCEO7IOBI6H_Auto9B829186B42BD58D8566918A2BBFAF1DD.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H_Auto9.uasset'
+[2025.09.22-14.19.07:410][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58_Auto9
+[2025.09.22-14.19.07:410][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NYADV2FPU6GX4G4MIFTZ58_Auto9778AC3F2431A46DC1441BCAFC8F0CB9B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58_Auto9.uasset'
+[2025.09.22-14.19.07:441][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA_Auto9
+[2025.09.22-14.19.07:441][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GU9SZ927HUK23N84MT0WCA_Auto949C37BB4434F0AADE3C9BCABE6FCC06B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA_Auto9.uasset'
+[2025.09.22-14.19.07:471][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S_Auto9
+[2025.09.22-14.19.07:471][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JBMB172ZGUJM1XOU809E5S_Auto98CF77651418FA0F146D30B8AE4859BE3.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S_Auto9.uasset'
+[2025.09.22-14.19.07:502][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB_Auto9
+[2025.09.22-14.19.07:502][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0MXV1R8OHFZ40SW0IH3TB_Auto9D37634F243750669937D20BE99FA937D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB_Auto9.uasset'
+[2025.09.22-14.19.07:532][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK_Auto9
+[2025.09.22-14.19.07:532][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Z8W8XN9R3D9BU0KOVIA4FK_Auto92CDE25704D36FE66F70F07A938E45453.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK_Auto9.uasset'
+[2025.09.22-14.19.07:567][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z_Auto9
+[2025.09.22-14.19.07:567][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4XFE9NN7GC04PKJFUVZC7Z_Auto979D3881F47EE6D7ED5860D88514199A8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z_Auto9.uasset'
+[2025.09.22-14.19.07:596][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK_Auto9
+[2025.09.22-14.19.07:596][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6I20LJC8PVCITZ2FWBEJKK_Auto9225205034784E0CB2189B094BEEEF58C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK_Auto9.uasset'
+[2025.09.22-14.19.07:626][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0_Auto9
+[2025.09.22-14.19.07:626][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4ETZM4JZNE8SDTWPYB07V0_Auto93F5FC97C4C6A5DB734BB79B35B6AADFF.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0_Auto9.uasset'
+[2025.09.22-14.19.07:658][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE_Auto9
+[2025.09.22-14.19.07:658][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/KZU2WBHHSWKVQD9Q9YSTKE_Auto99EF0F67D4F6EDAB87F107693D9023570.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE_Auto9.uasset'
+[2025.09.22-14.19.07:690][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D_Auto9
+[2025.09.22-14.19.07:691][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/LQ3TBN6LPA8HJGKD9NIA3D_Auto9AB6056484D5C990F0CA6D8AA1D37A7F6.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D_Auto9.uasset'
+[2025.09.22-14.19.07:722][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN_Auto9
+[2025.09.22-14.19.07:722][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FUE7T6YQUZC7FGODAMIQYN_Auto9CE4775B84FD4D278BD4B608FCD638E95.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN_Auto9.uasset'
+[2025.09.22-14.19.07:754][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N_Auto9
+[2025.09.22-14.19.07:754][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AY2VCT88HBYOQNWKXNEQ6N_Auto98AD46678417756F4865AFAA2CA920F03.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N_Auto9.uasset'
+[2025.09.22-14.19.07:785][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1_Auto9
+[2025.09.22-14.19.07:785][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/YXQOATCOMOZ4XLTKQ4V2P1_Auto927FBFB4B4FAFA965D136DFB33E57AC42.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1_Auto9.uasset'
+[2025.09.22-14.19.07:816][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP_Auto9
+[2025.09.22-14.19.07:816][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TCEZ8WTXJ7VGEOBFGS1HDP_Auto9490F97C84FFE6E0C9F9F88891D57F995.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP_Auto9.uasset'
+[2025.09.22-14.19.07:848][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB_Auto9
+[2025.09.22-14.19.07:848][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RO7EJDYVTL7QKMOF1JYEYB_Auto96FBEF8294AFA08104FBEB197BCEC1323.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB_Auto9.uasset'
+[2025.09.22-14.19.07:880][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ_Auto9
+[2025.09.22-14.19.07:880][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6J65S8QIQRH26DZ7OSIDMQ_Auto9888F1B3048DFFC1A5BDA078CDCC220FD.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ_Auto9.uasset'
+[2025.09.22-14.19.07:911][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N_Auto9
+[2025.09.22-14.19.07:911][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/65S3LE59HD0OZ47GY9M65N_Auto93FF8092C488A60D5D83D1293C384EB1B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N_Auto9.uasset'
+[2025.09.22-14.19.07:943][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60_Auto9
+[2025.09.22-14.19.07:943][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/N0HRVPE7NFIJ3Y7QMXRE60_Auto93E90C3D24F534E76E5C9659D39BB908E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60_Auto9.uasset'
+[2025.09.22-14.19.07:996][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO_Auto9
+[2025.09.22-14.19.07:996][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/2ZCUK9ENVXANK24GMLE1NO_Auto9701FF16142DBBD18A1284EB5E03B202F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO_Auto9.uasset'
+[2025.09.22-14.19.08:049][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52_Auto9
+[2025.09.22-14.19.08:049][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JWS8T5K0UKMY7N049YGD52_Auto9DC481F194C2B7CC2A40C17B5ED49C1D6.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52_Auto9.uasset'
+[2025.09.22-14.19.08:089][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4_Auto9
+[2025.09.22-14.19.08:089][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AAARJEIBEI9AXHGUS0QZM4_Auto9CBE9728646AC1CFA8BC11DB3377F7176.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4_Auto9.uasset'
+[2025.09.22-14.19.08:135][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T_Auto9
+[2025.09.22-14.19.08:135][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FW1QOSBBRT500K1CC6QO8T_Auto9C1B16B924ACB258ACC044D831FC66B96.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T_Auto9.uasset'
+[2025.09.22-14.19.08:169][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD_Auto9
+[2025.09.22-14.19.08:169][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/V33S0RQMV630HKQ6TWT6SD_Auto94A174E804159E879BF41D9A03325A919.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD_Auto9.uasset'
+[2025.09.22-14.19.08:200][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24_Auto9
+[2025.09.22-14.19.08:200][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/8KRUK49LZ1OGV7WWICVC24_Auto9C2BB1BBF437978769E0A768D6A29AFA1.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24_Auto9.uasset'
+[2025.09.22-14.19.08:232][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH_Auto9
+[2025.09.22-14.19.08:232][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JNIDLEI0SV9NLIKY28C0MH_Auto951AB3F384D0BD158A804C9A677510822.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH_Auto9.uasset'
+[2025.09.22-14.19.08:268][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2_Auto9
+[2025.09.22-14.19.08:268][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/37JPW7S4MW6S6T2TOGD3F2_Auto934FE0811487EA07F1D265FBF8C4E0E59.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2_Auto9.uasset'
+[2025.09.22-14.19.08:301][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402_Auto9
+[2025.09.22-14.19.08:301][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VFCY1P2AN9I9G6UNX8Z402_Auto9DAB21AB549EBCB55F0DE4D99F178C46F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402_Auto9.uasset'
+[2025.09.22-14.19.08:332][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW_Auto9
+[2025.09.22-14.19.08:332][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/WVRLTN81CHET83D9HOEWRW_Auto9A78A6B16460903AC4E3B549C5199D80F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW_Auto9.uasset'
+[2025.09.22-14.19.08:362][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV_Auto9
+[2025.09.22-14.19.08:362][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/602A9MRDZUDSR69O06SFAV_Auto97684BC134241E1E21748F4810D4BC3B5.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV_Auto9.uasset'
+[2025.09.22-14.19.08:393][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE_Auto9
+[2025.09.22-14.19.08:393][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SBNDUBOECCC2TUI11BLCNE_Auto900107D364B1D1B8CA218B2A59478F1AE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE_Auto9.uasset'
+[2025.09.22-14.19.08:425][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH_Auto9
+[2025.09.22-14.19.08:425][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QH615OPRH7SA0P6XW2FELH_Auto9D5E0E3854F8FC7C96510B9B260A00A80.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH_Auto9.uasset'
+[2025.09.22-14.19.08:455][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N_Auto9
+[2025.09.22-14.19.08:455][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZBOV54U67PZ5B794VHTX6N_Auto9FBA5BDDC4917864C37632580BB038634.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N_Auto9.uasset'
+[2025.09.22-14.19.08:486][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3_Auto9
+[2025.09.22-14.19.08:486][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/60ZSQ0OMGYVC7D69SK0EO3_Auto93461FE2849196B3B0B8282A069BFFAFF.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3_Auto9.uasset'
+[2025.09.22-14.19.08:517][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87_Auto9
+[2025.09.22-14.19.08:517][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SJJN39PBXW7DV7RA237L87_Auto9F786258A4C011711FF2E69A5A7A8F670.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87_Auto9.uasset'
+[2025.09.22-14.19.08:548][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH_Auto9
+[2025.09.22-14.19.08:548][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SH3K7FZ3RSJYSTBIL6P5OH_Auto9E9E16B19453E11294530E794FAD579AE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH_Auto9.uasset'
+[2025.09.22-14.19.08:581][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E_Auto9
+[2025.09.22-14.19.08:581][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/CC1CR3BKSM757IHDT6ER4E_Auto9ADF115AA419930D89F14C6A5362399D8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E_Auto9.uasset'
+[2025.09.22-14.19.08:612][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL_Auto9
+[2025.09.22-14.19.08:612][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/W1W83L9K0ZFA2Q2ZTZ72IL_Auto93F22A2474C8E8F23F33FC88620F5395B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL_Auto9.uasset'
+[2025.09.22-14.19.08:644][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI_Auto9
+[2025.09.22-14.19.08:644][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QGYVX1HY474SDATLE0YMCI_Auto97A67910D4887E795D6C56D8590C32310.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI_Auto9.uasset'
+[2025.09.22-14.19.08:676][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR_Auto9
+[2025.09.22-14.19.08:676][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/XRVJPT3702CS8RBOD16XNR_Auto99875388F476F6DAF70CA829A76979A1F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR_Auto9.uasset'
+[2025.09.22-14.19.08:709][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29_Auto9
+[2025.09.22-14.19.08:709][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/I138NC14OR2QYNUNZDGL29_Auto90804802448C32DCAA13163B0135840AB.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29_Auto9.uasset'
+[2025.09.22-14.19.08:742][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01_Auto9
+[2025.09.22-14.19.08:742][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/U4LLKTMPDVJZIORTYQ2T01_Auto9DC56A26643F30FE28A02B5924A306509.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01_Auto9.uasset'
+[2025.09.22-14.19.08:776][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU_Auto9
+[2025.09.22-14.19.08:776][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3KNW0NI3Y2LZJPZ06VDCZU_Auto9D8E15FC74184FB4895F2D186E50D4465.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU_Auto9.uasset'
+[2025.09.22-14.19.08:800][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto9
+[2025.09.22-14.19.08:800][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto9314F701A448671EBCBD0148D1668D7E0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto9.uasset'
+[2025.09.22-14.19.08:823][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto9
+[2025.09.22-14.19.08:823][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto912B76B6F4DCBAA4C7F4512B33279E18C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto9.uasset'
+[2025.09.22-14.19.08:827][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 2.310
+[2025.09.22-14.19.08:827][589]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.310
+[2025.09.22-14.19.08:827][589]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.19.08:883][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.19.08:883][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.19.08:959][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto9
+[2025.09.22-14.19.08:959][589]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto99E482DF74E1916FBA66A63AE22F8233F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto9.uasset'
+[2025.09.22-14.19.08:962][589]LogFileHelpers: Auto-saving content packages took 0.135
+[2025.09.22-14.19.11:408][791]Candidate modules for hot reload:
+[2025.09.22-14.19.11:408][791]  SunflowerFieldProto
+[2025.09.22-14.19.11:416][791]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,4798 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.19.11:422][791]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,4798 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.19.18:751][307]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.19.18:752][307]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.19.18:752][307]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.98 GB available: limiting max parallel actions to 4
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.19.18:752][307]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: ---- Starting trace: 250922_161915 ----
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-4798.lib
+[2025.09.22-14.19.18:752][307]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-4798.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-4798.exp
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-4798.dll
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.96 seconds
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: 
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.19.18:752][307]CompilerResultsLog: Total execution time: 7.02 seconds
+[2025.09.22-14.19.18:752][307]LogMainFrame: MainFrame: Module compiling took 7.356 seconds
+[2025.09.22-14.19.18:798][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.09.22-14.19.18:953][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.22-14.19.18:982][307]Display: HotReload took  7.6s.
+[2025.09.22-14.19.18:983][307]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.20.50:710][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11623.378906
+[2025.09.22-14.20.51:715][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.20.51:715][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11624.045898, Update Interval: 355.991699
+[2025.09.22-14.21.11:897][659]Candidate modules for hot reload:
+[2025.09.22-14.21.11:897][659]  SunflowerFieldProto
+[2025.09.22-14.21.11:905][659]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,1485 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.21.11:911][659]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,1485 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.21.19:341][189]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.21.19:341][189]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.67 GB available: limiting max parallel actions to 4
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.21.19:341][189]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: ---- Starting trace: 250922_162116 ----
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-1485.lib
+[2025.09.22-14.21.19:341][189]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-1485.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-1485.exp
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-1485.dll
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.94 seconds
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: 
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.21.19:341][189]CompilerResultsLog: Total execution time: 7.11 seconds
+[2025.09.22-14.21.19:341][189]LogMainFrame: MainFrame: Module compiling took 7.449 seconds
+[2025.09.22-14.21.19:536][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2025.09.22-14.21.19:696][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.22-14.21.19:725][189]Display: HotReload took  7.8s.
+[2025.09.22-14.21.19:725][189]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.22.56:581][239]Candidate modules for hot reload:
+[2025.09.22-14.22.56:581][239]  SunflowerFieldProto
+[2025.09.22-14.22.56:589][239]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,7939 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.22.56:596][239]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,7939 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.23.04:110][763]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.23.04:110][763]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.3 GB available: limiting max parallel actions to 4
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.23.04:110][763]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: ---- Starting trace: 250922_162300 ----
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-7939.lib
+[2025.09.22-14.23.04:110][763]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-7939.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-7939.exp
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-7939.dll
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.08 seconds
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: 
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.23.04:110][763]CompilerResultsLog: Total execution time: 7.20 seconds
+[2025.09.22-14.23.04:110][763]LogMainFrame: MainFrame: Module compiling took 7.542 seconds
+[2025.09.22-14.23.04:290][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.22-14.23.04:445][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.22-14.23.04:475][763]Display: HotReload took  7.9s.
+[2025.09.22-14.23.04:475][763]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.27.36:345][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12029.083008
+[2025.09.22-14.27.37:348][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.27.37:348][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12029.757812, Update Interval: 337.134918
+[2025.09.22-14.29.09:260][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.22-14.29.09:289][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto0
+[2025.09.22-14.29.09:289][120]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto0A5C62D0B4D99677CBE3568A7F6C1E0FC.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto0.uasset'
+[2025.09.22-14.29.09:313][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto0
+[2025.09.22-14.29.09:313][120]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto0811F7FD843B5E2550F949C9749E942A0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto0.uasset'
+[2025.09.22-14.29.09:315][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.248
+[2025.09.22-14.29.09:315][120]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.248
+[2025.09.22-14.29.09:317][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.29.09:405][120]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.29.09:406][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.29.09:481][120]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto0
+[2025.09.22-14.29.09:483][120]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto06F56542A4A74F361A688018C2F851660.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto0.uasset'
+[2025.09.22-14.29.09:484][120]LogFileHelpers: Auto-saving content packages took 0.168
+[2025.09.22-14.30.59:509][575]Candidate modules for hot reload:
+[2025.09.22-14.30.59:509][575]  SunflowerFieldProto
+[2025.09.22-14.30.59:518][575]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,0374 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.30.59:524][575]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,0374 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.35 GB available: limiting max parallel actions to 4
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: ---- Starting trace: 250922_163103 ----
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-0374.lib
+[2025.09.22-14.31.06:532][  7]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-0374.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-0374.exp
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-0374.dll
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.70 seconds
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: 
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.31.06:533][  7]CompilerResultsLog: Total execution time: 6.70 seconds
+[2025.09.22-14.31.06:533][  7]LogMainFrame: MainFrame: Module compiling took 7.034 seconds
+[2025.09.22-14.31.06:582][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.22-14.31.06:745][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.22-14.31.06:775][  7]Display: HotReload took  7.3s.
+[2025.09.22-14.31.06:775][  7]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.31.38:246][892]Candidate modules for hot reload:
+[2025.09.22-14.31.38:246][892]  SunflowerFieldProto
+[2025.09.22-14.31.38:255][892]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,3338 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.31.38:261][892]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.31.45:471][365]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.31.45:471][365]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,3338 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.31.45:471][365]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.31.45:471][365]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.31.45:471][365]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.31.45:473][365]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.31.45:473][365]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.67 GB available: limiting max parallel actions to 4
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.31.45:473][365]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: ---- Starting trace: 250922_163142 ----
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-3338.lib
+[2025.09.22-14.31.45:473][365]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3338.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3338.exp
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-3338.dll
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.96 seconds
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: 
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.31.45:473][365]CompilerResultsLog: Total execution time: 6.90 seconds
+[2025.09.22-14.31.45:473][365]LogMainFrame: MainFrame: Module compiling took 7.239 seconds
+[2025.09.22-14.31.45:658][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.09.22-14.31.45:817][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.22-14.31.45:845][365]Display: HotReload took  7.6s.
+[2025.09.22-14.31.45:845][365]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.34.13:331][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12426.087891
+[2025.09.22-14.34.14:330][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.34.14:331][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12426.754883, Update Interval: 346.865448
+[2025.09.22-14.34.27:704][218]Candidate modules for hot reload:
+[2025.09.22-14.34.27:704][218]  SunflowerFieldProto
+[2025.09.22-14.34.27:712][218]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,8325 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.34.27:720][218]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,8325 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.34.35:026][743]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.34.35:026][743]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.35 GB available: limiting max parallel actions to 4
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.34.35:026][743]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: ---- Starting trace: 250922_163431 ----
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-8325.lib
+[2025.09.22-14.34.35:026][743]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8325.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8325.exp
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-8325.dll
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.88 seconds
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: 
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.34.35:026][743]CompilerResultsLog: Total execution time: 7.00 seconds
+[2025.09.22-14.34.35:026][743]LogMainFrame: MainFrame: Module compiling took 7.332 seconds
+[2025.09.22-14.34.35:232][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2025.09.22-14.34.35:380][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.22-14.34.35:410][743]Display: HotReload took  7.7s.
+[2025.09.22-14.34.35:410][743]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.35.43:463][600]LogEditorTransaction: Undo Modify Component(s)
