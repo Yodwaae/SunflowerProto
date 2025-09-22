@@ -22,14 +22,6 @@ tasks.xml
 *.so
 *.dylib
 
-# =========================
-# Unreal Engine build artifacts
-# =========================
-Binaries/
-Build/
-Intermediate/
-Saved/
-DerivedDataCache/
 
 # =========================
 # Plugin-specific build artifacts
@@ -62,3 +54,8 @@ Build/*/**
 # Built data for maps (optional)
 # =========================
 *_BuiltData.uasset
+SunflowerProto/Binaries
+SunflowerProto/Intermediate
+SunflowerProto/Saved
+SunflowerProto/Build
+SunflowerProto/DerivedDataCache
