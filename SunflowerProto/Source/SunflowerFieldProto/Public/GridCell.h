@@ -7,7 +7,7 @@
 #include "GridCell.generated.h"
 
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class SUNFLOWERFIELDPROTO_API UGridCell : public USceneComponent
 {
 	GENERATED_BODY()
@@ -23,6 +23,5 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
 		
 };

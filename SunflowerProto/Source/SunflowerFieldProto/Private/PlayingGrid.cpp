@@ -32,9 +32,9 @@ void APlayingGrid::OnConstruction(const FTransform& Transform)
 	Cube->SetRelativeLocation(FVector(2.5f, -2.5f, 0));
 
 	// // Creating Grid
-	// for (int i = 0; i < gridWidth; i++)
+	// for (int i = 0; i < GridWidth; i++)
 	// {
-	// 	for (int j = 0; j < gridHeight; j++)
+	// 	for (int j = 0; j < GridHeight; j++)
 	// 	{
 	//
 	// 	}

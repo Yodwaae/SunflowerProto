@@ -42,6 +42,9 @@
     <Filter Include="Source\SunflowerFieldProto\Private">
       <UniqueIdentifier>{7A303E49-FCDA-3162-88E6-C2CF8F7A4769}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\ClosedCell.cpp">
+      <Filter>Source\SunflowerFieldProto\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\GridCell.cpp">
       <Filter>Source\SunflowerFieldProto\Private</Filter>
     </ClCompile>
@@ -54,6 +57,9 @@
     <Filter Include="Source\SunflowerFieldProto\Public">
       <UniqueIdentifier>{97D270A4-7DFF-3FDE-A22E-33404A91ABDD}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\ClosedCell.h">
+      <Filter>Source\SunflowerFieldProto\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\GridCell.h">
       <Filter>Source\SunflowerFieldProto\Public</Filter>
     </ClInclude>

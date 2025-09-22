@@ -15,6 +15,8 @@ class SUNFLOWERFIELDPROTO_API UGridSettings : public UDeveloperSettings
 	GENERATED_BODY()
 
 public:
+
+	// Cell Size used by tetro pieces and playing grid
 	UPROPERTY(EditAnywhere, Config, Category="Grid Settings")
 	FVector CellSize = FVector(1, 1, 1);
 	

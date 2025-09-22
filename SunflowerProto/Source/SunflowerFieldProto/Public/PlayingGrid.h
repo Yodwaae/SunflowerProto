@@ -17,11 +17,11 @@ public:
 	virtual void OnConstruction(const FTransform& Transform) override;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true"))
-	bool isEven = true;
+	bool IsEven = true;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true", ClampMin=1, ClampMax=8))
-	int32 gridWidth = 1;
+	int32 GridWidth = 1;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true", ClampMin=1, ClampMax=8))
-	int32 gridHeight = 1;
+	int32 GridHeight = 1;
 
 protected:
 	// Called when the game starts or when spawned

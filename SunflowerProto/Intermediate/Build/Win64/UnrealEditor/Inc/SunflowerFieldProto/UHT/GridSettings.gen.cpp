@@ -64,7 +64,13 @@ struct Z_Construct_UClass_UGridSettings_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CellSize_MetaData[] = {
 		{ "Category", "Grid Settings" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "// Cell Size used by tetro pieces and playing grid\n" },
+#endif
 		{ "ModuleRelativePath", "Public/GridSettings.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "Cell Size used by tetro pieces and playing grid" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FStructPropertyParams NewProp_CellSize;
@@ -75,7 +81,7 @@ struct Z_Construct_UClass_UGridSettings_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGridSettings_Statics::NewProp_CellSize = { "CellSize", nullptr, (EPropertyFlags)0x0040000000004001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UGridSettings, CellSize), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CellSize_MetaData), NewProp_CellSize_MetaData) };
+const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGridSettings_Statics::NewProp_CellSize = { "CellSize", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UGridSettings, CellSize), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CellSize_MetaData), NewProp_CellSize_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UGridSettings_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGridSettings_Statics::NewProp_CellSize,
 };
@@ -117,10 +123,10 @@ UGridSettings::~UGridSettings() {}
 struct Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_GridSettings_h__Script_SunflowerFieldProto_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UGridSettings, UGridSettings::StaticClass, TEXT("UGridSettings"), &Z_Registration_Info_UClass_UGridSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGridSettings), 2489809348U) },
+		{ Z_Construct_UClass_UGridSettings, UGridSettings::StaticClass, TEXT("UGridSettings"), &Z_Registration_Info_UClass_UGridSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGridSettings), 361737581U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_GridSettings_h__Script_SunflowerFieldProto_3678407914(TEXT("/Script/SunflowerFieldProto"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_GridSettings_h__Script_SunflowerFieldProto_1342208454(TEXT("/Script/SunflowerFieldProto"),
 	Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_GridSettings_h__Script_SunflowerFieldProto_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_GridSettings_h__Script_SunflowerFieldProto_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -262,6 +262,9 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\SunflowerFieldProto.h"/>
+    <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\ClosedCell.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\GridCell.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
@@ -271,6 +274,7 @@
     <ClCompile Include="..\..\Source\SunflowerFieldProto\Private\PlayingGrid.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\ClosedCell.h"/>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\GridCell.h"/>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\GridSettings.h"/>
     <ClInclude Include="..\..\Source\SunflowerFieldProto\Public\PlayingGrid.h"/>

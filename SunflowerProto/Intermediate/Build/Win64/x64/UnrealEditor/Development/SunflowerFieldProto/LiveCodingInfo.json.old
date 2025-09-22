@@ -2,6 +2,7 @@
 	"RemapUnityFiles": 
 	{
 		"Module.SunflowerFieldProto.gen.cpp.obj": [
+			"GridCell.gen.cpp.obj",
 			"GridSettings.gen.cpp.obj",
 			"PlayingGrid.gen.cpp.obj",
 			"SunflowerFieldProto.init.gen.cpp.obj"

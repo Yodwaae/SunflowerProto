@@ -59,19 +59,19 @@ struct Z_Construct_UClass_APlayingGrid_Statics
 		{ "IncludePath", "PlayingGrid.h" },
 		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_isEven_MetaData[] = {
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_IsEven_MetaData[] = {
 		{ "Category", "PlayingGrid" },
 		{ "ExposeOnSpawn", "true" },
 		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_gridWidth_MetaData[] = {
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_GridWidth_MetaData[] = {
 		{ "Category", "PlayingGrid" },
 		{ "ClampMax", "8" },
 		{ "ClampMin", "1" },
 		{ "ExposeOnSpawn", "true" },
 		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
 	};
-	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_gridHeight_MetaData[] = {
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_GridHeight_MetaData[] = {
 		{ "Category", "PlayingGrid" },
 		{ "ClampMax", "8" },
 		{ "ClampMin", "1" },
@@ -84,10 +84,10 @@ struct Z_Construct_UClass_APlayingGrid_Statics
 		{ "ModuleRelativePath", "Public/PlayingGrid.h" },
 	};
 #endif // WITH_METADATA
-	static void NewProp_isEven_SetBit(void* Obj);
-	static const UECodeGen_Private::FBoolPropertyParams NewProp_isEven;
-	static const UECodeGen_Private::FIntPropertyParams NewProp_gridWidth;
-	static const UECodeGen_Private::FIntPropertyParams NewProp_gridHeight;
+	static void NewProp_IsEven_SetBit(void* Obj);
+	static const UECodeGen_Private::FBoolPropertyParams NewProp_IsEven;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_GridWidth;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_GridHeight;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_Cube;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
@@ -96,18 +96,18 @@ struct Z_Construct_UClass_APlayingGrid_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-void Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven_SetBit(void* Obj)
+void Z_Construct_UClass_APlayingGrid_Statics::NewProp_IsEven_SetBit(void* Obj)
 {
-	((APlayingGrid*)Obj)->isEven = 1;
+	((APlayingGrid*)Obj)->IsEven = 1;
 }
-const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven = { "isEven", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(APlayingGrid), &Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_isEven_MetaData), NewProp_isEven_MetaData) };
-const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridWidth = { "gridWidth", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, gridWidth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_gridWidth_MetaData), NewProp_gridWidth_MetaData) };
-const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridHeight = { "gridHeight", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, gridHeight), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_gridHeight_MetaData), NewProp_gridHeight_MetaData) };
+const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_IsEven = { "IsEven", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(APlayingGrid), &Z_Construct_UClass_APlayingGrid_Statics::NewProp_IsEven_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IsEven_MetaData), NewProp_IsEven_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_GridWidth = { "GridWidth", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, GridWidth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_GridWidth_MetaData), NewProp_GridWidth_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_GridHeight = { "GridHeight", nullptr, (EPropertyFlags)0x0011000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, GridHeight), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_GridHeight_MetaData), NewProp_GridHeight_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APlayingGrid_Statics::NewProp_Cube = { "Cube", nullptr, (EPropertyFlags)0x00200800000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APlayingGrid, Cube), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Cube_MetaData), NewProp_Cube_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APlayingGrid_Statics::PropPointers[] = {
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_isEven,
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridWidth,
-	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_gridHeight,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_IsEven,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_GridWidth,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_GridHeight,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APlayingGrid_Statics::NewProp_Cube,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APlayingGrid_Statics::PropPointers) < 2048);
@@ -147,10 +147,10 @@ APlayingGrid::~APlayingGrid() {}
 struct Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APlayingGrid, APlayingGrid::StaticClass, TEXT("APlayingGrid"), &Z_Registration_Info_UClass_APlayingGrid, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayingGrid), 2679557776U) },
+		{ Z_Construct_UClass_APlayingGrid, APlayingGrid::StaticClass, TEXT("APlayingGrid"), &Z_Registration_Info_UClass_APlayingGrid, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlayingGrid), 905403815U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_347109714(TEXT("/Script/SunflowerFieldProto"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_1402932440(TEXT("/Script/SunflowerFieldProto"),
 	Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_lspitzdrev_SunflowerProto_SunflowerProto_Source_SunflowerFieldProto_Public_PlayingGrid_h__Script_SunflowerFieldProto_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

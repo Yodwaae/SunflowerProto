@@ -2,7 +2,6 @@
 
 
 #include "GridCell.h"
-
 #include "GridSettings.h"
 
 // Sets default values for this component's properties
@@ -13,9 +12,7 @@ UGridCell::UGridCell()
 	PrimaryComponentTick.bCanEverTick = true;
 
 	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
-	
 	this->SetWorldScale3D(Scale);
-	// ...
 }
 
 
@@ -23,8 +20,6 @@ UGridCell::UGridCell()
 void UGridCell::BeginPlay()
 {
 	Super::BeginPlay();
-
-	// ...
 	
 }
 
@@ -34,6 +29,5 @@ void UGridCell::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	// ...
 }
 
