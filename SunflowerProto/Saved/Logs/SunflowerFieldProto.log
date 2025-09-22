@@ -3758,3 +3758,568 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-14.34.35:410][743]Display: HotReload took  7.7s.
 [2025.09.22-14.34.35:410][743]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
 [2025.09.22-14.35.43:463][600]LogEditorTransaction: Undo Modify Component(s)
+[2025.09.22-14.39.10:090][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2025.09.22-14.39.10:124][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK_Auto1
+[2025.09.22-14.39.10:124][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GGH7VUPQGJVWO079SNJ1ZK_Auto1C813249B47CD0E3D42CBE3AA53B76316.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK_Auto1.uasset'
+[2025.09.22-14.39.10:153][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8_Auto1
+[2025.09.22-14.39.10:153][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZMCD32PTO8GQRL16B2GKS8_Auto117DD643F4AE709E5A8BD409FAEC5568A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8_Auto1.uasset'
+[2025.09.22-14.39.10:179][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE_Auto1
+[2025.09.22-14.39.10:181][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FOC0OUAGUZFV7IA0EKTUOE_Auto18FE3058A4596DE0D7AF7378A2ED35C1F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE_Auto1.uasset'
+[2025.09.22-14.39.10:209][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU_Auto1
+[2025.09.22-14.39.10:209][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3PW87UXXRG3HI0YWOKDNEU_Auto1ADD21F684E159F46FBA4A6BF53ABB094.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU_Auto1.uasset'
+[2025.09.22-14.39.10:238][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL_Auto1
+[2025.09.22-14.39.10:238][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FMSTQRJO9K9L8DOHYGQREL_Auto14265CC0D44BFA0E95B5E24978CFB17BC.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL_Auto1.uasset'
+[2025.09.22-14.39.10:268][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL_Auto1
+[2025.09.22-14.39.10:268][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/UEGLKKNTI7Z9LWB4HY3UHL_Auto1C16705CA49640B5403880D9FD9FBC47D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL_Auto1.uasset'
+[2025.09.22-14.39.10:300][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP_Auto1
+[2025.09.22-14.39.10:300][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Y6A43CN3OC89QIG2H2OZNP_Auto170F638D04F1F129DDD62F3940588579F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP_Auto1.uasset'
+[2025.09.22-14.39.10:330][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7_Auto1
+[2025.09.22-14.39.10:330][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0QJ3IRDL8TWIKQI1CIKH7_Auto11CC8E760449A5C903D98E6AE37451C90.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7_Auto1.uasset'
+[2025.09.22-14.39.10:360][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW_Auto1
+[2025.09.22-14.39.10:361][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VY0IAWCKFV7EKMXF7WGURW_Auto1C0EA94D541304A24BB15678022372270.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW_Auto1.uasset'
+[2025.09.22-14.39.10:391][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF_Auto1
+[2025.09.22-14.39.10:391][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QJJNTALROW0ENKT2U8W6BF_Auto143BF53F542E1AFCEDF328B8609FA691E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF_Auto1.uasset'
+[2025.09.22-14.39.10:420][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF_Auto1
+[2025.09.22-14.39.10:420][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RQYPJK567Y8GX34OISHMYF_Auto1E8E418634D5B7A9B309309A437AAB91A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF_Auto1.uasset'
+[2025.09.22-14.39.10:451][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3_Auto1
+[2025.09.22-14.39.10:451][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/7B98H41FV7V69VVD6ZSBF3_Auto102192DA748CFBE7E94FDD0A2808A12F3.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3_Auto1.uasset'
+[2025.09.22-14.39.10:481][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9_Auto1
+[2025.09.22-14.39.10:481][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FHNQ3IEV8C3H7CY3FS64B9_Auto1A8E434F24692B62A08CDB5A9D94A715F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9_Auto1.uasset'
+[2025.09.22-14.39.10:510][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS_Auto1
+[2025.09.22-14.39.10:510][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/HB9ZX7A17IOV345NUBSZCS_Auto1EC1A514F4F01C28CD442C0A366A6023A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS_Auto1.uasset'
+[2025.09.22-14.39.10:539][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF_Auto1
+[2025.09.22-14.39.10:539][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/49Q5FDU1Y616XIK34C7BUF_Auto123065B6F46FECE52379372A65F4E9F37.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF_Auto1.uasset'
+[2025.09.22-14.39.10:568][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C_Auto1
+[2025.09.22-14.39.10:568][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NHTD6CNAXUN8KJYWXWDC9C_Auto19D6D8578466BFAC45B49758F57C6A4A9.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C_Auto1.uasset'
+[2025.09.22-14.39.10:599][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716_Auto1
+[2025.09.22-14.39.10:599][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/1SZVOF5B9ZO7BSHQO3R716_Auto117BF65A64BAAFE1160DB31B1ECD11862.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716_Auto1.uasset'
+[2025.09.22-14.39.10:628][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM_Auto1
+[2025.09.22-14.39.10:628][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FA2QKHA3W7ONSM5F8GMCLM_Auto1B964179144D9C368F17F9ABE1C0F9750.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM_Auto1.uasset'
+[2025.09.22-14.39.10:658][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1_Auto1
+[2025.09.22-14.39.10:658][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QKZRO77FA1QJN0LC1F2LG1_Auto1B7610E61404CC8519AC10DA9DF9970E8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1_Auto1.uasset'
+[2025.09.22-14.39.10:689][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H_Auto1
+[2025.09.22-14.39.10:689][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/K800TSA5O25BCEO7IOBI6H_Auto1A15524AD4E655ECF7AD557A640D1C05C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H_Auto1.uasset'
+[2025.09.22-14.39.10:724][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58_Auto1
+[2025.09.22-14.39.10:724][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NYADV2FPU6GX4G4MIFTZ58_Auto1BBC754B74D1C42B53CADDDAA357F60E4.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58_Auto1.uasset'
+[2025.09.22-14.39.10:756][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA_Auto1
+[2025.09.22-14.39.10:756][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GU9SZ927HUK23N84MT0WCA_Auto101F36FF84AE0935F7B64579A195F6149.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA_Auto1.uasset'
+[2025.09.22-14.39.10:791][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S_Auto1
+[2025.09.22-14.39.10:791][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JBMB172ZGUJM1XOU809E5S_Auto154CBF7CB4FAAE93B96B92E9CA8173C3F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S_Auto1.uasset'
+[2025.09.22-14.39.10:822][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB_Auto1
+[2025.09.22-14.39.10:822][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0MXV1R8OHFZ40SW0IH3TB_Auto18D0919D144150D4990B75B9E640D13F7.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB_Auto1.uasset'
+[2025.09.22-14.39.10:852][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK_Auto1
+[2025.09.22-14.39.10:852][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Z8W8XN9R3D9BU0KOVIA4FK_Auto1FEF3D0BC497B09B01EEBBE9035FFDD66.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK_Auto1.uasset'
+[2025.09.22-14.39.10:883][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z_Auto1
+[2025.09.22-14.39.10:883][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4XFE9NN7GC04PKJFUVZC7Z_Auto1A5F7CFAE4F39CC37856C60814D4A8DED.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z_Auto1.uasset'
+[2025.09.22-14.39.10:913][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK_Auto1
+[2025.09.22-14.39.10:913][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6I20LJC8PVCITZ2FWBEJKK_Auto13E8A0B0C4A2787A1AF48349906FC854A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK_Auto1.uasset'
+[2025.09.22-14.39.10:942][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0_Auto1
+[2025.09.22-14.39.10:942][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4ETZM4JZNE8SDTWPYB07V0_Auto10B59371F43C09F795EFBB4B2717F6B7C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0_Auto1.uasset'
+[2025.09.22-14.39.10:971][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE_Auto1
+[2025.09.22-14.39.10:971][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/KZU2WBHHSWKVQD9Q9YSTKE_Auto178F7A1324B3CB55D6488AF81D51674B9.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE_Auto1.uasset'
+[2025.09.22-14.39.11:002][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D_Auto1
+[2025.09.22-14.39.11:002][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/LQ3TBN6LPA8HJGKD9NIA3D_Auto1654076CF408ACEB82EE1DF8B81F9CC31.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D_Auto1.uasset'
+[2025.09.22-14.39.11:033][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN_Auto1
+[2025.09.22-14.39.11:033][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FUE7T6YQUZC7FGODAMIQYN_Auto10E2A58FB4175FC68B003CDB829F6C956.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN_Auto1.uasset'
+[2025.09.22-14.39.11:062][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N_Auto1
+[2025.09.22-14.39.11:062][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AY2VCT88HBYOQNWKXNEQ6N_Auto1A7E265D3459DEE30DB1FAAB742DB133B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N_Auto1.uasset'
+[2025.09.22-14.39.11:093][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1_Auto1
+[2025.09.22-14.39.11:093][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/YXQOATCOMOZ4XLTKQ4V2P1_Auto17D517FA5478A0150E8CF8EA185A10F14.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1_Auto1.uasset'
+[2025.09.22-14.39.11:125][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP_Auto1
+[2025.09.22-14.39.11:125][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TCEZ8WTXJ7VGEOBFGS1HDP_Auto1731AAC3642FE6723DC959DB94066E9E2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP_Auto1.uasset'
+[2025.09.22-14.39.11:156][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB_Auto1
+[2025.09.22-14.39.11:156][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RO7EJDYVTL7QKMOF1JYEYB_Auto1D171A16443D06CB5E046B78939F8307D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB_Auto1.uasset'
+[2025.09.22-14.39.11:186][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ_Auto1
+[2025.09.22-14.39.11:186][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6J65S8QIQRH26DZ7OSIDMQ_Auto1DD680CE942C8BB0161CF979D9A814098.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ_Auto1.uasset'
+[2025.09.22-14.39.11:215][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N_Auto1
+[2025.09.22-14.39.11:216][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/65S3LE59HD0OZ47GY9M65N_Auto12F7AEBAD4F2756217EBC76B658A4BC17.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N_Auto1.uasset'
+[2025.09.22-14.39.11:245][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60_Auto1
+[2025.09.22-14.39.11:245][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/N0HRVPE7NFIJ3Y7QMXRE60_Auto15F49627A484478E63F4044B73A62561B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60_Auto1.uasset'
+[2025.09.22-14.39.11:274][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO_Auto1
+[2025.09.22-14.39.11:274][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/2ZCUK9ENVXANK24GMLE1NO_Auto1977FA88E4276AB713DA05C88E276A01C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO_Auto1.uasset'
+[2025.09.22-14.39.11:304][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52_Auto1
+[2025.09.22-14.39.11:304][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JWS8T5K0UKMY7N049YGD52_Auto15F245DC7465F6EA45A6465A0BCDE5F82.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52_Auto1.uasset'
+[2025.09.22-14.39.11:334][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4_Auto1
+[2025.09.22-14.39.11:334][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AAARJEIBEI9AXHGUS0QZM4_Auto159A77BA54B1C826AF9C530BF9D4706B0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4_Auto1.uasset'
+[2025.09.22-14.39.11:362][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T_Auto1
+[2025.09.22-14.39.11:362][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FW1QOSBBRT500K1CC6QO8T_Auto1C5BF869A4F5EAE70A788DF837945686D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T_Auto1.uasset'
+[2025.09.22-14.39.11:393][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD_Auto1
+[2025.09.22-14.39.11:393][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/V33S0RQMV630HKQ6TWT6SD_Auto144B0DC37420A95B7D65DBEA72D6BF70D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD_Auto1.uasset'
+[2025.09.22-14.39.11:420][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24_Auto1
+[2025.09.22-14.39.11:420][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/8KRUK49LZ1OGV7WWICVC24_Auto1DE8CFB5547A9A7D731524FB57DFC0499.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24_Auto1.uasset'
+[2025.09.22-14.39.11:450][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH_Auto1
+[2025.09.22-14.39.11:450][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JNIDLEI0SV9NLIKY28C0MH_Auto15F493698431DCBBC76C35BAAD655B6D5.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH_Auto1.uasset'
+[2025.09.22-14.39.11:480][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2_Auto1
+[2025.09.22-14.39.11:480][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/37JPW7S4MW6S6T2TOGD3F2_Auto19807D30E405BD83906ADE2880D1A4C5D.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2_Auto1.uasset'
+[2025.09.22-14.39.11:512][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402_Auto1
+[2025.09.22-14.39.11:512][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VFCY1P2AN9I9G6UNX8Z402_Auto1737E2813489D6ACE1B92F0A720421246.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402_Auto1.uasset'
+[2025.09.22-14.39.11:544][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW_Auto1
+[2025.09.22-14.39.11:544][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/WVRLTN81CHET83D9HOEWRW_Auto144AA720C4C41856F4827EB8F36DDBC3F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW_Auto1.uasset'
+[2025.09.22-14.39.11:574][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV_Auto1
+[2025.09.22-14.39.11:574][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/602A9MRDZUDSR69O06SFAV_Auto18D597136444A52A3D506FA80D816FF39.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV_Auto1.uasset'
+[2025.09.22-14.39.11:605][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE_Auto1
+[2025.09.22-14.39.11:605][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SBNDUBOECCC2TUI11BLCNE_Auto1594CA44543CD12CB0F233DBBFAD39203.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE_Auto1.uasset'
+[2025.09.22-14.39.11:634][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH_Auto1
+[2025.09.22-14.39.11:634][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QH615OPRH7SA0P6XW2FELH_Auto1A9A1086E4BC04C2014739CBBB3226AA0.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH_Auto1.uasset'
+[2025.09.22-14.39.11:664][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N_Auto1
+[2025.09.22-14.39.11:664][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZBOV54U67PZ5B794VHTX6N_Auto1710072C34B67419EDA350883DED561A7.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N_Auto1.uasset'
+[2025.09.22-14.39.11:692][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3_Auto1
+[2025.09.22-14.39.11:692][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/60ZSQ0OMGYVC7D69SK0EO3_Auto1AD8F5D7C4B9688FEC87382B71C30ED69.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3_Auto1.uasset'
+[2025.09.22-14.39.11:722][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87_Auto1
+[2025.09.22-14.39.11:722][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SJJN39PBXW7DV7RA237L87_Auto1D65CC09B4E787E257C5BA8A316C887B6.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87_Auto1.uasset'
+[2025.09.22-14.39.11:753][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH_Auto1
+[2025.09.22-14.39.11:753][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SH3K7FZ3RSJYSTBIL6P5OH_Auto1E423A8994C63F8A3FC3FD5993A1F1A7C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH_Auto1.uasset'
+[2025.09.22-14.39.11:783][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E_Auto1
+[2025.09.22-14.39.11:783][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/CC1CR3BKSM757IHDT6ER4E_Auto1CC5C22934ED06146C33E429EC5F7A542.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E_Auto1.uasset'
+[2025.09.22-14.39.11:814][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL_Auto1
+[2025.09.22-14.39.11:814][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/W1W83L9K0ZFA2Q2ZTZ72IL_Auto1A906CB7540B92BD63B7BB19456FB9779.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL_Auto1.uasset'
+[2025.09.22-14.39.11:845][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI_Auto1
+[2025.09.22-14.39.11:845][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QGYVX1HY474SDATLE0YMCI_Auto1C231643640F9A1CF8E38B4B7942BA008.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI_Auto1.uasset'
+[2025.09.22-14.39.11:875][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR_Auto1
+[2025.09.22-14.39.11:875][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/XRVJPT3702CS8RBOD16XNR_Auto1C512B000416C8FE9D09354A136438956.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR_Auto1.uasset'
+[2025.09.22-14.39.11:906][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29_Auto1
+[2025.09.22-14.39.11:906][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/I138NC14OR2QYNUNZDGL29_Auto1E602F67F4881DF2F9D5CC581BCB8AA11.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29_Auto1.uasset'
+[2025.09.22-14.39.11:935][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01_Auto1
+[2025.09.22-14.39.11:935][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/U4LLKTMPDVJZIORTYQ2T01_Auto1FA350C52438523F584A073B79FFF2929.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01_Auto1.uasset'
+[2025.09.22-14.39.11:965][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU_Auto1
+[2025.09.22-14.39.11:965][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3KNW0NI3Y2LZJPZ06VDCZU_Auto1C9384715497F854C52BBE7822B4D0CFF.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU_Auto1.uasset'
+[2025.09.22-14.39.11:991][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto1
+[2025.09.22-14.39.11:993][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto1D520C55741D20921D78108AE277885AA.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto1.uasset'
+[2025.09.22-14.39.12:022][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto1
+[2025.09.22-14.39.12:025][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto10B494C1747AF76E8282A28A281037E51.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto1.uasset'
+[2025.09.22-14.39.12:031][333]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 2.158
+[2025.09.22-14.39.12:031][333]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.158
+[2025.09.22-14.39.12:032][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.39.12:140][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.39.12:140][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.39.12:227][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto1
+[2025.09.22-14.39.12:229][333]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto1E97EA5234FF33625000961B4AC4E79A8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto1.uasset'
+[2025.09.22-14.39.12:232][333]LogFileHelpers: Auto-saving content packages took 0.201
+[2025.09.22-14.40.35:283][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12807.986328
+[2025.09.22-14.40.36:282][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.40.36:282][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12808.651367, Update Interval: 329.563293
+[2025.09.22-14.46.06:252][313]Candidate modules for hot reload:
+[2025.09.22-14.46.06:252][313]  SunflowerFieldProto
+[2025.09.22-14.46.06:261][313]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,3397 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-14.46.06:268][313]Warning: Starting HotReload took  0.0s.
+[2025.09.22-14.46.13:776][837]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-14.46.13:776][837]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,3397 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-14.46.13:776][837]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [Upgrade]
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-14.46.13:777][837]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-14.46.13:777][837]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.93 GB available: limiting max parallel actions to 5
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-14.46.13:777][837]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: ---- Starting trace: 250922_164610 ----
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-3397.lib
+[2025.09.22-14.46.13:777][837]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3397.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-3397.exp
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-3397.dll
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.04 seconds
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: 
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Result: Succeeded
+[2025.09.22-14.46.13:777][837]CompilerResultsLog: Total execution time: 7.19 seconds
+[2025.09.22-14.46.13:777][837]LogMainFrame: MainFrame: Module compiling took 7.537 seconds
+[2025.09.22-14.46.13:837][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.09.22-14.46.14:016][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.22-14.46.14:047][837]Display: HotReload took  7.8s.
+[2025.09.22-14.46.14:047][837]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-14.47.04:248][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13196.971680
+[2025.09.22-14.47.04:382][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.47.04:382][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13197.096680, Update Interval: 319.342010
+[2025.09.22-14.49.12:590][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2025.09.22-14.49.12:623][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto2
+[2025.09.22-14.49.12:626][531]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto2EB34B8CF41560B89F8A6EDA83234A495.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto2.uasset'
+[2025.09.22-14.49.12:659][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto2
+[2025.09.22-14.49.12:660][531]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto2D6DC649D4E3CE28CF0D8B7874C29F27F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto2.uasset'
+[2025.09.22-14.49.12:665][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.282
+[2025.09.22-14.49.12:665][531]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.282
+[2025.09.22-14.49.12:666][531]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-14.49.12:771][531]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-14.49.12:771][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-14.49.12:848][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto2
+[2025.09.22-14.49.12:850][531]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto23ECB91994F6E8B2BCC0B8A9D0AC12A09.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto2.uasset'
+[2025.09.22-14.49.12:853][531]LogFileHelpers: Auto-saving content packages took 0.188
+[2025.09.22-14.53.07:925][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13560.648438
+[2025.09.22-14.53.08:926][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.53.08:926][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13561.314453, Update Interval: 305.905334
+[2025.09.22-14.54.13:338][ 45]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.22-14.59.13:206][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13925.922852
+[2025.09.22-14.59.14:205][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-14.59.14:206][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13926.590820, Update Interval: 359.075287
+[2025.09.22-15.02.28:343][615]Candidate modules for hot reload:
+[2025.09.22-15.02.28:343][615]  SunflowerFieldProto
+[2025.09.22-15.02.28:350][615]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,1180 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-15.02.28:359][615]Warning: Starting HotReload took  0.0s.
+[2025.09.22-15.02.33:211][825]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.22-15.02.33:220][825]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,1180 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-15.02.35:113][982]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-15.02.35:113][982]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.67 GB available: limiting max parallel actions to 4
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-15.02.35:113][982]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: ---- Starting trace: 250922_170231 ----
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-1180.lib
+[2025.09.22-15.02.35:113][982]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-1180.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-1180.exp
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-1180.dll
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.97 seconds
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: 
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Result: Succeeded
+[2025.09.22-15.02.35:113][982]CompilerResultsLog: Total execution time: 6.43 seconds
+[2025.09.22-15.02.35:113][982]LogMainFrame: MainFrame: Module compiling took 6.781 seconds
+[2025.09.22-15.02.35:176][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.22-15.02.35:355][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.22-15.02.35:386][982]Display: HotReload took  7.1s.
+[2025.09.22-15.02.35:386][982]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-15.03.41:478][225]Candidate modules for hot reload:
+[2025.09.22-15.03.41:478][225]  SunflowerFieldProto
+[2025.09.22-15.03.41:487][225]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,8664 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-15.03.41:495][225]Warning: Starting HotReload took  0.0s.
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,8664 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-15.03.48:172][668]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-15.03.48:172][668]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.35 GB available: limiting max parallel actions to 4
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 3 action(s)
+[2025.09.22-15.03.48:172][668]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: ---- Starting trace: 250922_170346 ----
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: ------ Building 3 action(s) started ------
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [1/3] Link [x64] UnrealEditor-SunflowerFieldProto-8664.lib
+[2025.09.22-15.03.48:172][668]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8664.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8664.exp
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [2/3] Link [x64] UnrealEditor-SunflowerFieldProto-8664.dll
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: [3/3] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.1kb
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 2.04 seconds
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: 
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Result: Succeeded
+[2025.09.22-15.03.48:172][668]CompilerResultsLog: Total execution time: 6.35 seconds
+[2025.09.22-15.03.48:173][668]LogMainFrame: MainFrame: Module compiling took 6.697 seconds
+[2025.09.22-15.03.48:309][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.09.22-15.03.48:482][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.22-15.03.48:510][668]Display: HotReload took  7.0s.
+[2025.09.22-15.03.48:510][668]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-15.04.54:679][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.09.22-15.04.54:722][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto3
+[2025.09.22-15.04.54:724][889]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT_Auto3A8E0EB6B4BC35151016C37ADFDEB86A9.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT_Auto3.uasset'
+[2025.09.22-15.04.54:751][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto3
+[2025.09.22-15.04.54:753][889]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXI_Auto3E972FDCF4E74340F87BE8EB7298B0F11.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI_Auto3.uasset'
+[2025.09.22-15.04.54:759][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CustomContent/ProtoV4/L_ProtoV4' took 0.271
+[2025.09.22-15.04.54:759][889]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.271
+[2025.09.22-15.04.54:760][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-15.04.54:852][889]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomContent/ProtoV4/BP_SolarPanelV4.BP_SolarPanelV4]
+[2025.09.22-15.04.54:852][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-15.04.54:933][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto3
+[2025.09.22-15.04.54:934][889]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV4_Auto3D081D67E44B3C7DE54F861AE264E04A8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Autosaves/Game/CustomContent/ProtoV4/BP_SolarPanelV4_Auto3.uasset'
+[2025.09.22-15.04.54:939][889]LogFileHelpers: Auto-saving content packages took 0.179
+[2025.09.22-15.05.19:724][313]Candidate modules for hot reload:
+[2025.09.22-15.05.19:724][313]  SunflowerFieldProto
+[2025.09.22-15.05.19:733][313]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=SunflowerFieldProto,8985 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk]
+[2025.09.22-15.05.19:739][313]Warning: Starting HotReload took  0.0s.
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=SunflowerFieldProto,8985 SunflowerFieldProtoEditor Win64 Development -Project="C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject" "C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/SunflowerFieldProto.uproject"  -IgnoreJunk
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Log file: C:\Users\lspitzdrev\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lspitzdrev\SunflowerProto).
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Building SunflowerFieldProtoEditor...
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Using Visual Studio 2022 14.44.35215 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-15.05.27:198][825]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;' in SunflowerFieldProtoEditor.Target.cs.
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [Upgrade]
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2025.09.22-15.05.27:199][825]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2025.09.22-15.05.27:199][825]CompilerResultsLog:   Requested 1.5 GB memory per action, 6.98 GB available: limiting max parallel actions to 4
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.09.22-15.05.27:199][825]CompilerResultsLog:   Storage capacity 40Gb
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: ---- Starting trace: 250922_170524 ----
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [1/4] Compile [x64] OpenCell.cpp
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-SunflowerFieldProto-8985.lib
+[2025.09.22-15.05.27:199][825]CompilerResultsLog:    Cr?ation de la biblioth?que C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8985.lib et de l'objet C:/Users/lspitzdrev/SunflowerProto/SunflowerProto/Intermediate/Build/Win64/x64/UnrealEditor/Development/SunflowerFieldProto/UnrealEditor-SunflowerFieldProto-8985.exp
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-SunflowerFieldProto-8985.dll
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: [4/4] WriteMetadata SunflowerFieldProtoEditor.target (UBA disabled)
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Trace written to file C:/Users/lspitzdrev/AppData/Local/UnrealBuildTool/Log.uba with size 3.4kb
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.03 seconds
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: 
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Result: Succeeded
+[2025.09.22-15.05.27:199][825]CompilerResultsLog: Total execution time: 7.15 seconds
+[2025.09.22-15.05.27:199][825]LogMainFrame: MainFrame: Module compiling took 7.487 seconds
+[2025.09.22-15.05.27:247][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.22-15.05.27:419][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.22-15.05.27:447][825]Display: HotReload took  7.7s.
+[2025.09.22-15.05.27:447][825]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged
+[2025.09.22-15.05.29:816][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.22-15.05.35:981][971]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-15.05.36:001][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-15.05.36:166][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4] ([2] browsable assets)...
+[2025.09.22-15.05.36:166][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomContent/ProtoV4/BP_SolarPanelV4]
+[2025.09.22-15.05.36:239][971]LogSavePackage: Moving output files for package: /Game/CustomContent/ProtoV4/BP_SolarPanelV4
+[2025.09.22-15.05.36:242][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/BP_SolarPanelV459718DC94E910714E71B97BFE897E3FE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/CustomContent/ProtoV4/BP_SolarPanelV4.uasset'
+[2025.09.22-15.05.36:280][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT
+[2025.09.22-15.05.36:282][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/J6AYUOFNKVKZONH1DE4EKT9E65A5D8410FA5C4588E0ABDFA649CA3.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WE/J6AYUOFNKVKZONH1DE4EKT.uasset'
+[2025.09.22-15.05.36:309][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI
+[2025.09.22-15.05.36:311][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Q7AGBEYVXAXT8PYHI7QRXIE65F6000458D3FD2DE3274BA0A9A2F8C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/Z9/Q7AGBEYVXAXT8PYHI7QRXI.uasset'
+[2025.09.22-15.05.44:924][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL
+[2025.09.22-15.05.44:925][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/UEGLKKNTI7Z9LWB4HY3UHL4D00F8F340760DE80D60AE98C775C850.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2S/UEGLKKNTI7Z9LWB4HY3UHL.uasset'
+[2025.09.22-15.05.44:957][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP
+[2025.09.22-15.05.44:959][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Y6A43CN3OC89QIG2H2OZNPC9C7677A4FF0BE1306DD32AE6BC94968.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/SZ/Y6A43CN3OC89QIG2H2OZNP.uasset'
+[2025.09.22-15.05.44:989][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF
+[2025.09.22-15.05.44:991][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QJJNTALROW0ENKT2U8W6BF911F26D446D6CB879741B6B8ED9D9FB4.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/J4/QJJNTALROW0ENKT2U8W6BF.uasset'
+[2025.09.22-15.05.45:022][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF
+[2025.09.22-15.05.45:024][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RQYPJK567Y8GX34OISHMYF37E472444C1A90B8AA3E4ABC89715B19.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/2W/RQYPJK567Y8GX34OISHMYF.uasset'
+[2025.09.22-15.05.45:054][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB
+[2025.09.22-15.05.45:056][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/RO7EJDYVTL7QKMOF1JYEYBAC0BF3D84F1337B296D39EBB60FD587A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/GL/RO7EJDYVTL7QKMOF1JYEYB.uasset'
+[2025.09.22-15.05.45:086][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ
+[2025.09.22-15.05.45:088][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6J65S8QIQRH26DZ7OSIDMQD9F4A9CE453BF5816211B88E61191033.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/TD/6J65S8QIQRH26DZ7OSIDMQ.uasset'
+[2025.09.22-15.05.45:122][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N
+[2025.09.22-15.05.45:124][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/65S3LE59HD0OZ47GY9M65NFBD86A3E438B22F9FD7055A36FFD54B2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/DB/65S3LE59HD0OZ47GY9M65N.uasset'
+[2025.09.22-15.05.45:156][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4
+[2025.09.22-15.05.45:158][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AAARJEIBEI9AXHGUS0QZM41047FA174533638D919B6CB0D39DF1D8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/LY/AAARJEIBEI9AXHGUS0QZM4.uasset'
+[2025.09.22-15.05.45:188][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7
+[2025.09.22-15.05.45:189][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0QJ3IRDL8TWIKQI1CIKH764D01B3D41ABE10705DFB89D428919E8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/TK/R0QJ3IRDL8TWIKQI1CIKH7.uasset'
+[2025.09.22-15.05.45:221][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW
+[2025.09.22-15.05.45:223][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VY0IAWCKFV7EKMXF7WGURW03CDF2DE4788BC978C9A999689852D3C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/QM/VY0IAWCKFV7EKMXF7WGURW.uasset'
+[2025.09.22-15.05.45:254][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3
+[2025.09.22-15.05.45:255][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/7B98H41FV7V69VVD6ZSBF3859518EE423260EF1FC24CA6DA891298.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/2X/7B98H41FV7V69VVD6ZSBF3.uasset'
+[2025.09.22-15.05.45:287][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9
+[2025.09.22-15.05.45:289][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FHNQ3IEV8C3H7CY3FS64B9E47DC33A493FFEB986E9338E539644D4.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/IG/FHNQ3IEV8C3H7CY3FS64B9.uasset'
+[2025.09.22-15.05.45:322][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO
+[2025.09.22-15.05.45:324][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/2ZCUK9ENVXANK24GMLE1NO2101C80F46978D2CB192A8869A9BD988.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/5A/2ZCUK9ENVXANK24GMLE1NO.uasset'
+[2025.09.22-15.05.45:355][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60
+[2025.09.22-15.05.45:357][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/N0HRVPE7NFIJ3Y7QMXRE60FA4F441E4C4A66C8F9CAAB834434CEBB.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/2S/N0HRVPE7NFIJ3Y7QMXRE60.uasset'
+[2025.09.22-15.05.45:387][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52
+[2025.09.22-15.05.45:389][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JWS8T5K0UKMY7N049YGD52833C551E4D97E27AD91FCDAD99522054.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/X8/JWS8T5K0UKMY7N049YGD52.uasset'
+[2025.09.22-15.05.45:420][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T
+[2025.09.22-15.05.45:422][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FW1QOSBBRT500K1CC6QO8T7D437E7D409316AE08AD7E8277EDC209.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/44/FW1QOSBBRT500K1CC6QO8T.uasset'
+[2025.09.22-15.05.45:453][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS
+[2025.09.22-15.05.45:455][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/HB9ZX7A17IOV345NUBSZCSACA884AE413B927D73D6228AC92E8316.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/W3/HB9ZX7A17IOV345NUBSZCS.uasset'
+[2025.09.22-15.05.45:485][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF
+[2025.09.22-15.05.45:487][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/49Q5FDU1Y616XIK34C7BUFFDB1C8F1408AF86C078911BF9E5AB7A8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/QN/49Q5FDU1Y616XIK34C7BUF.uasset'
+[2025.09.22-15.05.45:522][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM
+[2025.09.22-15.05.45:523][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FA2QKHA3W7ONSM5F8GMCLM82358CA9421475C5490A13A0C04BD51C.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/04/FA2QKHA3W7ONSM5F8GMCLM.uasset'
+[2025.09.22-15.05.45:554][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1
+[2025.09.22-15.05.45:555][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QKZRO77FA1QJN0LC1F2LG17DD0233A4257D69940A1ECB06DB747D2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/8/IG/QKZRO77FA1QJN0LC1F2LG1.uasset'
+[2025.09.22-15.05.45:586][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24
+[2025.09.22-15.05.45:588][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/8KRUK49LZ1OGV7WWICVC24AFCE600F43E59937445315A80924E078.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/YF/8KRUK49LZ1OGV7WWICVC24.uasset'
+[2025.09.22-15.05.45:621][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD
+[2025.09.22-15.05.45:623][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/V33S0RQMV630HKQ6TWT6SD2BBFE16E4A6240298FCC2C971F443C22.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/H3/V33S0RQMV630HKQ6TWT6SD.uasset'
+[2025.09.22-15.05.45:654][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH
+[2025.09.22-15.05.45:655][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JNIDLEI0SV9NLIKY28C0MHBD3761414E1C6BF7896A2A8C0A3741A1.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/DZ/JNIDLEI0SV9NLIKY28C0MH.uasset'
+[2025.09.22-15.05.45:685][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402
+[2025.09.22-15.05.45:687][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/VFCY1P2AN9I9G6UNX8Z40246412509421B8545975FF499CE8C9324.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/FM/VFCY1P2AN9I9G6UNX8Z402.uasset'
+[2025.09.22-15.05.45:719][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C
+[2025.09.22-15.05.45:721][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NHTD6CNAXUN8KJYWXWDC9C8178B7AF4362E101680C7EB15DAF02B4.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/TP/NHTD6CNAXUN8KJYWXWDC9C.uasset'
+[2025.09.22-15.05.45:752][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716
+[2025.09.22-15.05.45:755][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/1SZVOF5B9ZO7BSHQO3R716973A1C5243CFA0119814E18F346B5F66.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/WS/1SZVOF5B9ZO7BSHQO3R716.uasset'
+[2025.09.22-15.05.45:784][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK
+[2025.09.22-15.05.45:786][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GGH7VUPQGJVWO079SNJ1ZK79DE05744473446F786F908AD057BC32.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/KY/GGH7VUPQGJVWO079SNJ1ZK.uasset'
+[2025.09.22-15.05.45:809][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE
+[2025.09.22-15.05.45:811][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FOC0OUAGUZFV7IA0EKTUOE39FA4E784EC177A3A2423A8ED5937187.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/KL/FOC0OUAGUZFV7IA0EKTUOE.uasset'
+[2025.09.22-15.05.45:841][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU
+[2025.09.22-15.05.45:842][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3PW87UXXRG3HI0YWOKDNEU9C6283054BE50619A3923A8B2937ABB2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/N2/3PW87UXXRG3HI0YWOKDNEU.uasset'
+[2025.09.22-15.05.45:874][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2
+[2025.09.22-15.05.45:876][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/37JPW7S4MW6S6T2TOGD3F252FF66B447181CB271A55B9738750BA2.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/WC/37JPW7S4MW6S6T2TOGD3F2.uasset'
+[2025.09.22-15.05.45:907][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW
+[2025.09.22-15.05.45:909][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/WVRLTN81CHET83D9HOEWRW2E0751BB423244AFC5747798E0627549.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/T1/WVRLTN81CHET83D9HOEWRW.uasset'
+[2025.09.22-15.05.45:938][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58
+[2025.09.22-15.05.45:941][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/NYADV2FPU6GX4G4MIFTZ58BCC2F2D147C689CCB0888CA3EFECDD08.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/NI/NYADV2FPU6GX4G4MIFTZ58.uasset'
+[2025.09.22-15.05.45:972][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA
+[2025.09.22-15.05.45:974][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/GU9SZ927HUK23N84MT0WCA8616746A42E22DB422C0AC8A4F17DFD6.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/5/MI/GU9SZ927HUK23N84MT0WCA.uasset'
+[2025.09.22-15.05.46:004][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK
+[2025.09.22-15.05.46:006][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/6I20LJC8PVCITZ2FWBEJKKA9105EA5459DCB141A629CAF3E0745F8.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/6/0F/6I20LJC8PVCITZ2FWBEJKK.uasset'
+[2025.09.22-15.05.46:032][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8
+[2025.09.22-15.05.46:033][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZMCD32PTO8GQRL16B2GKS880F680B34EA8326A6F1AFDA58EF0EF5E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/9A/ZMCD32PTO8GQRL16B2GKS8.uasset'
+[2025.09.22-15.05.46:064][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL
+[2025.09.22-15.05.46:066][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FMSTQRJO9K9L8DOHYGQRELEE76F5A14763E57989ACEFB9052DDFAC.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AH/FMSTQRJO9K9L8DOHYGQREL.uasset'
+[2025.09.22-15.05.46:099][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N
+[2025.09.22-15.05.46:101][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/ZBOV54U67PZ5B794VHTX6N1D0F296D437577552665549E2F0D7B11.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/KI/ZBOV54U67PZ5B794VHTX6N.uasset'
+[2025.09.22-15.05.46:134][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E
+[2025.09.22-15.05.46:136][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/CC1CR3BKSM757IHDT6ER4E052C0D574D4DE53D82BE4AB623513217.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/HZ/CC1CR3BKSM757IHDT6ER4E.uasset'
+[2025.09.22-15.05.46:168][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H
+[2025.09.22-15.05.46:169][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/K800TSA5O25BCEO7IOBI6H875A60744F4D7E3CFDF0AA86E111DE29.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/NN/K800TSA5O25BCEO7IOBI6H.uasset'
+[2025.09.22-15.05.46:201][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S
+[2025.09.22-15.05.46:203][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/JBMB172ZGUJM1XOU809E5S276F4A094B1F163EB186E09EA5B9449A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/J9/JBMB172ZGUJM1XOU809E5S.uasset'
+[2025.09.22-15.05.46:236][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z
+[2025.09.22-15.05.46:238][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4XFE9NN7GC04PKJFUVZC7Z9E61EDFC4C4500C568F355AB6528CD6A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/RR/4XFE9NN7GC04PKJFUVZC7Z.uasset'
+[2025.09.22-15.05.46:269][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0
+[2025.09.22-15.05.46:271][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/4ETZM4JZNE8SDTWPYB07V08921A1534909260A3A3D97819F430355.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/0X/4ETZM4JZNE8SDTWPYB07V0.uasset'
+[2025.09.22-15.05.46:302][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV
+[2025.09.22-15.05.46:304][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/602A9MRDZUDSR69O06SFAV894D2B8C41226DD3D2FFCDA07D14113B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/7/R1/602A9MRDZUDSR69O06SFAV.uasset'
+[2025.09.22-15.05.46:338][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE
+[2025.09.22-15.05.46:339][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SBNDUBOECCC2TUI11BLCNE00E598964C1A4343279C14AE7DF61B7A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/FP/SBNDUBOECCC2TUI11BLCNE.uasset'
+[2025.09.22-15.05.46:371][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH
+[2025.09.22-15.05.46:372][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QH615OPRH7SA0P6XW2FELH4CDE58534F2E257C7347ABA57E297424.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/21/QH615OPRH7SA0P6XW2FELH.uasset'
+[2025.09.22-15.05.46:403][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL
+[2025.09.22-15.05.46:405][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/W1W83L9K0ZFA2Q2ZTZ72IL71872366470A09AEDC2B8A958F8F284F.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/4Y/W1W83L9K0ZFA2Q2ZTZ72IL.uasset'
+[2025.09.22-15.05.46:435][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB
+[2025.09.22-15.05.46:437][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/R0MXV1R8OHFZ40SW0IH3TB1C34045D40386CB412836380F0ACE01A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/40/R0MXV1R8OHFZ40SW0IH3TB.uasset'
+[2025.09.22-15.05.46:467][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK
+[2025.09.22-15.05.46:468][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/Z8W8XN9R3D9BU0KOVIA4FK4BBE02A743D10E7F52FD478609BA27AD.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/08/Z8W8XN9R3D9BU0KOVIA4FK.uasset'
+[2025.09.22-15.05.46:500][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE
+[2025.09.22-15.05.46:501][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/KZU2WBHHSWKVQD9Q9YSTKEE1B57F5343322BA0E8C5438E9CE3FE3A.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/1K/KZU2WBHHSWKVQD9Q9YSTKE.uasset'
+[2025.09.22-15.05.46:535][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D
+[2025.09.22-15.05.46:537][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/LQ3TBN6LPA8HJGKD9NIA3D45308DFB49FC6FDC1924D8A1FE4C8E64.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/DL/LQ3TBN6LPA8HJGKD9NIA3D.uasset'
+[2025.09.22-15.05.46:569][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3
+[2025.09.22-15.05.46:571][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/60ZSQ0OMGYVC7D69SK0EO3AF1A76DE415AF15B9CCBE992C931511B.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/3/OJ/60ZSQ0OMGYVC7D69SK0EO3.uasset'
+[2025.09.22-15.05.46:602][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87
+[2025.09.22-15.05.46:603][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SJJN39PBXW7DV7RA237L876E8FB3BD432AEB6522E3A58D4BF443E1.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/A/LI/SJJN39PBXW7DV7RA237L87.uasset'
+[2025.09.22-15.05.46:635][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH
+[2025.09.22-15.05.46:637][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SH3K7FZ3RSJYSTBIL6P5OH8B483193476B9B2CD1B99381968F5BFE.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/E/XN/SH3K7FZ3RSJYSTBIL6P5OH.uasset'
+[2025.09.22-15.05.46:668][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI
+[2025.09.22-15.05.46:669][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/QGYVX1HY474SDATLE0YMCID9A7AC354A98D5047C722B9A865DEA6E.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/B/AP/QGYVX1HY474SDATLE0YMCI.uasset'
+[2025.09.22-15.05.46:699][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN
+[2025.09.22-15.05.46:702][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/FUE7T6YQUZC7FGODAMIQYNE68FBFA24ED0DB0EC45FFFA026A9FE28.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/V7/FUE7T6YQUZC7FGODAMIQYN.uasset'
+[2025.09.22-15.05.46:733][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N
+[2025.09.22-15.05.46:735][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/AY2VCT88HBYOQNWKXNEQ6NC79FF3DE4590B43819900A8CA6C018E9.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/4/50/AY2VCT88HBYOQNWKXNEQ6N.uasset'
+[2025.09.22-15.05.46:766][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1
+[2025.09.22-15.05.46:768][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/YXQOATCOMOZ4XLTKQ4V2P19086405142B5653BDA8FDF872E719008.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/C/EA/YXQOATCOMOZ4XLTKQ4V2P1.uasset'
+[2025.09.22-15.05.46:798][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP
+[2025.09.22-15.05.46:799][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/TCEZ8WTXJ7VGEOBFGS1HDP49E75491415084F2027C6BA4C64144AA.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/D/BI/TCEZ8WTXJ7VGEOBFGS1HDP.uasset'
+[2025.09.22-15.05.46:830][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29
+[2025.09.22-15.05.46:831][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/I138NC14OR2QYNUNZDGL29C088D9624E34759FE1459093C7A06B76.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/1/0Q/I138NC14OR2QYNUNZDGL29.uasset'
+[2025.09.22-15.05.46:862][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR
+[2025.09.22-15.05.46:864][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/XRVJPT3702CS8RBOD16XNRED0B7D81469D5530A02FFD9AA91EBA59.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/0/A7/XRVJPT3702CS8RBOD16XNR.uasset'
+[2025.09.22-15.05.46:893][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01
+[2025.09.22-15.05.46:896][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/U4LLKTMPDVJZIORTYQ2T015F7D7C7E43465993B332109D2BAF1E61.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/9/AW/U4LLKTMPDVJZIORTYQ2T01.uasset'
+[2025.09.22-15.05.46:927][971]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU
+[2025.09.22-15.05.46:929][971]LogSavePackage: Moving '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/3KNW0NI3Y2LZJPZ06VDCZUD1E4EA054332F16396A086BC34F26D02.tmp' to '../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Content/__ExternalActors__/CustomContent/ProtoV4/L_ProtoV4/2/W9/3KNW0NI3Y2LZJPZ06VDCZU.uasset'
+[2025.09.22-15.05.46:945][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.9 sec (total: 11.6 sec)
+[2025.09.22-15.05.47:223][971]LogStall: Shutdown...
+[2025.09.22-15.05.47:223][971]LogStall: Shutdown complete.
+[2025.09.22-15.05.47:367][971]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.47:368][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.47:501][971]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-15.05.47:501][971]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.47:501][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.47:618][971]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-15.05.47:618][971]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.47:618][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.48:313][971]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-15.05.48:315][971]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.48:315][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.48:549][971]LogSlate: Window 'SunflowerFieldProto - Unreal Editor' being destroyed
+[2025.09.22-15.05.48:551][971]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.09.22-15.05.48:833][971]LogContentValidation: Display: Starting to validate 73 assets
+[2025.09.22-15.05.48:833][971]LogContentValidation: Enabled validators:
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-15.05.48:833][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-15.05.48:833][971]AssetCheck: /Game/CustomContent/ProtoV4/BP_SolarPanelV4 Validating asset
+[2025.09.22-15.05.48:833][971]AssetCheck: /Game/CustomContent/ProtoV4/L_ProtoV4 Validating asset
+[2025.09.22-15.05.48:924][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.22-15.05.48:981][971]Cmd: QUIT_EDITOR
+[2025.09.22-15.05.48:981][971]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.22-15.05.48:994][971]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lspitzdrev/SunflowerProto/SunflowerProto/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-15.05.49:020][972]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.22-15.05.49:021][972]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.22-15.05.49:021][972]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.22-15.05.49:048][972]LogWorld: UWorld::CleanupWorld for L_ProtoV4, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.49:049][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.49:049][972]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CustomContent/ProtoV4/L_ProtoV4.L_ProtoV4
+[2025.09.22-15.05.49:114][972]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.22-15.05.49:115][972]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.22-15.05.49:116][972]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.22-15.05.49:122][972]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.49:122][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.49:125][972]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.49:125][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.49:129][972]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.49:129][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.49:133][972]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-15.05.49:133][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-15.05.49:140][972]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.22-15.05.49:140][972]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.22-15.05.49:148][972]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.22-15.05.49:489][972]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.22-15.05.49:489][972]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.22-15.05.49:489][972]LogAudio: Display: Audio Device unregistered from world 'L_ProtoV4'.
+[2025.09.22-15.05.49:489][972]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.22-15.05.49:489][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.22-15.05.49:492][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.22-15.05.49:505][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.22-15.05.49:505][972]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.22-15.05.49:509][972]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.22-15.05.49:511][972]LogExit: Preparing to exit.
+[2025.09.22-15.05.49:618][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.49:622][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-15.05.50:922][972]LogEditorDataStorage: Deinitializing
+[2025.09.22-15.05.51:140][972]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.22-15.05.51:854][972]LogExit: Editor shut down
+[2025.09.22-15.05.51:873][972]LogExit: Transaction tracking system shut down
+[2025.09.22-15.05.52:297][972]LogExit: Object subsystem successfully closed.
+[2025.09.22-15.05.52:368][972]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.22-15.05.52:785][972]LogMemoryProfiler: Shutdown
+[2025.09.22-15.05.52:786][972]LogNetworkingProfiler: Shutdown
+[2025.09.22-15.05.52:786][972]LoadingProfiler: Shutdown
+[2025.09.22-15.05.52:786][972]LogTimingProfiler: Shutdown
+[2025.09.22-15.05.52:791][972]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.22-15.05.52:791][972]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.22-15.05.53:334][972]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.22-15.05.53:349][972]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.22-15.05.53:349][972]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50A883B6-4F8C-8B29-DB72-448FB7841FA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=8cda99f2406f4339d62326ab3021f500%7C098e878ed3ed4e92acf52d0430701fca%7Cae3185b1-571f-41f0-aad4-a248dbfe130c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.22-15.05.53:907][972]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.22-15.05.53:908][972]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.22-15.05.53:909][972]RenderDocPlugin: plugin has been unloaded.
+[2025.09.22-15.05.53:919][972]LogXGEController: Cleaning working directory: C:/Users/lspitzdrev/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.09.22-15.05.53:926][972]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.22-15.05.53:926][972]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.22-15.05.53:926][972]LogPakFile: Destroying PakPlatformFile
+[2025.09.22-15.05.54:718][972]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.22-15.05.54:757][972]LogExit: Exiting.
+[2025.09.22-15.05.54:824][972]Log file closed, 09/22/25 17:05:54

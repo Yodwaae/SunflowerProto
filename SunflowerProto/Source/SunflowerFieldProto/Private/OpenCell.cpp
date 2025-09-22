@@ -12,9 +12,11 @@ UOpenCell::UOpenCell()
 	PrimaryComponentTick.bCanEverTick = true;
 
 	// Initialisation
+	// TODO Need all of this only if I use InitBoxExtent which ignore scale, if I instead use setBoxExtent scale is taken into account
+	// TODO Also InitBoxExtent use only half size
 	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
 	const FVector BoxExtent = Scale * 1000;
-	const FVector BoxLocation = BoxExtent * FVector(.5f, -.5f, 0);
+	const FVector BoxLocation = BoxExtent * FVector(1, -1, 0);
 	
 	
 	// Setting Up TriggerBox
