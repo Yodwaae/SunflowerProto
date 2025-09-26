@@ -18,6 +18,6 @@ public:
 
 	// Cell Size used by tetro pieces and playing grid
 	UPROPERTY(EditAnywhere, Config, Category="Grid Settings")
-	FVector CellSize = FVector(1, 1, 1);
+	FVector CellSize = FVector(.05f, .05f, .01f);
 	
 };
