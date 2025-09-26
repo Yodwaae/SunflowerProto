@@ -7,10 +7,7 @@
 // Sets default values
 APlayingGrid::APlayingGrid()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
-	// Create a root component
 	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("Root"));
 }
 
@@ -18,7 +15,7 @@ void APlayingGrid::OnConstruction(const FTransform& Transform)
 {
 	Super::OnConstruction(Transform);
 
-	// Create or Update the Grid
+	// Create and/or Update the Grid
 	if (!HasGridBeenCreated)
 		CreateGrid();
 	DrawGrid();
@@ -36,7 +33,7 @@ void APlayingGrid::DrawGrid()
 			const UGridCell* Cell = GridCells[Index];
 
 			// If Cell is in the playing field hide it, otherwise show it
-			Cell->HideCell(IsInPlayingField(x, y));
+			Cell->HideCell(IsInPlayingField({x, y}));
 		}
 	}
 }
@@ -53,12 +50,11 @@ void APlayingGrid::CreateGrid()
 		for (int y = 0; y < MaxGridHeight; y++)
 		{
 			// Create and place the cell
-			// Note : No security check because i'd rather the program crash if creation failed than it keeps going with an invalid grid in consequence
+			// Note: No security check because i'd rather the program crash if creation failed than it keeps going with an invalid grid in consequence
 			UGridCell* Cell = NewObject<UGridCell>(this, UGridCell::StaticClass());
 			Cell->SetupAttachment(RootComponent);
 			Cell->SetRelativeLocation(FVector(y * 100.f, -x * 100.f, 0.0f) * Scale);
 			GridCells.Add(Cell);
-
 		}
 	}
 }

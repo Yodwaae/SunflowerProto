@@ -11,24 +11,42 @@ UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class SUNFLOWERFIELDPROTO_API UGridCell : public USceneComponent
 {
 	GENERATED_BODY()
-
-public:	
-	// Sets default values for this component's properties
-	UGridCell();
 	
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	bool IsOpen;
+#pragma region ========== VARIABLES ==========
 
-protected:
-	// Called when the game starts
-	virtual void BeginPlay() override;
-
-	UPROPERTY(EditAnywhere)
-	UStaticMeshComponent* CellMesh;
-
-public:	
-	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	protected:
+		
+		UPROPERTY(EditAnywhere)
+		UStaticMeshComponent* CellMesh;
 	
-	void HideCell(const bool bNewHidden) const;
+	public:	
+		
+		UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		bool IsOpen;
+
+
+#pragma endregion
+
+#pragma region ========== FUNCTIONS ==========
+
+	protected:
+		virtual void BeginPlay() override;
+		
+	public:
+
+	#pragma region ===== UE FUNCTIONS =====
+	
+		UGridCell();
+		virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
+	#pragma endregion
+
+	#pragma region ===== CUSTOM FUNCTIONS ========
+	
+		void HideCell(const bool bNewHidden) const;
+	
+	#pragma endregion
+
+#pragma endregion
+
 };
