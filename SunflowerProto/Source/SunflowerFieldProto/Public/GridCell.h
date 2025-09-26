@@ -15,10 +15,16 @@ class SUNFLOWERFIELDPROTO_API UGridCell : public USceneComponent
 public:	
 	// Sets default values for this component's properties
 	UGridCell();
+	
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	bool IsOpen;
 
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+
+	UPROPERTY(EditAnywhere)
+	UStaticMeshComponent* CellMesh;
 
 public:	
 	// Called every frame

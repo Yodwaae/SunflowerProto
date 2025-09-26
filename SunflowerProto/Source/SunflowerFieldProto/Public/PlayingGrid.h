@@ -14,7 +14,6 @@ class SUNFLOWERFIELDPROTO_API APlayingGrid : public AActor
 public:	
 	// Sets default values for this actor's properties
 	APlayingGrid();
-	virtual void OnConstruction(const FTransform& Transform) override;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true"))
 	bool IsEven = true;
@@ -23,16 +22,20 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="PlayingGrid", meta=(ExposeOnSpawn="true", ClampMin=1, ClampMax=8))
 	int32 GridHeight = 1;
 
+private:
+	
+	UPROPERTY(EditAnywhere, Category="PlayingGrid")
+	int32 MaxGridWidth = 10;
+	UPROPERTY(EditAnywhere, Category="PlayingGrid")
+	int32 MaxGridHeight = 10;
+	
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="PlayingGrid")
-	UStaticMeshComponent* Cube;
-
-
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	virtual void OnConstruction(const FTransform& Transform) override;
+	
 };

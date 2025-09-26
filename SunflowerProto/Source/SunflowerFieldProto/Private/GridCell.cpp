@@ -7,12 +7,25 @@
 // Sets default values for this component's properties
 UGridCell::UGridCell()
 {
-	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
-	// off to improve performance if you don't need them.
-	PrimaryComponentTick.bCanEverTick = true;
+	// I don't think I need the ticking
+	PrimaryComponentTick.bCanEverTick = false;
 
+	// Initialisation
+	static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeAsset(TEXT("/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube"));
+	
+	// Only temporary, because the custom assets should be the right size and won't need to be scaled
 	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
 	this->SetWorldScale3D(Scale);
+	
+	// Adding the StaticMesh
+	CellMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Cube"));
+	CellMesh->SetupAttachment(this);
+	if (CubeAsset.Succeeded()){
+		CellMesh->SetStaticMesh(CubeAsset.Object);}
+	
+	// IMP Does not take into consideration the scale
+	CellMesh->SetRelativeLocation(FVector(50, -50, 0));
+	
 }
 
 
