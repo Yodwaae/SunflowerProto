@@ -4,6 +4,30 @@
 #include "GridCell.h"
 #include "GridSettings.h"
 
+/*
+Tried to directly add the static mesh to the actor to get rid of the 1 sec freeze when adding to the scene/selecting in editor, DIDNT WORK
+
+What I am thinking now is, don't use a custom component instead :
+
+	- Create a trigger box for 'empty' cell
+	    - Or for that I still use a customComp, but it'll be lightweight, that way I can put info directly in the comp like coord in the grid
+	    - My Array size is set at Construction and will only be gridHeight*gridWidth as I don't care about keeping a ref to closed cell, that way I almost already have
+	    my 'logic' struct for checking the puzzle
+	    - Furthermore that way cell pos and index in the array are decoupled, I can have a cell be a (2,2) in the grid but be the (0,0) in the playing field
+
+	    - That way I could create every open cell before hand then after placed them by looping the array, while on the other hand I construct the instantiated array for the closed cell
+	    - Both logic would be completely independant
+	    
+	- Create an instantiated mesh with all the closed cell (using a cube static mesh before custom model)
+	- Add an onchange on the grid value that will re-trigger the creation of the instanciated mesh instead of in OnConstruction
+	- Optionnaly don't do that and display the correct grid only in play mode, not in editor
+
+	- With all of that in mind I'd then need to do the variant with even and odd grid size, propably using two different USceneComp as starting points
+	and with 2 different assets for the frame (one thinner than the other)
+	
+ */
+
+
 // Sets default values
 APlayingGrid::APlayingGrid()
 {
