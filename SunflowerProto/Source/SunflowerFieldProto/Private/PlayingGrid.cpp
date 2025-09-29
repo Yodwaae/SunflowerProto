@@ -3,17 +3,18 @@
 #include "PlayingGrid.h"
 #include "GridCell.h"
 #include "GridSettings.h"
+#include "Components/BoxComponent.h"
 
 /*
 Tried to directly add the static mesh to the actor to get rid of the 1 sec freeze when adding to the scene/selecting in editor, DIDNT WORK
 
 What I am thinking now is, don't use a custom component instead :
 
-	- Create a trigger box for 'empty' cell
+	|- Create a trigger box for 'empty' cell
 	    - Or for that I still use a customComp, but it'll be lightweight, that way I can put info directly in the comp like coord in the grid
-	    - My Array size is set at Construction and will only be gridHeight*gridWidth as I don't care about keeping a ref to closed cell, that way I almost already have
+	    |- My Array size is set at Construction and will only be PlayingFieldHeight*PlayingFieldWidth as I don't care about keeping a ref to closed cell, that way I almost already have
 	    my 'logic' struct for checking the puzzle
-	    - Furthermore that way cell pos and index in the array are decoupled, I can have a cell be a (2,2) in the grid but be the (0,0) in the playing field
+	    |- Furthermore that way cell pos and index in the array are decoupled, I can have a cell be a (2,2) in the grid but be the (0,0) in the playing field
 
 	    - That way I could create every open cell before hand then after placed them by looping the array, while on the other hand I construct the instantiated array for the closed cell
 	    - Both logic would be completely independant
@@ -33,6 +34,8 @@ APlayingGrid::APlayingGrid()
 {
 	PrimaryActorTick.bCanEverTick = true;
 	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("Root"));
+	
+	
 }
 
 void APlayingGrid::OnConstruction(const FTransform& Transform)
@@ -42,7 +45,7 @@ void APlayingGrid::OnConstruction(const FTransform& Transform)
 	// Create and/or Update the Grid
 	if (!HasGridBeenCreated)
 		CreateGrid();
-	DrawGrid();
+	//DrawGrid();
 }
 
 void APlayingGrid::DrawGrid()
@@ -67,7 +70,33 @@ void APlayingGrid::CreateGrid()
 	// Initialisation
 	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
 	HasGridBeenCreated = true;
+
+
+	// Create triggers for playing field
+	for (int x = 0; x < PlayingFieldWidth; x++)
+	{
+		for (int y = 0; y < PlayingFieldHeight; y++)
+		{
+			//TODO Improving by removing hardcoded values and dividing up the line coord calculation
+
+			// Creation
+			UBoxComponent* TriggerBox = NewObject<UBoxComponent>(this, UBoxComponent::StaticClass());
+			TriggerBox->SetupAttachment(RootComponent);
+			TriggerBox->RegisterComponent();
+
+			// Transform
+			TriggerBox->InitBoxExtent(FVector(.25f, .25f, .01f));
+			TriggerBox->SetRelativeLocation(FVector( (PlayingFieldStartingX + y) * .25f, -(PlayingFieldStartingY + x) * .25f, 0.f) * Scale);
+
+			// Overlap
+			TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
+			TriggerBox->SetGenerateOverlapEvents(true);
+			
+			PlayingFieldCells.Add(TriggerBox);
+		}
+	}
 	
+	/*
 	// Creating Grid
 	for (int x = 0; x < MaxGridWidth; x++)
 	{
@@ -81,6 +110,7 @@ void APlayingGrid::CreateGrid()
 			GridCells.Add(Cell);
 		}
 	}
+	*/
 }
 
 void APlayingGrid::BeginPlay()

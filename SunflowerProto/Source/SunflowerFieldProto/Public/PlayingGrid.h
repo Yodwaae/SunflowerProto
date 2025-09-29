@@ -1,10 +1,12 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
+#include "GridCell.h"
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "GridCell.h"
+#include "Components/BoxComponent.h"
+
 #include "PlayingGrid.generated.h"
 
 UCLASS()
@@ -44,6 +46,8 @@ class SUNFLOWERFIELDPROTO_API APlayingGrid : public AActor
 		bool HasGridBeenCreated = false;
 		UPROPERTY(EditAnywhere, Category="PlayingGrid")
 		TArray<UGridCell*> GridCells;
+		UPROPERTY(EditAnywhere, Category="PlayingGrid")
+		TArray<UBoxComponent*> PlayingFieldCells;
 
 	#pragma endregion
 
