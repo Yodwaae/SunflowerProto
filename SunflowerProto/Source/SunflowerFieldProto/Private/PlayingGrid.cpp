@@ -68,7 +68,8 @@ void APlayingGrid::DrawGrid()
 void APlayingGrid::CreateGrid()
 {
 	// Initialisation
-	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
+	const FVector CellScale = GetDefault<UGridSettings>()->CellScale; // Not sure if I still need that
+	const FVector CellSize = GetDefault<UGridSettings>()->CellSize; // Since cells will always be square could instead store a float and a separate one for thickness
 	HasGridBeenCreated = true;
 
 
@@ -85,8 +86,11 @@ void APlayingGrid::CreateGrid()
 			TriggerBox->RegisterComponent();
 
 			// Transform
-			TriggerBox->InitBoxExtent(FVector(.25f, .25f, .01f));
-			TriggerBox->SetRelativeLocation(FVector( (PlayingFieldStartingX + y) * .25f, -(PlayingFieldStartingY + x) * .25f, 0.f) * Scale);
+			const float CellX = (PlayingFieldStartingX + y) * CellSize.X;
+			const float CellY = -(PlayingFieldStartingY + x) * CellSize.Y;
+
+			TriggerBox->InitBoxExtent(CellSize);
+			TriggerBox->SetRelativeLocation(FVector(CellX, CellY, 0.f));
 
 			// Overlap
 			TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));

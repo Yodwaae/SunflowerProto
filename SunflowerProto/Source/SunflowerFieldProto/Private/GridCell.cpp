@@ -12,7 +12,7 @@ UGridCell::UGridCell()
 	static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeAsset(TEXT("/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube"));
 	
 	// Only temporary, because the custom assets should be the right size and won't need to be scaled
-	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
+	const FVector Scale = GetDefault<UGridSettings>()->CellScale;
 	this->SetWorldScale3D(Scale);
 	
 	// Adding the StaticMesh
