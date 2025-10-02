@@ -1,6 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
 #include "GridCell.h"
 #include "GridSettings.h"
 
@@ -8,27 +5,27 @@
 UGridCell::UGridCell()
 {
 	// Initialisation
-	PrimaryComponentTick.bCanEverTick = false;
-	static ConstructorHelpers::FObjectFinder<UStaticMesh> CubeAsset(TEXT("/Game/StarterContent/Shapes/Shape_Cube.Shape_Cube"));
+	PrimaryComponentTick.bCanEverTick = true;
 	
 	// Only temporary, because the custom assets should be the right size and won't need to be scaled
 	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
-	this->SetWorldScale3D(Scale);
+
+	TriggerBox = CreateDefaultSubobject<UBoxComponent>(TEXT("TriggerBox"));
+	TriggerBox->SetupAttachment(this);
+
+	// Transform
+	TriggerBox->InitBoxExtent(FVector(100.f, 100.f, 100.f));
+	TriggerBox->SetRelativeLocation(FVector( .25f, -.25f, 0.f));
+
+	// Overlap 
+	TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
+	TriggerBox->SetGenerateOverlapEvents(true);
 	
-	// Adding the StaticMesh
-	CellMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Cube"));
-	CellMesh->SetupAttachment(this);
-	if (CubeAsset.Succeeded()){
-		CellMesh->SetStaticMesh(CubeAsset.Object);}
-	
-	// IMP Does not take into consideration the scale
-	CellMesh->SetRelativeLocation(FVector(50, -50, 0));
 }
 
-void UGridCell::HideCell(bool const bNewHidden) const
-{
-	CellMesh->SetHiddenInGame(bNewHidden);
-	CellMesh->SetVisibility(!bNewHidden);
+void UGridCell::HideCell(bool const bNewHidden){
+	this->SetHiddenInGame(bNewHidden);
+	this->SetVisibility(!bNewHidden);
 }
 
 // Called when the game starts

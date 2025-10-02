@@ -70,7 +70,7 @@ class SUNFLOWERFIELDPROTO_API APlayingGrid : public AActor
 
 	#pragma region ===== CUSTOM FUNCTIONS =====	
 		void CreateGrid();
-		void DrawGrid();
+		//void DrawGrid();
 
 		#pragma region === INLINE FUNCTIONS ====
 		

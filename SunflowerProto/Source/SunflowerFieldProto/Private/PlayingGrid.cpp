@@ -35,7 +35,6 @@ APlayingGrid::APlayingGrid()
 	PrimaryActorTick.bCanEverTick = true;
 	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("Root"));
 	
-	
 }
 
 void APlayingGrid::OnConstruction(const FTransform& Transform)
@@ -48,7 +47,7 @@ void APlayingGrid::OnConstruction(const FTransform& Transform)
 	//DrawGrid();
 }
 
-void APlayingGrid::DrawGrid()
+/*void APlayingGrid::DrawGrid()
 {
 	// Loop through each cell in the grid
 	for (int x = 0; x < MaxGridWidth; x++)
@@ -63,7 +62,7 @@ void APlayingGrid::DrawGrid()
 			Cell->HideCell(IsInPlayingField({x, y}));
 		}
 	}
-}
+}*/
 
 void APlayingGrid::CreateGrid()
 {
@@ -80,19 +79,19 @@ void APlayingGrid::CreateGrid()
 			//TODO Improving by removing hardcoded values and dividing up the line coord calculation
 
 			// Creation
-			UBoxComponent* TriggerBox = NewObject<UBoxComponent>(this, UBoxComponent::StaticClass());
+			UGridCell* TriggerBox = NewObject<UGridCell>(this, UGridCell::StaticClass());
 			TriggerBox->SetupAttachment(RootComponent);
 			TriggerBox->RegisterComponent();
 
 			// Transform
-			TriggerBox->InitBoxExtent(FVector(.25f, .25f, .01f));
+			//TriggerBox->InitBoxExtent(FVector(.25f, .25f, .01f));
 			TriggerBox->SetRelativeLocation(FVector( (PlayingFieldStartingX + y) * .25f, -(PlayingFieldStartingY + x) * .25f, 0.f) * Scale);
 
-			// Overlap
-			TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
-			TriggerBox->SetGenerateOverlapEvents(true);
+			// Overlap 
+			//TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
+			//TriggerBox->SetGenerateOverlapEvents(true);
 			
-			PlayingFieldCells.Add(TriggerBox);
+			GridCells.Add(TriggerBox);
 		}
 	}
 	
