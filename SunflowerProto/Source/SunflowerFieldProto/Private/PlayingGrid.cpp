@@ -67,7 +67,8 @@ void APlayingGrid::OnConstruction(const FTransform& Transform)
 void APlayingGrid::CreateGrid()
 {
 	// Initialisation
-	const FVector Scale = GetDefault<UGridSettings>()->CellSize;
+	const FVector CellScale = GetDefault<UGridSettings>()->CellScale; // Not sure if I still need that
+	const FVector CellSize = GetDefault<UGridSettings>()->CellSize; // Since cells will always be square could instead store a float and a separate one for thickness
 	HasGridBeenCreated = true;
 
 
