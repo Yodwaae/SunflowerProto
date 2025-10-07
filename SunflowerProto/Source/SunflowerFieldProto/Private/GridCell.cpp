@@ -20,6 +20,11 @@ UGridCell::UGridCell()
 	// Overlap 
 	TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
 	TriggerBox->SetGenerateOverlapEvents(true);
+
+	TriggerBox->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
+	TriggerBox->SetCollisionObjectType(ECC_GameTraceChannel1); // ton canal de trace
+	TriggerBox->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+	TriggerBox->SetCollisionResponseToChannel(ECC_GameTraceChannel1, ECollisionResponse::ECR_Block);
 	
 }
 

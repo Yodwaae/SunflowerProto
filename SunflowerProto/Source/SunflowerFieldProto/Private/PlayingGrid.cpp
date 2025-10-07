@@ -86,7 +86,7 @@ void APlayingGrid::CreateGrid()
 
 			// Transform
 			//TriggerBox->InitBoxExtent(FVector(.25f, .25f, .01f));
-			TriggerBox->SetRelativeLocation(FVector( (PlayingFieldStartingX + y) * .25f, -(PlayingFieldStartingY + x) * .25f, 0.f) * Scale);
+			TriggerBox->SetRelativeLocation(FVector( (PlayingFieldStartingX + y) * .25f, -(PlayingFieldStartingY + x) * .25f, 0.f) * CellScale);
 
 			// Overlap 
 			//TriggerBox->SetCollisionProfileName(TEXT("PlayingField"));
